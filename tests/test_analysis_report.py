@@ -7,7 +7,7 @@ import unittest
 from galafresh_baldwin.analysis import build_daily_summary, build_price_change_history
 from galafresh_baldwin.catalog_history import build_catalog_history
 from galafresh_baldwin.parsers import normalize_catalog_product, normalize_promotions
-from galafresh_baldwin.report import build_reports
+from galafresh_baldwin.report import ANALYTICS_MEASUREMENT_ID, build_reports
 from galafresh_baldwin.storage import write_snapshot_bundle
 
 
@@ -104,6 +104,11 @@ class AnalysisReportTests(unittest.TestCase):
             build_reports(snapshots, docs)
             for name in ("index.html", "daily-report.html", "weekly-report.html", "price-changes.html", "catalog.html", "catalog-history.html", "METHODOLOGY.html"):
                 self.assertTrue((docs / name).exists())
+                if name != "catalog-history.html":
+                    self.assertIn('src="assets/analytics.js?v=research-1.0"', (docs / name).read_text())
+            analytics_js = (docs / "assets/analytics.js").read_text()
+            self.assertIn(ANALYTICS_MEASUREMENT_ID, analytics_js)
+            self.assertIn('traffic_context: window.self === window.top ? "direct" : "embedded"', analytics_js)
             catalog_html = (docs / "catalog.html").read_text()
             catalog_js = (docs / "assets/catalog.js").read_text()
             self.assertIn('<dd id="total-items">3</dd>', catalog_html)

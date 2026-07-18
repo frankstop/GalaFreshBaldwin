@@ -24,6 +24,10 @@ The pipeline has three boundaries:
 
 Acquisition, parsing, discovery, models, validation, storage, analysis, catalog history, and rendering are separate modules under `galafresh_baldwin/`. See [Architecture](docs/ARCHITECTURE.md), [Data dictionary](docs/DATA_DICTIONARY.md), and [Methodology](docs/METHODOLOGY.md).
 
+## Analytics
+
+The published GitHub Pages reports use Google Analytics 4 measurement ID `G-RSVR6Y389R` for page-view analytics. Each view is labeled as `direct` or `embedded`; analytics is limited to the published reporting interface and is not part of catalog collection or research processing.
+
 ## Commands
 
 Requires Python 3.11+.

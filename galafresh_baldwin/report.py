@@ -10,6 +10,33 @@ from .price_changes_page import PRICE_CHANGES_SCRIPT, price_changes_body
 from .storage import write_json
 
 
+ANALYTICS_MEASUREMENT_ID = "G-RSVR6Y389R"
+ANALYTICS_SCRIPT = f"""
+(() => {{
+  "use strict";
+
+  const measurementId = "{ANALYTICS_MEASUREMENT_ID}";
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = window.gtag || function gtag() {{
+    window.dataLayer.push(arguments);
+  }};
+
+  const tag = document.createElement("script");
+  tag.async = true;
+  tag.src = `https://www.googletagmanager.com/gtag/js?id=${{encodeURIComponent(measurementId)}}`;
+  document.head.appendChild(tag);
+
+  window.gtag("js", new Date());
+  window.gtag("config", measurementId, {{
+    page_title: document.title,
+    page_path: window.location.pathname,
+    page_location: window.location.origin + window.location.pathname,
+    traffic_context: window.self === window.top ? "direct" : "embedded",
+  }});
+}})();
+"""
+
+
 STYLE = """
 :root{color-scheme:light;--paper:oklch(98.2% .006 105);--surface:oklch(99.7% .003 105);--surface-tint:oklch(96.7% .012 112);--ink:oklch(25% .025 120);--muted:oklch(48% .022 120);--line:oklch(87% .018 112);--line-strong:oklch(73% .026 112);--accent:oklch(43% .075 145);--accent-soft:oklch(94% .025 145);--warning:oklch(48% .09 63);--warning-soft:oklch(95% .03 75);--increase:oklch(46% .09 52);--increase-soft:oklch(95% .025 62);--decrease:oklch(45% .08 245);--decrease-soft:oklch(95% .02 245);--focus:oklch(60% .15 245);--radius:8px;--shadow:0 12px 34px oklch(25% .02 120/.08)}
 *{box-sizing:border-box}[hidden]{display:none!important}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.5 ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}button,input,select{font:inherit;color:inherit}button,select{cursor:pointer}a{color:var(--accent);text-underline-offset:3px}a:hover{text-decoration-thickness:2px}a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
@@ -36,7 +63,7 @@ def _page(title: str, body: str, script: str = "", *, current: str = "", body_cl
         f'<a href="{href}"{(" aria-current=\"page\"" if key == current else "")}>{label}</a>'
         for label, href, key in NAV_ITEMS
     )
-    return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f7f8f2"><title>{title}</title><link rel="stylesheet" href="assets/site.css?v=research-1.1"></head><body class="{body_class}"><header class="site-header"><div class="site-header-inner"><a class="site-identity" href="index.html"><strong>Gala Fresh Baldwin</strong><span>catalog research</span></a><nav class="site-nav" aria-label="Research reports">{links}</nav></div></header><main>{body}</main><footer class="site-footer"><p>Independent, unaffiliated research. Source: <a href="https://www.shopgalafresh.com/">Gala Fresh public storefront</a>. Online values are not asserted as physical shelf prices.</p></footer>{script}</body></html>"""
+    return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f7f8f2"><title>{title}</title><link rel="stylesheet" href="assets/site.css?v=research-1.1"><script src="assets/analytics.js?v=research-1.0" defer></script></head><body class="{body_class}"><header class="site-header"><div class="site-header-inner"><a class="site-identity" href="index.html"><strong>Gala Fresh Baldwin</strong><span>catalog research</span></a><nav class="site-nav" aria-label="Research reports">{links}</nav></div></header><main>{body}</main><footer class="site-footer"><p>Independent, unaffiliated research. Source: <a href="https://www.shopgalafresh.com/">Gala Fresh public storefront</a>. Online values are not asserted as physical shelf prices.</p></footer>{script}</body></html>"""
 
 
 def _summary_script(source: str, weekly: bool = False) -> str:
@@ -73,6 +100,7 @@ def build_reports(snapshot_dir: Path, docs_dir: Path) -> tuple[dict, dict]:
         shutil.rmtree(history_dir)
     catalog_index = build_catalog_history(snapshot_dir, history_dir)
     (assets / "site.css").write_text(STYLE.strip() + "\n", encoding="utf-8")
+    (assets / "analytics.js").write_text(ANALYTICS_SCRIPT.strip() + "\n", encoding="utf-8")
     (assets / "catalog.js").write_text(CATALOG_SCRIPT.strip() + "\n", encoding="utf-8")
     (assets / "price-changes.js").write_text(PRICE_CHANGES_SCRIPT.strip() + "\n", encoding="utf-8")
     overview = '<section class="hero"><h1>Gala Fresh Baldwin catalog research</h1><p>Daily, transparent history of the anonymously visible public online catalog.</p><p>Pipeline: <span id="status" class="healthy">Loading…</span></p></section><section id="metrics" class="grid" aria-live="polite"></section><p><a id="raw" href="data/daily-summary.json">Machine-readable daily contract</a></p>'
