@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "galafresh-baldwin"
+version = "1.0.0"
+description = "Daily longitudinal research on Gala Fresh Baldwin's public online catalog"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+authors = [{name = "Frank Valdez"}]
+dependencies = ["playwright>=1.49,<2"]
+
+[project.scripts]
+galafresh-baldwin = "galafresh_baldwin.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["galafresh_baldwin*"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.pyright]
+pythonVersion = "3.11"
+typeCheckingMode = "basic"
+

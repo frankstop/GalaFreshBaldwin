@@ -1,0 +1,591 @@
+{
+  "items": [
+    {
+      "branch_product_id": "19346899",
+      "brand": "Cheerios",
+      "catalog_product_id": "4304569",
+      "category_paths": [
+        "Cereal & Breakfast",
+        "Cereal & Breakfast > Cereal > Cold Cereals"
+      ],
+      "name": "Honey Nut Cheerios with Real Honey",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 8.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:11262854",
+      "retailer_product_id": "11262854"
+    },
+    {
+      "branch_product_id": "22721634",
+      "brand": "Pozuelo",
+      "catalog_product_id": "673946",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Cookies & Crackers > Cookies"
+      ],
+      "name": "Butter Cookies",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11911427"
+            ],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": "unambiguous display text: Buy 2 units for $5",
+              "derived_effective_unit_price": 2.5,
+              "description": "Buy 2 units for $5",
+              "promotion_id": "11911427"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:12916854",
+      "retailer_product_id": "12916854"
+    },
+    {
+      "branch_product_id": "22749994",
+      "brand": "Spring Tree",
+      "catalog_product_id": "1519426",
+      "category_paths": [
+        "Cereal & Breakfast",
+        "Cereal & Breakfast > Breakfast > Pancake & Waffle Mixes",
+        "Grocery",
+        "Grocery > Spreads > Syrups"
+      ],
+      "name": "Sugar Free Low Calorie Maple Syrup",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:12935889",
+      "retailer_product_id": "12935889"
+    },
+    {
+      "branch_product_id": "23682785",
+      "brand": "Utz",
+      "catalog_product_id": "5256618",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Chips & Snacks > Potato Chips"
+      ],
+      "name": "Ripples Original Potato Chips",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:13292169",
+      "retailer_product_id": "13292169"
+    },
+    {
+      "branch_product_id": "32379198",
+      "brand": "Mirabel",
+      "catalog_product_id": "287043",
+      "category_paths": [
+        "Fresh Produce",
+        "Fresh Produce > Greens & Herbs > Lettuce & Leaves",
+        "Meal Solutions",
+        "Meal Solutions > Create Your Own Salad > Greens"
+      ],
+      "name": "Boston Lettuce Hydroponic",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:15684275",
+      "retailer_product_id": "15684275"
+    },
+    {
+      "branch_product_id": "49755266",
+      "brand": "Doña Kathe",
+      "catalog_product_id": "798986",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Hot Beverages > Instant Coffee"
+      ],
+      "name": "100% Pure House Blend Instant Coffee Packets 18 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:19125349",
+      "retailer_product_id": "19125349"
+    },
+    {
+      "branch_product_id": "3194310",
+      "brand": "Ragu",
+      "catalog_product_id": "884499",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Cooking Sauces & Salsas",
+        "Meal Solutions",
+        "Meal Solutions > Dinner Ideas > Italian Dinner"
+      ],
+      "name": "Old World Style Marinara Sauce",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11911424"
+            ],
+            "regular_price": 3.79
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": "unambiguous display text: Buy 2 units from products of Ragu for $7",
+              "derived_effective_unit_price": 3.5,
+              "description": "Buy 2 units from products of Ragu for $7",
+              "promotion_id": "11911424"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:2379051",
+      "retailer_product_id": "2379051"
+    },
+    {
+      "branch_product_id": "3194848",
+      "brand": "Kellogg's",
+      "catalog_product_id": "104511",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Cookies & Crackers > Crackers"
+      ],
+      "name": "Cinnamon Flavor French Toaster Sticks 32 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2379589",
+      "retailer_product_id": "2379589"
+    },
+    {
+      "branch_product_id": "3194918",
+      "brand": "Kellogg's",
+      "catalog_product_id": "93705",
+      "category_paths": [
+        "Cereal & Breakfast",
+        "Cereal & Breakfast > Breakfast > Frozen Breakfast Solutions",
+        "Frozen",
+        "Frozen > Frozen Meals > Frozen Breakfast"
+      ],
+      "name": "Eggo Minis Pancakes 40 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2379659",
+      "retailer_product_id": "2379659"
+    },
+    {
+      "branch_product_id": "3195911",
+      "brand": "Goya",
+      "catalog_product_id": "1012362",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Pasta, Grains & Beans > Beans & Peas"
+      ],
+      "name": "Dominican Red Beans",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2380652",
+      "retailer_product_id": "2380652"
+    },
+    {
+      "branch_product_id": "3196059",
+      "brand": "Goya",
+      "catalog_product_id": "669306",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Spices & Seasonings"
+      ],
+      "name": "Adobo All Purpose Seasoning with Cumin",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2380800",
+      "retailer_product_id": "2380800"
+    },
+    {
+      "branch_product_id": "3200787",
+      "brand": "Powerade",
+      "catalog_product_id": "142233",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Energy & Sports Drinks",
+        "Health & Special Diets",
+        "Health & Special Diets > Beverages > Sports Drinks",
+        "Health & Special Diets > Specialty Diets > Sports Nutrition"
+      ],
+      "name": "Sports Drink Mountain Berry Blast - 8 Pk",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 8.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2385528",
+      "retailer_product_id": "2385528"
+    },
+    {
+      "branch_product_id": "3201626",
+      "brand": "Purina",
+      "catalog_product_id": "2638710",
+      "category_paths": [
+        "Home & Kitchen",
+        "Home & Kitchen > Pet Store > Cat Food & Treats",
+        "Pet Store",
+        "Pet Store > Cat Food > Cat Food & Treats"
+      ],
+      "name": "Fancy Feast Ocean Whitefish & Tuna Cat Food",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.19
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2386367",
+      "retailer_product_id": "2386367"
+    },
+    {
+      "branch_product_id": "3203258",
+      "brand": "McCormick",
+      "catalog_product_id": "100836",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Spices & Seasonings"
+      ],
+      "name": "Garlic Powder",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 8.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2387999",
+      "retailer_product_id": "2387999"
+    },
+    {
+      "branch_product_id": "3212737",
+      "brand": "Buddig",
+      "catalog_product_id": "673460",
+      "category_paths": [
+        "Cold Cuts",
+        "Cold Cuts > Packaged & Sliced Smoked Meat > Smoked Meat VP",
+        "Deli",
+        "Deli > Packaged Cold Cuts > Turkey & Chicken Cuts"
+      ],
+      "name": "Smoked Turkey",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2397478",
+      "retailer_product_id": "2397478"
+    },
+    {
+      "branch_product_id": "3214289",
+      "brand": "Sierra Nevada",
+      "catalog_product_id": "349377",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Alcohol > Beer"
+      ],
+      "name": "Sierra Nevada Pale Ale 6 Pk",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 12.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2399030",
+      "retailer_product_id": "2399030"
+    },
+    {
+      "branch_product_id": "3220217",
+      "brand": "Quesos La Ricura",
+      "catalog_product_id": "676220",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Cheese > Soft Cheese"
+      ],
+      "name": "Mexican Cream",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 9.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2404958",
+      "retailer_product_id": "2404958"
+    },
+    {
+      "branch_product_id": "4286567",
+      "brand": "Schweid & Sons",
+      "catalog_product_id": "8294110",
+      "category_paths": [
+        "Meat & Seafood",
+        "Meat & Seafood > Fresh Meat > Beef",
+        "Meat & Seafood > Fresh Meat > Ground Meat"
+      ],
+      "name": "The Prime Burger",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 16.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:3077282",
+      "retailer_product_id": "3077282"
+    },
+    {
+      "branch_product_id": "6513702",
+      "brand": "Lil Snappers",
+      "catalog_product_id": "2577954",
+      "category_paths": [
+        "Fresh Produce",
+        "Fresh Produce > Fresh Fruit > Apples"
+      ],
+      "name": "Organic Gala Apples Bag",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:4363576",
+      "retailer_product_id": "4363576"
+    },
+    {
+      "branch_product_id": "8167805",
+      "brand": "Polar",
+      "catalog_product_id": "96065",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Water & Sparkling Water"
+      ],
+      "name": "Premium Tonic Water Traditional Recipe",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.94
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:5309210",
+      "retailer_product_id": "5309210"
+    },
+    {
+      "branch_product_id": "11534433",
+      "brand": "Pop-Tarts",
+      "catalog_product_id": "2997034",
+      "category_paths": [
+        "Cereal & Breakfast",
+        "Cereal & Breakfast > Breakfast > Toaster Pastries"
+      ],
+      "name": "Frosted S'mores Toaster Pastries",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:7047012",
+      "retailer_product_id": "7047012"
+    },
+    {
+      "branch_product_id": "14190883",
+      "brand": "Bar Keepers Friend",
+      "catalog_product_id": "600147",
+      "category_paths": [
+        "Laundry & Cleaning",
+        "Laundry & Cleaning > Home Cleaning > Kitchen"
+      ],
+      "name": "Liquid Soft Multi-Surface Cleanser",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:8102861",
+      "retailer_product_id": "8102861"
+    },
+    {
+      "branch_product_id": "16205708",
+      "brand": "Pillsbury",
+      "catalog_product_id": "4817168",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Refrigerated > Dough & Pastry"
+      ],
+      "name": "Cornbread Swirls",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.39
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:9368164",
+      "retailer_product_id": "9368164"
+    },
+    {
+      "branch_product_id": "17172811",
+      "brand": "Poland Spring",
+      "catalog_product_id": "1231025",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Water & Sparkling Water"
+      ],
+      "name": "Natural Spring Water 40 pk",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 12.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:9917920",
+      "retailer_product_id": "9917920"
+    }
+  ],
+  "schema_version": "1.0"
+}

@@ -1,0 +1,722 @@
+{
+  "items": [
+    {
+      "branch_product_id": "30401770",
+      "brand": null,
+      "catalog_product_id": "8024741",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Energy & Sports Drinks",
+        "Health & Special Diets",
+        "Health & Special Diets > Beverages > Sports Drinks",
+        "Health & Special Diets > Specialty Diets > Sports Nutrition"
+      ],
+      "name": "Blue Raspberry Flavor Electrolyte Hydration Beverage",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.0
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:15013862",
+      "retailer_product_id": "15013862"
+    },
+    {
+      "branch_product_id": "34422059",
+      "brand": "Blue Bunny",
+      "catalog_product_id": "8167181",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Ice Cream & Ices > Ice Cream & Fruit Bars"
+      ],
+      "name": "Strawberry Short Cake Frozen Dairy Dessert Mini Bars 6 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 8.39
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:16084640",
+      "retailer_product_id": "16084640"
+    },
+    {
+      "branch_product_id": "37382514",
+      "brand": "Jade Lion",
+      "catalog_product_id": "1078340",
+      "category_paths": [
+        "Fish & Shellfish",
+        "Fish & Shellfish > Frozen Seafood > Frozen Shellfish",
+        "Frozen",
+        "Frozen > Frozen Meals > Frozen Shellfish",
+        "Meat & Seafood",
+        "Meat & Seafood > Seafood > Frozen Shellfish"
+      ],
+      "name": "Cooked Frozen Peeled & Deveined Tail Off Shrimp 71-90 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 11.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:16624499",
+      "retailer_product_id": "16624499"
+    },
+    {
+      "branch_product_id": "46501904",
+      "brand": "Bounty",
+      "catalog_product_id": "7728739",
+      "category_paths": [
+        "Laundry & Cleaning",
+        "Laundry & Cleaning > Bathroom Tissue & Paper > Paper Towels"
+      ],
+      "name": "Double Roll Select-A-Size White Paper Towel 6 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 20.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:18279267",
+      "retailer_product_id": "18279267"
+    },
+    {
+      "branch_product_id": "52822614",
+      "brand": "Breakstone's",
+      "catalog_product_id": "8317533",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Butter & Margarine > Butter"
+      ],
+      "name": "Gluten Free Unsalted Whipped Butter",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11926193"
+            ],
+            "regular_price": 3.49
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": "unambiguous display text: Buy 2 units for $6",
+              "derived_effective_unit_price": 3.0,
+              "description": "Buy 2 units for $6",
+              "promotion_id": "11926193"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:20182125",
+      "retailer_product_id": "20182125"
+    },
+    {
+      "branch_product_id": "3190294",
+      "brand": "Birds Eye",
+      "catalog_product_id": "654207",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Frozen Foods > Frozen Vegetables"
+      ],
+      "name": "Steamfresh Mixed Vegetables",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.39
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2375035",
+      "retailer_product_id": "2375035"
+    },
+    {
+      "branch_product_id": "3190346",
+      "brand": "Mott's",
+      "catalog_product_id": "140663",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Juice & Nectar"
+      ],
+      "name": "100% Original Apple Juice",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "10440325"
+            ],
+            "regular_price": 5.29
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": null,
+              "derived_effective_unit_price": null,
+              "description": "Only $3.99",
+              "promotion_id": "10440325"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:2375087",
+      "retailer_product_id": "2375087"
+    },
+    {
+      "branch_product_id": "3191413",
+      "brand": "Turkey Hill",
+      "catalog_product_id": "315252",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Juice & Nectar"
+      ],
+      "name": "Strawberry Kiwi Lemonade",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2376154",
+      "retailer_product_id": "2376154"
+    },
+    {
+      "branch_product_id": "3193276",
+      "brand": "Sicilia",
+      "catalog_product_id": "292493",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Vinegar & Cooking Wine"
+      ],
+      "name": "Lemon Juice Organic",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.69
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2378017",
+      "retailer_product_id": "2378017"
+    },
+    {
+      "branch_product_id": "3193845",
+      "brand": "Badia",
+      "catalog_product_id": "602847",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Spices & Seasonings"
+      ],
+      "name": "Gluten Free Smoked Paprika",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2378586",
+      "retailer_product_id": "2378586"
+    },
+    {
+      "branch_product_id": "3194025",
+      "brand": "Hershey's",
+      "catalog_product_id": "833531",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Candy & Chocolate > Chocolate"
+      ],
+      "name": "Gluten Free Full Size Milk Chocolate with Almonds 6 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 8.69
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2378766",
+      "retailer_product_id": "2378766"
+    },
+    {
+      "branch_product_id": "3195107",
+      "brand": "Ortega",
+      "catalog_product_id": "121425",
+      "category_paths": [
+        "Grocery",
+        "Grocery > World Foods > Mexican & Hispanic",
+        "Meal Solutions",
+        "Meal Solutions > Dinner Ideas > Mexican Dinner"
+      ],
+      "name": "Medium Original Thick & Smooth Taco Sauce",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2379848",
+      "retailer_product_id": "2379848"
+    },
+    {
+      "branch_product_id": "3195552",
+      "brand": "Progresso",
+      "catalog_product_id": "878588",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Soup"
+      ],
+      "name": "Traditional Chicken Rice Soup with Vegetables",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2380293",
+      "retailer_product_id": "2380293"
+    },
+    {
+      "branch_product_id": "3195908",
+      "brand": "Goya",
+      "catalog_product_id": "609142",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Pasta, Grains & Beans > Beans & Peas"
+      ],
+      "name": "Pink Beans",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2380649",
+      "retailer_product_id": "2380649"
+    },
+    {
+      "branch_product_id": "3198000",
+      "brand": "Boar's Head",
+      "catalog_product_id": "669948",
+      "category_paths": [
+        "Cold Cuts",
+        "Cold Cuts > Packaged & Sliced Smoked Meat > Smoked Meat VP",
+        "Deli",
+        "Deli > Packaged Cold Cuts > Turkey & Chicken Cuts"
+      ],
+      "name": "Turkey Pepperoni",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2382741",
+      "retailer_product_id": "2382741"
+    },
+    {
+      "branch_product_id": "3198650",
+      "brand": "Jell-O",
+      "catalog_product_id": "929294",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Yogurt & Puddings > Puddings & Desserts",
+        "Health & Special Diets",
+        "Health & Special Diets > Specialty Diets > Sugar Free"
+      ],
+      "name": "Sugar Free Raspberry Flavored Low Calorie Gelatin Snacks 4 pk",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2383391",
+      "retailer_product_id": "2383391"
+    },
+    {
+      "branch_product_id": "3205248",
+      "brand": "Giorgio",
+      "catalog_product_id": "99673",
+      "category_paths": [
+        "Fresh Produce",
+        "Fresh Produce > Fresh Vegetables > Mushrooms"
+      ],
+      "name": "Fresh 'n Clean Sliced Mushrooms",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2389989",
+      "retailer_product_id": "2389989"
+    },
+    {
+      "branch_product_id": "3213206",
+      "brand": "Bachman",
+      "catalog_product_id": "281593",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Chips & Snacks > Pretzels"
+      ],
+      "name": "Thin'n Right Baked Pretzels",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2397947",
+      "retailer_product_id": "2397947"
+    },
+    {
+      "branch_product_id": "3215113",
+      "brand": "Organic Valley",
+      "catalog_product_id": "113505",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Milk & Cream > Cream & Creamers"
+      ],
+      "name": "Half & Half",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2399854",
+      "retailer_product_id": "2399854"
+    },
+    {
+      "branch_product_id": "3217270",
+      "brand": "Jet-Puffed",
+      "catalog_product_id": "660854",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Baking Needs > Icing & Toppings"
+      ],
+      "name": "Fat Free Jet-Puffed Miniature Marshmallows",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11914072"
+            ],
+            "regular_price": 2.99
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": "unambiguous display text: Buy 2 units for $4",
+              "derived_effective_unit_price": 2.0,
+              "description": "Buy 2 units for $4",
+              "promotion_id": "11914072"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:2402011",
+      "retailer_product_id": "2402011"
+    },
+    {
+      "branch_product_id": "3220067",
+      "brand": "Oxi Clean",
+      "catalog_product_id": "97051",
+      "category_paths": [
+        "Laundry & Cleaning",
+        "Laundry & Cleaning > Home Cleaning > Bathroom & Shower"
+      ],
+      "name": "Foam-Tastic Oxiclean Bathroom Cleaner",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2404808",
+      "retailer_product_id": "2404808"
+    },
+    {
+      "branch_product_id": "3220439",
+      "brand": "Good Shall's",
+      "catalog_product_id": "735277",
+      "category_paths": [
+        "Cold Cuts",
+        "Cold Cuts > Packaged & Sliced Smoked Meat > Smoked Meat VP",
+        "Deli",
+        "Deli > Packaged Cold Cuts > Turkey & Chicken Cuts"
+      ],
+      "name": "Smoked Sliced Turkey Bacon",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2405180",
+      "retailer_product_id": "2405180"
+    },
+    {
+      "branch_product_id": "3222821",
+      "brand": null,
+      "catalog_product_id": "676847",
+      "category_paths": [
+        "Bread & Bakery",
+        "Bread & Bakery > Cakes & Pastries > Pastries & Donuts"
+      ],
+      "name": "Mini Croissants",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2407562",
+      "retailer_product_id": "2407562"
+    },
+    {
+      "branch_product_id": "3834773",
+      "brand": "Red Baron",
+      "catalog_product_id": "834099",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Frozen Meals > Pizza",
+        "Meal Solutions",
+        "Meal Solutions > Dinner Ideas > Italian Dinner"
+      ],
+      "name": "French Bread Singles Pepperoni Pizza 2 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2851877",
+      "retailer_product_id": "2851877"
+    },
+    {
+      "branch_product_id": "4286572",
+      "brand": "Oscar Mayer",
+      "catalog_product_id": "880722",
+      "category_paths": [
+        "Cold Cuts",
+        "Cold Cuts > Packaged & Sliced Smoked Meat > Hot Dogs & Sausages VP",
+        "Deli",
+        "Deli > Packaged Cold Cuts > Hot Dogs & Sausages",
+        "Meat & Seafood",
+        "Meat & Seafood > Sausages > Spicy & Cocktail Sausages"
+      ],
+      "name": "Original Cheese Dogs 10 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.69
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:3077287",
+      "retailer_product_id": "3077287"
+    },
+    {
+      "branch_product_id": "4292200",
+      "brand": "Hormel",
+      "catalog_product_id": "882902",
+      "category_paths": [
+        "Deli",
+        "Deli > Grab & Go > Lunch Ideas"
+      ],
+      "name": "Gatherings Supreme Party Tray",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 26.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:3081805",
+      "retailer_product_id": "3081805"
+    },
+    {
+      "branch_product_id": "9573182",
+      "brand": "Wish-Bone",
+      "catalog_product_id": "1352332",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Salad Dressings & Toppings"
+      ],
+      "name": "Creamy Italian Dressing Signature Blend of Herbs & Spices",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.19
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:6049202",
+      "retailer_product_id": "6049202"
+    },
+    {
+      "branch_product_id": "11388808",
+      "brand": "Van Ecuador",
+      "catalog_product_id": "789715",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Tuna & Seafood",
+        "Meal Solutions",
+        "Meal Solutions > Create Your Own Salad > Something Extra"
+      ],
+      "name": "Tuna in Oil",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:6981297",
+      "retailer_product_id": "6981297"
+    },
+    {
+      "branch_product_id": "11701913",
+      "brand": "Starbucks",
+      "catalog_product_id": "5491861",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Hot Beverages > Coffee Creamers"
+      ],
+      "name": "Caramel Macchiato Flavored Creamer",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:7098200",
+      "retailer_product_id": "7098200"
+    }
+  ],
+  "schema_version": "1.0"
+}

@@ -1,0 +1,1341 @@
+{
+  "items": [
+    {
+      "branch_product_id": "17791353",
+      "brand": "Ken's Steak House",
+      "catalog_product_id": "1093137",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Salad Dressings & Toppings",
+        "Meal Solutions",
+        "Meal Solutions > Create Your Own Salad > Dressings"
+      ],
+      "name": "Balsamic Vinaigrette",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:10393474",
+      "retailer_product_id": "10393474"
+    },
+    {
+      "branch_product_id": "19786125",
+      "brand": "Ben's Original",
+      "catalog_product_id": "4262984",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Instant Meals > Instant Meals",
+        "Meal Solutions",
+        "Meal Solutions > Heat-and-Eat > Instant Meals"
+      ],
+      "name": "Ready Rice Jasmine",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.19
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:11550897",
+      "retailer_product_id": "11550897"
+    },
+    {
+      "branch_product_id": "39581503",
+      "brand": null,
+      "catalog_product_id": "3421346",
+      "category_paths": [
+        "Bread & Bakery",
+        "Bread & Bakery > Packaged Bread > Packaged Bread"
+      ],
+      "name": "Cuban Style Bread",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:17117865",
+      "retailer_product_id": "17117865"
+    },
+    {
+      "branch_product_id": "42716314",
+      "brand": "Boar's Head",
+      "catalog_product_id": "5934344",
+      "category_paths": [
+        "Deli",
+        "Deli > Ready Meals > Deli Cheese"
+      ],
+      "name": "All Natural Parmesan Cheese",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 9.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:17635590",
+      "retailer_product_id": "17635590"
+    },
+    {
+      "branch_product_id": "42721973",
+      "brand": "Arizona",
+      "catalog_product_id": "8429303",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Refrigerated Drinks",
+        "Dairy",
+        "Dairy > Refrigerated > Refrigerated Juice",
+        "Health & Special Diets",
+        "Health & Special Diets > Beverages > Refrigerated Juices"
+      ],
+      "name": "Sweet Apple Fruit Juice Cocktail",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:17641249",
+      "retailer_product_id": "17641249"
+    },
+    {
+      "branch_product_id": "49609318",
+      "brand": "La Flor",
+      "catalog_product_id": "1231321",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Spices & Seasonings"
+      ],
+      "name": "Thyme Leaves",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:19039688",
+      "retailer_product_id": "19039688"
+    },
+    {
+      "branch_product_id": "49872502",
+      "brand": "San Pellegrino",
+      "catalog_product_id": "7871012",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Water & Sparkling Water"
+      ],
+      "name": "Ciao! Blood Orange Cans 6 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:19178949",
+      "retailer_product_id": "19178949"
+    },
+    {
+      "branch_product_id": "52403745",
+      "brand": "Breakstone's",
+      "catalog_product_id": "8317472",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Butter & Margarine > Butter"
+      ],
+      "name": "Salted Whipped Butter",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11926192"
+            ],
+            "regular_price": 3.49
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": "unambiguous display text: Buy 2 units for $6",
+              "derived_effective_unit_price": 3.0,
+              "description": "Buy 2 units for $6",
+              "promotion_id": "11926192"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:20052978",
+      "retailer_product_id": "20052978"
+    },
+    {
+      "branch_product_id": "52645277",
+      "brand": "Xtra",
+      "catalog_product_id": "5355578",
+      "category_paths": [
+        "Laundry & Cleaning",
+        "Laundry & Cleaning > Laundry > Laundry Detergent"
+      ],
+      "name": "Sparkling Fresh Scent Booster 88 Loads Liquid Detergent",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 8.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:20137781",
+      "retailer_product_id": "20137781"
+    },
+    {
+      "branch_product_id": "3189321",
+      "brand": null,
+      "catalog_product_id": "1319271",
+      "category_paths": [
+        "Fresh Produce",
+        "Fresh Produce > Fresh Vegetables > Main Vegetables"
+      ],
+      "name": "Tomato On Vine",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2374062",
+      "retailer_product_id": "2374062"
+    },
+    {
+      "branch_product_id": "3189534",
+      "brand": "Ferrero Rocher",
+      "catalog_product_id": "876627",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Chocolate Boxes > Chocolate Boxes"
+      ],
+      "name": "Fine Hazelnut Chocolate Box",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2374275",
+      "retailer_product_id": "2374275"
+    },
+    {
+      "branch_product_id": "3189920",
+      "brand": "La Croix",
+      "catalog_product_id": "848004",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Water & Sparkling Water"
+      ],
+      "name": "Peach-Pear Sparkling Water 12 pk",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 8.59
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2374661",
+      "retailer_product_id": "2374661"
+    },
+    {
+      "branch_product_id": "3190356",
+      "brand": "Mott's",
+      "catalog_product_id": "107575",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Fruit & Applesauce"
+      ],
+      "name": "Cinnamon Applesauce For Tots",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.59
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2375097",
+      "retailer_product_id": "2375097"
+    },
+    {
+      "branch_product_id": "3191074",
+      "brand": "Seneca",
+      "catalog_product_id": "1938410",
+      "category_paths": [
+        "Dried Fruits & Nuts",
+        "Dried Fruits & Nuts > Dried Fruits & Vegetables > Dried Fruits",
+        "Dried Fruits & Nuts > Dried Fruits & Vegetables > Dry Fruit Snacks",
+        "Meal Solutions",
+        "Meal Solutions > Lunchbox > Fruit Snacks",
+        "Snacks & Sweets",
+        "Snacks & Sweets > Fruit & Nut Snacks > Dried Fruit Snacking"
+      ],
+      "name": "Original Apple Chips",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.5
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2375815",
+      "retailer_product_id": "2375815"
+    },
+    {
+      "branch_product_id": "3192179",
+      "brand": "Drake's",
+      "catalog_product_id": "135393",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Cookies & Crackers > Cookies"
+      ],
+      "name": "Devil Dogs Crème Filled Food Cakes 8 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.39
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2376920",
+      "retailer_product_id": "2376920"
+    },
+    {
+      "branch_product_id": "3192216",
+      "brand": "Petit",
+      "catalog_product_id": "1009985",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Juice & Nectar"
+      ],
+      "name": "Pineapple Nectar",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 0.89
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2376957",
+      "retailer_product_id": "2376957"
+    },
+    {
+      "branch_product_id": "3192742",
+      "brand": "Maggi",
+      "catalog_product_id": "936408",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Stocks & Broth"
+      ],
+      "name": "Chicken Bouillon 6 Ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.19
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2377483",
+      "retailer_product_id": "2377483"
+    },
+    {
+      "branch_product_id": "3193823",
+      "brand": "Badia",
+      "catalog_product_id": "602817",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Spices & Seasonings"
+      ],
+      "name": "The Original Gluten Free Complete Seasoning",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2378564",
+      "retailer_product_id": "2378564"
+    },
+    {
+      "branch_product_id": "3194153",
+      "brand": "Palmolive",
+      "catalog_product_id": "235530",
+      "category_paths": [
+        "Laundry & Cleaning",
+        "Laundry & Cleaning > Home Cleaning > Kitchen"
+      ],
+      "name": "Original Dish Liquid Soap",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.59
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2378894",
+      "retailer_product_id": "2378894"
+    },
+    {
+      "branch_product_id": "3194778",
+      "brand": "Skippy",
+      "catalog_product_id": "882172",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Spreads > Peanut Butter"
+      ],
+      "name": "Creamy Peanut Butter",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 10.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2379519",
+      "retailer_product_id": "2379519"
+    },
+    {
+      "branch_product_id": "3195395",
+      "brand": "Knorr",
+      "catalog_product_id": "668719",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Pasta, Grains & Beans > Pasta & Spaghetti"
+      ],
+      "name": "Knorr Psta Sd Chic",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2380136",
+      "retailer_product_id": "2380136"
+    },
+    {
+      "branch_product_id": "3196936",
+      "brand": "Outshine",
+      "catalog_product_id": "880270",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Ice Cream & Ices > Ice Cream & Fruit Bars"
+      ],
+      "name": "Assorted Fruit Bars with No Added Sugar 12 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11926151"
+            ],
+            "regular_price": 7.29
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": "unambiguous display text: Buy 2 units for $9",
+              "derived_effective_unit_price": 4.5,
+              "description": "Buy 2 units for $9",
+              "promotion_id": "11926151"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:2381676",
+      "retailer_product_id": "2381676"
+    },
+    {
+      "branch_product_id": "3197587",
+      "brand": "Golden",
+      "catalog_product_id": "134447",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Frozen Foods > French Fries & Onion Rings",
+        "Meal Solutions",
+        "Meal Solutions > Dinner Ideas > America's Favorites"
+      ],
+      "name": "Low Fat Traditional Potato Pancakes 8 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2382328",
+      "retailer_product_id": "2382328"
+    },
+    {
+      "branch_product_id": "3200604",
+      "brand": "Hellmann's",
+      "catalog_product_id": "834847",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Condiments & Relishes"
+      ],
+      "name": "Real Mayonnaise made with Cage Free Eggs",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 14.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2385345",
+      "retailer_product_id": "2385345"
+    },
+    {
+      "branch_product_id": "3201807",
+      "brand": "Nestle",
+      "catalog_product_id": "842459",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Hot Beverages > Coffee Creamers",
+        "Dairy",
+        "Dairy > Milk & Cream > Cream & Creamers",
+        "Health & Special Diets",
+        "Health & Special Diets > Dairy Substitutes > Dairy Free Milk"
+      ],
+      "name": "Coconut Crème Liquid Flavored Coffee Creamer",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2386548",
+      "retailer_product_id": "2386548"
+    },
+    {
+      "branch_product_id": "3205114",
+      "brand": "Pompeian",
+      "catalog_product_id": "878121",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Oil & Cooking Sprays",
+        "Meal Solutions",
+        "Meal Solutions > Create Your Own Salad > Dressings"
+      ],
+      "name": "First Cold Pressed Extra Virgin Olive Oil",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 9.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2389855",
+      "retailer_product_id": "2389855"
+    },
+    {
+      "branch_product_id": "3205236",
+      "brand": "Giorgio",
+      "catalog_product_id": "284007",
+      "category_paths": [
+        "Fresh Produce",
+        "Fresh Produce > Fresh Vegetables > Mushrooms"
+      ],
+      "name": "Sliced Shiitake",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2389977",
+      "retailer_product_id": "2389977"
+    },
+    {
+      "branch_product_id": "3206045",
+      "brand": "Chock Full O' Nuts",
+      "catalog_product_id": "135325",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Hot Beverages > Ground Coffee & Filters"
+      ],
+      "name": "French Roast Ground Coffee",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 8.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2390786",
+      "retailer_product_id": "2390786"
+    },
+    {
+      "branch_product_id": "3207634",
+      "brand": "Polaner",
+      "catalog_product_id": "881684",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Spreads > Jams & Preserves"
+      ],
+      "name": "Blackberry Flavored All Fruit Seedless Fruit",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.69
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2392375",
+      "retailer_product_id": "2392375"
+    },
+    {
+      "branch_product_id": "3207773",
+      "brand": "Nestle",
+      "catalog_product_id": "879028",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Ice Cream & Ices > Ice Cream & Fruit Bars"
+      ],
+      "name": "Strawberry Shortcake Bar 5 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2392514",
+      "retailer_product_id": "2392514"
+    },
+    {
+      "branch_product_id": "3207790",
+      "brand": "Nestle",
+      "catalog_product_id": "105079",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Ice Cream & Ices > Ice Cream Cones & Cups"
+      ],
+      "name": "Crunch Dipped Cones 8 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 10.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2392531",
+      "retailer_product_id": "2392531"
+    },
+    {
+      "branch_product_id": "3207835",
+      "brand": "HERR'S",
+      "catalog_product_id": "105696",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Cooking Sauces & Salsas",
+        "Meal Solutions",
+        "Meal Solutions > Dinner Ideas > Mexican Dinner",
+        "Snacks & Sweets",
+        "Snacks & Sweets > Chips & Snacks > Corn & Tortilla Chips"
+      ],
+      "name": "Salsa Peach Mango Mild",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2392576",
+      "retailer_product_id": "2392576"
+    },
+    {
+      "branch_product_id": "3210603",
+      "brand": "Brownberry",
+      "catalog_product_id": "884848",
+      "category_paths": [
+        "Bread & Bakery",
+        "Bread & Bakery > Packaged Bread > Packaged Bread"
+      ],
+      "name": "Country White Bread",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2395344",
+      "retailer_product_id": "2395344"
+    },
+    {
+      "branch_product_id": "3212806",
+      "brand": "Magnum",
+      "catalog_product_id": "884655",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Ice Cream & Ices > Ice Cream & Fruit Bars"
+      ],
+      "name": "Mini Almond Ice Cream Bars - 6 Ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2397547",
+      "retailer_product_id": "2397547"
+    },
+    {
+      "branch_product_id": "3213243",
+      "brand": "President",
+      "catalog_product_id": "743763",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Cheese > Soft Cheese"
+      ],
+      "name": "8 Brie Flavor Spreadable Cheese Wedges",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2397984",
+      "retailer_product_id": "2397984"
+    },
+    {
+      "branch_product_id": "3214514",
+      "brand": "Capri Sun",
+      "catalog_product_id": "881601",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Juice Boxes"
+      ],
+      "name": "Fruit Flavored Juice Drink Pouches Wild Cherry 10 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2399255",
+      "retailer_product_id": "2399255"
+    },
+    {
+      "branch_product_id": "3215205",
+      "brand": "Coco",
+      "catalog_product_id": "2576041",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Cookies & Crackers > Rice & Corn Cakes"
+      ],
+      "name": "Multigrain Pop Cakes",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2399946",
+      "retailer_product_id": "2399946"
+    },
+    {
+      "branch_product_id": "3215284",
+      "brand": "Stewart's",
+      "catalog_product_id": "124120",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Soda Drinks"
+      ],
+      "name": "Fountain Classics Diet Root Beer 4 pk",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.19
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2400025",
+      "retailer_product_id": "2400025"
+    },
+    {
+      "branch_product_id": "3218498",
+      "brand": "My Grandma's of New England",
+      "catalog_product_id": "678445",
+      "category_paths": [
+        "Bread & Bakery",
+        "Bread & Bakery > Cakes & Pastries > Cakes & Muffins"
+      ],
+      "name": "My Grandma's Of New England Coffee Cake Cinnamon Without Walnuts",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 21.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2403239",
+      "retailer_product_id": "2403239"
+    },
+    {
+      "branch_product_id": "3220407",
+      "brand": "Skinny Cow",
+      "catalog_product_id": "89233",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Ice Cream & Ices > Ice Cream Cones & Cups"
+      ],
+      "name": "Next Level Vanilla Caramel Low Fat Ice Cream Cones 4 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2405148",
+      "retailer_product_id": "2405148"
+    },
+    {
+      "branch_product_id": "3274133",
+      "brand": "Kozy Shack",
+      "catalog_product_id": "841388",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Yogurt & Puddings > Puddings & Desserts"
+      ],
+      "name": "Creme Caramel Flan 4 pk",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2458022",
+      "retailer_product_id": "2458022"
+    },
+    {
+      "branch_product_id": "3573659",
+      "brand": "Fresh Attitude",
+      "catalog_product_id": "677148",
+      "category_paths": [
+        "Fresh Produce",
+        "Fresh Produce > Greens & Herbs > Lettuce & Leaves",
+        "Meal Solutions",
+        "Meal Solutions > Create Your Own Salad > Greens"
+      ],
+      "name": "Spring Mix",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2664471",
+      "retailer_product_id": "2664471"
+    },
+    {
+      "branch_product_id": "3785441",
+      "brand": "Goya",
+      "catalog_product_id": "1012594",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Alcohol > Beer",
+        "Beverages > Beverages > Soda Drinks"
+      ],
+      "name": "Non-Alcoholic Malt Beverage Bottles 6 pk",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.59
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2808638",
+      "retailer_product_id": "2808638"
+    },
+    {
+      "branch_product_id": "3885028",
+      "brand": "Goya",
+      "catalog_product_id": "1422074",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Pasta, Grains & Beans > Rice & Couscous"
+      ],
+      "name": "Mexican Rice with Chicken Flavor",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.89
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2894400",
+      "retailer_product_id": "2894400"
+    },
+    {
+      "branch_product_id": "3891738",
+      "brand": "Honest Kids",
+      "catalog_product_id": "225543",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Juice Boxes"
+      ],
+      "name": "Organic Juice Drink Pouches Appley Ever After 8 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2900953",
+      "retailer_product_id": "2900953"
+    },
+    {
+      "branch_product_id": "4643340",
+      "brand": "Smucker's",
+      "catalog_product_id": "100135",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Baking Needs > Icing & Toppings"
+      ],
+      "name": "Strawberry Topping",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:3209835",
+      "retailer_product_id": "3209835"
+    },
+    {
+      "branch_product_id": "6520406",
+      "brand": "Snapple",
+      "catalog_product_id": "1421670",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Juice & Nectar"
+      ],
+      "name": "All Natural Mango Madness Flavored Juice Drink",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.59
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:4368938",
+      "retailer_product_id": "4368938"
+    },
+    {
+      "branch_product_id": "6582584",
+      "brand": "Smart Balance",
+      "catalog_product_id": "142206",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Butter & Margarine > Butter Alternatives"
+      ],
+      "name": "Dairy Free Imitation Butter 70% Vegetable Oils",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:4406435",
+      "retailer_product_id": "4406435"
+    },
+    {
+      "branch_product_id": "6674098",
+      "brand": "Coca-Cola",
+      "catalog_product_id": "141852",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Soda Drinks"
+      ],
+      "name": "Lemon-Lime Soda Bottle",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.04
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:4483317",
+      "retailer_product_id": "4483317"
+    },
+    {
+      "branch_product_id": "6906853",
+      "brand": "Silk",
+      "catalog_product_id": "991282",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Yogurt & Puddings > Dairy Free Yogurts",
+        "Health & Special Diets",
+        "Health & Special Diets > Dairy Substitutes > Dairy Free Yogurts"
+      ],
+      "name": "Dark Chocolate Coconut Almondmilk Yogurt Alternative",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.19
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:4657240",
+      "retailer_product_id": "4657240"
+    },
+    {
+      "branch_product_id": "9366057",
+      "brand": "Stirrings",
+      "catalog_product_id": "809098",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Alcohol > Cocktails & Mixers"
+      ],
+      "name": "Simple Syrup Cane Sugar Cocktail Syrup",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:5942600",
+      "retailer_product_id": "5942600"
+    },
+    {
+      "branch_product_id": "9411138",
+      "brand": "Chobani",
+      "catalog_product_id": "2059690",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Yogurt & Puddings > Probiotic & Yogurt Drinks"
+      ],
+      "name": "Low Fat Greek Yogurt Drink with Mango",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:5967278",
+      "retailer_product_id": "5967278"
+    },
+    {
+      "branch_product_id": "11881182",
+      "brand": "Clorox",
+      "catalog_product_id": "3071185",
+      "category_paths": [
+        "Laundry & Cleaning",
+        "Laundry & Cleaning > Home Cleaning > Floor & Bleach"
+      ],
+      "name": "Scented Splash Less Bleach",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 8.59
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:7218689",
+      "retailer_product_id": "7218689"
+    },
+    {
+      "branch_product_id": "13959187",
+      "brand": "Solo",
+      "catalog_product_id": "1396212",
+      "category_paths": [
+        "Home & Kitchen",
+        "Home & Kitchen > Disposable Items > Plates, Cups & Dishes"
+      ],
+      "name": "18 oz Squared Plastic Cup",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 8.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:7959746",
+      "retailer_product_id": "7959746"
+    },
+    {
+      "branch_product_id": "15852743",
+      "brand": "Listerine",
+      "catalog_product_id": "142943",
+      "category_paths": [
+        "Personal Care & Baby",
+        "Personal Care & Baby > Personal Care > Oral Care"
+      ],
+      "name": "Antiseptic Original Mouthwash",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 13.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:9173812",
+      "retailer_product_id": "9173812"
+    },
+    {
+      "branch_product_id": "16324117",
+      "brand": "Goya",
+      "catalog_product_id": "1261936",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Frozen Meals > Appetizers & Snacks"
+      ],
+      "name": "Chicken Empanadas",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:9429501",
+      "retailer_product_id": "9429501"
+    }
+  ],
+  "schema_version": "1.0"
+}

@@ -1,0 +1,773 @@
+{
+  "items": [
+    {
+      "branch_product_id": "28855309",
+      "brand": "Kellogg's",
+      "catalog_product_id": "5743854",
+      "category_paths": [
+        "Cereal & Breakfast",
+        "Cereal & Breakfast > Cereal > Cold Cereals"
+      ],
+      "name": "Frosted Flakes Cereal w/ Free Exclusive Character Item",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11926429"
+            ],
+            "regular_price": 7.69
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": null,
+              "derived_effective_unit_price": null,
+              "description": "Only $6.99",
+              "promotion_id": "11926429"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:14657324",
+      "retailer_product_id": "14657324"
+    },
+    {
+      "branch_product_id": "30378224",
+      "brand": "The Pure Raw Honey",
+      "catalog_product_id": "6549102",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Spreads > Honey"
+      ],
+      "name": "Unfiltered Honey [Kfp]",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 24.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:15002973",
+      "retailer_product_id": "15002973"
+    },
+    {
+      "branch_product_id": "42716693",
+      "brand": "Progresso",
+      "catalog_product_id": "7342793",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Soup"
+      ],
+      "name": "Southwest-Style Black Bean Soup",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:17635971",
+      "retailer_product_id": "17635971"
+    },
+    {
+      "branch_product_id": "42721882",
+      "brand": "Haagen-Dazs",
+      "catalog_product_id": "5532991",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Ice Cream & Ices > Ice Cream & Sorbet"
+      ],
+      "name": "Coffee Chocolate Brownie Ice Cream",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:17641156",
+      "retailer_product_id": "17641156"
+    },
+    {
+      "branch_product_id": "43493524",
+      "brand": "Kitchen Basics",
+      "catalog_product_id": "7262361",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Stocks & Broth"
+      ],
+      "name": "Original Chicken Stock w/ Vegetable & Herbs",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:17753200",
+      "retailer_product_id": "17753200"
+    },
+    {
+      "branch_product_id": "48032227",
+      "brand": "Badia",
+      "catalog_product_id": "602890",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Salt"
+      ],
+      "name": "Onion Salt",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:18613497",
+      "retailer_product_id": "18613497"
+    },
+    {
+      "branch_product_id": "49174959",
+      "brand": "Louisiana Fish Fry Products",
+      "catalog_product_id": "863649",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Breadcrumbs & Stuffing"
+      ],
+      "name": "Seasoned Beer Batter Seafood Batter Mix for Seafood, Onion Ring & More",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:18889179",
+      "retailer_product_id": "18889179"
+    },
+    {
+      "branch_product_id": "3190002",
+      "brand": "Sweet Baby Ray's",
+      "catalog_product_id": "128840",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Cooking Sauces & Salsas"
+      ],
+      "name": "Honey Barbecue Sauce",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11936338"
+            ],
+            "regular_price": 3.59
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": "unambiguous display text: Buy 2 units from products of Sweet Baby Ray's for $5",
+              "derived_effective_unit_price": 2.5,
+              "description": "Buy 2 units from products of Sweet Baby Ray's for $5",
+              "promotion_id": "11936338"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:2374743",
+      "retailer_product_id": "2374743"
+    },
+    {
+      "branch_product_id": "3190083",
+      "brand": "Stouffer's",
+      "catalog_product_id": "880418",
+      "category_paths": [
+        "Fish & Shellfish",
+        "Fish & Shellfish > Frozen Seafood > Frozen Fish Sticks & Fillets",
+        "Frozen",
+        "Frozen > Frozen Meals > Fish Sticks & Fillets"
+      ],
+      "name": "Classics Fish Filet With Mac & Cheese",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.59
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2374824",
+      "retailer_product_id": "2374824"
+    },
+    {
+      "branch_product_id": "3191405",
+      "brand": "Turkey Hill",
+      "catalog_product_id": "624297",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Iced Tea & Coffee Drinks"
+      ],
+      "name": "Iced Lemon Tea",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2376146",
+      "retailer_product_id": "2376146"
+    },
+    {
+      "branch_product_id": "3193452",
+      "brand": "Italian Village",
+      "catalog_product_id": "667644",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Frozen Meals > Pasta & Dumplings",
+        "Meal Solutions",
+        "Meal Solutions > Dinner Ideas > Italian Dinner"
+      ],
+      "name": "Homestyle Pasta Large Round Cheese Ravioli",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2378193",
+      "retailer_product_id": "2378193"
+    },
+    {
+      "branch_product_id": "3193501",
+      "brand": "B&G",
+      "catalog_product_id": "633505",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Olives & Pickles",
+        "Meal Solutions",
+        "Meal Solutions > Create Your Own Salad > Something Extra"
+      ],
+      "name": "Hamburger Dill Chips",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.89
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2378242",
+      "retailer_product_id": "2378242"
+    },
+    {
+      "branch_product_id": "3195784",
+      "brand": "Wish-Bone",
+      "catalog_product_id": "1514184",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Salad Dressings & Toppings",
+        "Meal Solutions",
+        "Meal Solutions > Create Your Own Salad > Dressings"
+      ],
+      "name": "Gluten Free Ranch Dressing made with Buttermilk",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.19
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2380525",
+      "retailer_product_id": "2380525"
+    },
+    {
+      "branch_product_id": "3196835",
+      "brand": "San Pellegrino",
+      "catalog_product_id": "183737",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Water & Sparkling Water"
+      ],
+      "name": "Sparkling Natural Mineral Water",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.84
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2381576",
+      "retailer_product_id": "2381576"
+    },
+    {
+      "branch_product_id": "3197637",
+      "brand": "Filippo Berio",
+      "catalog_product_id": "96263",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Oil & Cooking Sprays",
+        "Meal Solutions",
+        "Meal Solutions > Create Your Own Salad > Dressings"
+      ],
+      "name": "Extra Light Tasting Olive Oil for Frying & Baking",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 11.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2382378",
+      "retailer_product_id": "2382378"
+    },
+    {
+      "branch_product_id": "3199729",
+      "brand": "Oscar Mayer",
+      "catalog_product_id": "886958",
+      "category_paths": [
+        "Cold Cuts",
+        "Cold Cuts > Packaged & Sliced Smoked Meat > Smoked Meat VP",
+        "Deli",
+        "Deli > Packaged Cold Cuts > Bacon"
+      ],
+      "name": "Naturally Hardwood Smoked Maple Flavor Bacon",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11925326"
+            ],
+            "regular_price": 11.99
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": null,
+              "derived_effective_unit_price": null,
+              "description": "Only $7.99",
+              "promotion_id": "11925326"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:2384470",
+      "retailer_product_id": "2384470"
+    },
+    {
+      "branch_product_id": "3199953",
+      "brand": "Yo Crunch",
+      "catalog_product_id": "301349",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Yogurt & Puddings > Kids Yogurts"
+      ],
+      "name": "Low Fat Yogurt with Fun Toppings Strawberry Flavor Yogurt",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.19
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2384694",
+      "retailer_product_id": "2384694"
+    },
+    {
+      "branch_product_id": "3206086",
+      "brand": "Alessi",
+      "catalog_product_id": "1075283",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Instant Meals > Noodles & Soups"
+      ],
+      "name": "Funghi Porcini Mushroom Soup",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2390827",
+      "retailer_product_id": "2390827"
+    },
+    {
+      "branch_product_id": "3207562",
+      "brand": "Royal",
+      "catalog_product_id": "672502",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Baking Needs > Jello & Pudding"
+      ],
+      "name": "Orange Gelatin",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 0.89
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2392303",
+      "retailer_product_id": "2392303"
+    },
+    {
+      "branch_product_id": "3210653",
+      "brand": "Daisy",
+      "catalog_product_id": "3398459",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Milk & Cream > Sour Cream",
+        "Meal Solutions",
+        "Meal Solutions > Dinner Ideas > Mexican Dinner"
+      ],
+      "name": "Pure & Natural Sour Cream",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2395394",
+      "retailer_product_id": "2395394"
+    },
+    {
+      "branch_product_id": "3212585",
+      "brand": "Barilla",
+      "catalog_product_id": "93487",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Pasta, Grains & Beans > Pasta & Spaghetti"
+      ],
+      "name": "Tri Color Rotini Pasta",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2397326",
+      "retailer_product_id": "2397326"
+    },
+    {
+      "branch_product_id": "3212640",
+      "brand": "Ben & Jerry's",
+      "catalog_product_id": "142825",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Ice Cream & Ices > Ice Cream & Sorbet"
+      ],
+      "name": "Half Baked Ice Cream",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2397381",
+      "retailer_product_id": "2397381"
+    },
+    {
+      "branch_product_id": "3215392",
+      "brand": null,
+      "catalog_product_id": "733351",
+      "category_paths": [
+        "Meat & Seafood",
+        "Meat & Seafood > Fresh Meat > Beef"
+      ],
+      "name": "Boneless Beef Rib Eye Steak",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 20.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2400133",
+      "retailer_product_id": "2400133"
+    },
+    {
+      "branch_product_id": "3220138",
+      "brand": "Mazola",
+      "catalog_product_id": "234577",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Oil & Cooking Sprays"
+      ],
+      "name": "Corn Oil",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.69
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2404879",
+      "retailer_product_id": "2404879"
+    },
+    {
+      "branch_product_id": "3477669",
+      "brand": "Bar S",
+      "catalog_product_id": "880622",
+      "category_paths": [
+        "Cold Cuts",
+        "Cold Cuts > Packaged & Sliced Smoked Meat > Hot Dogs & Sausages VP",
+        "Deli",
+        "Deli > Packaged Cold Cuts > Hot Dogs & Sausages",
+        "Meat & Seafood",
+        "Meat & Seafood > Sausages > Chicken & Turkey Sausages"
+      ],
+      "name": "Chicken Franks",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2583088",
+      "retailer_product_id": "2583088"
+    },
+    {
+      "branch_product_id": "3694676",
+      "brand": "Finest Harvest",
+      "catalog_product_id": "674274",
+      "category_paths": [
+        "Dried Fruits & Nuts",
+        "Dried Fruits & Nuts > Nuts & Seeds > Nut & Seed Snacks",
+        "Dried Fruits & Nuts > Nuts & Seeds > Nuts",
+        "Fresh Produce",
+        "Fresh Produce > Dried Fruit & Nuts > Packed Nuts & Seeds",
+        "Snacks & Sweets",
+        "Snacks & Sweets > Fruit & Nut Snacks > Nut & Seed Snacking"
+      ],
+      "name": "Natural Omega 3 Mix",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.19
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2776422",
+      "retailer_product_id": "2776422"
+    },
+    {
+      "branch_product_id": "8355206",
+      "brand": "Polar",
+      "catalog_product_id": "1495088",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Water & Sparkling Water"
+      ],
+      "name": "Mango Limeade Seltzer 8 pk",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.39
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:5418980",
+      "retailer_product_id": "5418980"
+    },
+    {
+      "branch_product_id": "8489366",
+      "brand": "Boost",
+      "catalog_product_id": "879445",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Energy & Sports Drinks",
+        "Health & Special Diets",
+        "Health & Special Diets > Beverages > Nutrition Shakes",
+        "Health & Special Diets > Specialty Diets > Sports Nutrition"
+      ],
+      "name": "Original Rich Chocolate Complete Nutritional Drink 6 Pk",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 13.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:5469669",
+      "retailer_product_id": "5469669"
+    },
+    {
+      "branch_product_id": "14020832",
+      "brand": "Goya",
+      "catalog_product_id": "3104742",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Beans & Peas"
+      ],
+      "name": "Organics Pinto Beans with Sea Salt",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:8012390",
+      "retailer_product_id": "8012390"
+    },
+    {
+      "branch_product_id": "14323702",
+      "brand": "Nakano",
+      "catalog_product_id": "8292878",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Vinegar & Cooking Wine",
+        "Meal Solutions",
+        "Meal Solutions > Create Your Own Salad > Dressings"
+      ],
+      "name": "Toasted Sesame Rice Vinegar",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:8175594",
+      "retailer_product_id": "8175594"
+    },
+    {
+      "branch_product_id": "16757913",
+      "brand": "Kinder",
+      "catalog_product_id": "3000796",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Candy & Chocolate > Chocolate"
+      ],
+      "name": "Bueno Crispy Creamy Chocolate Bars 2 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:9629695",
+      "retailer_product_id": "9629695"
+    }
+  ],
+  "schema_version": "1.0"
+}

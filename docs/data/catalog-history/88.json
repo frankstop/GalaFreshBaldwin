@@ -1,0 +1,865 @@
+{
+  "items": [
+    {
+      "branch_product_id": "21631864",
+      "brand": "Wise",
+      "catalog_product_id": "5187214",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Chips & Snacks > Potato Chips"
+      ],
+      "name": "Gluten Free Golden Original Potato Chips",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:12467129",
+      "retailer_product_id": "12467129"
+    },
+    {
+      "branch_product_id": "24589436",
+      "brand": "Gatorade",
+      "catalog_product_id": "334713",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Energy & Sports Drinks",
+        "Health & Special Diets",
+        "Health & Special Diets > Beverages > Sports Drinks",
+        "Health & Special Diets > Specialty Diets > Sports Nutrition"
+      ],
+      "name": "Lemon Lime Thirst Quencher Sports Drink",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11926195"
+            ],
+            "regular_price": 2.79
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": "unambiguous display text: Buy 2 units from products of Energy & Sports Drinks of Gatorade for $4",
+              "derived_effective_unit_price": 2.0,
+              "description": "Buy 2 units from products of Energy & Sports Drinks of Gatorade for $4",
+              "promotion_id": "11926195"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:13640696",
+      "retailer_product_id": "13640696"
+    },
+    {
+      "branch_product_id": "25188287",
+      "brand": "Baked in Brooklyn",
+      "catalog_product_id": "5189074",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Cookies & Crackers > Crackers"
+      ],
+      "name": "Original Bread Sticks",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:13945197",
+      "retailer_product_id": "13945197"
+    },
+    {
+      "branch_product_id": "34627781",
+      "brand": "Perdue",
+      "catalog_product_id": "8438910",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Frozen Meals > Breaded Chicken & Party Wings"
+      ],
+      "name": "Air Fryer Ready Crispy Wings with Lemon Pepper Flavor",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 12.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:16132782",
+      "retailer_product_id": "16132782"
+    },
+    {
+      "branch_product_id": "42716486",
+      "brand": "Cinnamon Toast Crunch",
+      "catalog_product_id": "7209414",
+      "category_paths": [
+        "Cereal & Breakfast",
+        "Cereal & Breakfast > Cereal > Cold Cereals"
+      ],
+      "name": "New Waffle Whole Wheat and Corn Cereal",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:17635767",
+      "retailer_product_id": "17635767"
+    },
+    {
+      "branch_product_id": "47646807",
+      "brand": "La Choy",
+      "catalog_product_id": "124825",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Vegetables"
+      ],
+      "name": "Fancy Sliced Water Chestnuts",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:18487567",
+      "retailer_product_id": "18487567"
+    },
+    {
+      "branch_product_id": "49103702",
+      "brand": "Barilla",
+      "catalog_product_id": "7712184",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Pasta, Grains & Beans > Pasta & Spaghetti"
+      ],
+      "name": "High Quality Durum Wheat Al Bronzo Bucatini",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:18867610",
+      "retailer_product_id": "18867610"
+    },
+    {
+      "branch_product_id": "49900642",
+      "brand": "Hershey's",
+      "catalog_product_id": "7965634",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Baking Needs > Essentials & Extracts"
+      ],
+      "name": "100% Cacao Natural Unsweetened",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:19180246",
+      "retailer_product_id": "19180246"
+    },
+    {
+      "branch_product_id": "52910449",
+      "brand": "Hershey's",
+      "catalog_product_id": "8314044",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Candy & Chocolate > Chocolate"
+      ],
+      "name": "Share Pack Miniatures Chocolate Candy",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:20214362",
+      "retailer_product_id": "20214362"
+    },
+    {
+      "branch_product_id": "53128288",
+      "brand": "Nabisco",
+      "catalog_product_id": "8209629",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Cookies & Crackers > Cookies"
+      ],
+      "name": "Reese's Peanut Butter Cream w/ Oreo Cookie Crumbs",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:20281692",
+      "retailer_product_id": "20281692"
+    },
+    {
+      "branch_product_id": "3190126",
+      "brand": "Lean Cuisine",
+      "catalog_product_id": "881111",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Frozen Meals > Ready Meals",
+        "Meal Solutions",
+        "Meal Solutions > Dinner Ideas > America's Favorites"
+      ],
+      "name": "Favorites Classic Macaroni & Beef with Ripened Tomatoes",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2374867",
+      "retailer_product_id": "2374867"
+    },
+    {
+      "branch_product_id": "3190290",
+      "brand": "Birds Eye",
+      "catalog_product_id": "715411",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Frozen Meals > Vegetarian Food & Vegetable Cutlets"
+      ],
+      "name": "Brown & Wild Rice with Corn, Carrots & Peas",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2375031",
+      "retailer_product_id": "2375031"
+    },
+    {
+      "branch_product_id": "3190340",
+      "brand": "Birds Eye",
+      "catalog_product_id": "907968",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Frozen Foods > Frozen Vegetables"
+      ],
+      "name": "Pepper Stir-fry",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11926140"
+            ],
+            "regular_price": 3.59
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": "unambiguous display text: Buy 2 units from products of Frozen Vegetables of Birds Eye for $6",
+              "derived_effective_unit_price": 3.0,
+              "description": "Buy 2 units from products of Frozen Vegetables of Birds Eye for $6",
+              "promotion_id": "11926140"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:2375081",
+      "retailer_product_id": "2375081"
+    },
+    {
+      "branch_product_id": "3191333",
+      "brand": "Newman's Own",
+      "catalog_product_id": "700202",
+      "category_paths": [
+        "Meal Solutions",
+        "Meal Solutions > Dinner Ideas > America's Favorites",
+        "Snacks & Sweets",
+        "Snacks & Sweets > Chips & Snacks > Popcorn"
+      ],
+      "name": "Salt Popcorn Microwave Sea 3 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2376074",
+      "retailer_product_id": "2376074"
+    },
+    {
+      "branch_product_id": "3191977",
+      "brand": "Del Monte",
+      "catalog_product_id": "739100",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Vegetables",
+        "Meal Solutions",
+        "Meal Solutions > Create Your Own Salad > Something Extra"
+      ],
+      "name": "Golden Sweet Corn Cream Style Picked Fresh Pack",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.69
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2376718",
+      "retailer_product_id": "2376718"
+    },
+    {
+      "branch_product_id": "3192547",
+      "brand": "Hunt's",
+      "catalog_product_id": "132112",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Tomatoes & Pastes"
+      ],
+      "name": "Natural Tomato Sauce with No Salt Added",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2377288",
+      "retailer_product_id": "2377288"
+    },
+    {
+      "branch_product_id": "3192990",
+      "brand": "Idahoan",
+      "catalog_product_id": "95635",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Instant Meals > Instant Meals",
+        "Meal Solutions",
+        "Meal Solutions > Heat-and-Eat > Instant Meals"
+      ],
+      "name": "Gluten Free Original Mashed Potatoes",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.69
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2377731",
+      "retailer_product_id": "2377731"
+    },
+    {
+      "branch_product_id": "3193336",
+      "brand": "P.F. Chang's",
+      "catalog_product_id": "887083",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Frozen Meals > Ready Meals"
+      ],
+      "name": "Home Menu Meal For Two Sweet & Sour Chicken",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 11.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2378077",
+      "retailer_product_id": "2378077"
+    },
+    {
+      "branch_product_id": "3194377",
+      "brand": "Dannon",
+      "catalog_product_id": "832880",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Yogurt & Puddings > Probiotic & Yogurt Drinks"
+      ],
+      "name": "Smoothie Drinks Strawberry & Watermelon 12 Pk",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2379118",
+      "retailer_product_id": "2379118"
+    },
+    {
+      "branch_product_id": "3195701",
+      "brand": "Wise",
+      "catalog_product_id": "882618",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Cooking Sauces & Salsas",
+        "Meal Solutions",
+        "Meal Solutions > Dinner Ideas > Mexican Dinner",
+        "Snacks & Sweets",
+        "Snacks & Sweets > Chips & Snacks > Corn & Tortilla Chips"
+      ],
+      "name": "Salsa Con Queso Medium",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2380442",
+      "retailer_product_id": "2380442"
+    },
+    {
+      "branch_product_id": "3198529",
+      "brand": "Boar's Head",
+      "catalog_product_id": "983945",
+      "category_paths": [
+        "Cold Cuts",
+        "Cold Cuts > Packaged & Sliced Smoked Meat > Smoked Meat VP",
+        "Deli",
+        "Deli > Packaged Cold Cuts > Turkey & Chicken Cuts"
+      ],
+      "name": "Oven Roasted Turkey Breast",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 9.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2383270",
+      "retailer_product_id": "2383270"
+    },
+    {
+      "branch_product_id": "3198755",
+      "brand": "Stove Top",
+      "catalog_product_id": "884550",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Breadcrumbs & Stuffing"
+      ],
+      "name": "Stove Top Stuffing Mix with savory Herbs",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2383496",
+      "retailer_product_id": "2383496"
+    },
+    {
+      "branch_product_id": "3199905",
+      "brand": "Pledge",
+      "catalog_product_id": "109978",
+      "category_paths": [
+        "Laundry & Cleaning",
+        "Laundry & Cleaning > Home Cleaning > Carpet & Furniture"
+      ],
+      "name": "Lemon Enhancing Polish & Clean Furniture Spray",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2384646",
+      "retailer_product_id": "2384646"
+    },
+    {
+      "branch_product_id": "3200571",
+      "brand": "Chicken of the Sea",
+      "catalog_product_id": "781673",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Tuna & Seafood"
+      ],
+      "name": "Lightly Smoked Sardines in Oil",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2385312",
+      "retailer_product_id": "2385312"
+    },
+    {
+      "branch_product_id": "3202178",
+      "brand": "Campbell's",
+      "catalog_product_id": "877554",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Instant Meals > Noodles & Soups"
+      ],
+      "name": "Chunky Chicken Noodle Soup",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.69
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2386919",
+      "retailer_product_id": "2386919"
+    },
+    {
+      "branch_product_id": "3204378",
+      "brand": "Nestle",
+      "catalog_product_id": "332587",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Water & Sparkling Water"
+      ],
+      "name": "Pure Life Purified Water 28 pk",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11938411"
+            ],
+            "regular_price": 8.89
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": null,
+              "derived_effective_unit_price": null,
+              "description": "Only $5.99",
+              "promotion_id": "11938411"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:2389119",
+      "retailer_product_id": "2389119"
+    },
+    {
+      "branch_product_id": "3205372",
+      "brand": "Nissin",
+      "catalog_product_id": "886237",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Instant Meals > Noodles & Soups"
+      ],
+      "name": "Bowl Noodles Hot & Spicy With Shrimp",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2390113",
+      "retailer_product_id": "2390113"
+    },
+    {
+      "branch_product_id": "3206171",
+      "brand": "Dole",
+      "catalog_product_id": "180157",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Frozen Foods > Frozen Fruit & Concentrate"
+      ],
+      "name": "Sliced Strawberries",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2390912",
+      "retailer_product_id": "2390912"
+    },
+    {
+      "branch_product_id": "3210714",
+      "brand": "Stella D'oro",
+      "catalog_product_id": "109077",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Cookies & Crackers > Cookies"
+      ],
+      "name": "Cookies Margherite Combination",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2395455",
+      "retailer_product_id": "2395455"
+    },
+    {
+      "branch_product_id": "3212579",
+      "brand": "Barilla",
+      "catalog_product_id": "837779",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Pasta, Grains & Beans > Pasta & Spaghetti"
+      ],
+      "name": "Elbows Pasta Enriched Marconi Product",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2397320",
+      "retailer_product_id": "2397320"
+    },
+    {
+      "branch_product_id": "3213516",
+      "brand": "Schweppes",
+      "catalog_product_id": "138590",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Soda Drinks"
+      ],
+      "name": "Caffeine Free Ginger Ale Soda Bottle",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11926419"
+            ],
+            "regular_price": 3.54
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": null,
+              "derived_effective_unit_price": null,
+              "description": "Only $2.99",
+              "promotion_id": "11926419"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:2398257",
+      "retailer_product_id": "2398257"
+    },
+    {
+      "branch_product_id": "3223531",
+      "brand": "Affair",
+      "catalog_product_id": "676989",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Juice & Nectar"
+      ],
+      "name": "Black Currant Blueberry Juice",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2408272",
+      "retailer_product_id": "2408272"
+    },
+    {
+      "branch_product_id": "3223666",
+      "brand": "Post",
+      "catalog_product_id": "88724",
+      "category_paths": [
+        "Cereal & Breakfast",
+        "Cereal & Breakfast > Cereal > Cold Cereals"
+      ],
+      "name": "Bran Flakes Whole Grain Wheat Cereal",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2408407",
+      "retailer_product_id": "2408407"
+    },
+    {
+      "branch_product_id": "3250336",
+      "brand": "Duncan Hines",
+      "catalog_product_id": "96145",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Baking Needs > Baking Mixes"
+      ],
+      "name": "Signature Double Fudge Brownie Mix",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2434926",
+      "retailer_product_id": "2434926"
+    },
+    {
+      "branch_product_id": "7050085",
+      "brand": "Silk",
+      "catalog_product_id": "991287",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Yogurt & Puddings > Dairy Free Yogurts",
+        "Health & Special Diets",
+        "Health & Special Diets > Dairy Substitutes > Dairy Free Yogurts"
+      ],
+      "name": "Strawberry Almondmilk Yogurt Alternative",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.19
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:4789724",
+      "retailer_product_id": "4789724"
+    }
+  ],
+  "schema_version": "1.0"
+}

@@ -1,0 +1,745 @@
+{
+  "items": [
+    {
+      "branch_product_id": "25528414",
+      "brand": null,
+      "catalog_product_id": "294246",
+      "category_paths": [
+        "Fresh Produce",
+        "Fresh Produce > Fresh Vegetables > Main Vegetables"
+      ],
+      "name": "Organic Celery Hearts",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:14104251",
+      "retailer_product_id": "14104251"
+    },
+    {
+      "branch_product_id": "28427783",
+      "brand": "Goya",
+      "catalog_product_id": "3304936",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Cooking Sauces & Salsas"
+      ],
+      "name": "Sofrito Tomato Cooking Base",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:14595360",
+      "retailer_product_id": "14595360"
+    },
+    {
+      "branch_product_id": "28785243",
+      "brand": "Quaker",
+      "catalog_product_id": "5489820",
+      "category_paths": [
+        "Cereal & Breakfast",
+        "Cereal & Breakfast > Cereal > Oatmeal"
+      ],
+      "name": "Instant Oatmeal Original Packets 10 Ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:14647080",
+      "retailer_product_id": "14647080"
+    },
+    {
+      "branch_product_id": "30804233",
+      "brand": "Mistic",
+      "catalog_product_id": "7870080",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Refrigerated Drinks",
+        "Dairy",
+        "Dairy > Refrigerated > Refrigerated Juice",
+        "Health & Special Diets",
+        "Health & Special Diets > Beverages > Refrigerated Juices"
+      ],
+      "name": "Tropical Fruit Punch Drink with 5% Pear Juice",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:15148974",
+      "retailer_product_id": "15148974"
+    },
+    {
+      "branch_product_id": "35604190",
+      "brand": "Cuetara",
+      "catalog_product_id": "7956500",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Cookies & Crackers > Cookies"
+      ],
+      "name": "Maria Cookies",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11700110"
+            ],
+            "regular_price": 1.99
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": "unambiguous display text: Buy 4 units for $5",
+              "derived_effective_unit_price": 1.25,
+              "description": "Buy 4 units for $5",
+              "promotion_id": "11700110"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:16266612",
+      "retailer_product_id": "16266612"
+    },
+    {
+      "branch_product_id": "39581507",
+      "brand": "Bread City",
+      "catalog_product_id": "2745701",
+      "category_paths": [
+        "Bread & Bakery",
+        "Bread & Bakery > Packaged Bread > Packaged Bread"
+      ],
+      "name": "Panella Bread Semolina",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:17117869",
+      "retailer_product_id": "17117869"
+    },
+    {
+      "branch_product_id": "43300549",
+      "brand": "Hidden Valley",
+      "catalog_product_id": "6852218",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Salad Dressings & Toppings",
+        "Health & Special Diets",
+        "Health & Special Diets > Gluten Free > Gluten Free Pantry"
+      ],
+      "name": "Gluten Free Garlic Ranch Condiment & Dressing",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:17723963",
+      "retailer_product_id": "17723963"
+    },
+    {
+      "branch_product_id": "50905067",
+      "brand": "Buitoni",
+      "catalog_product_id": "7954212",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Pasta, Grains & Beans > Pasta & Spaghetti"
+      ],
+      "name": "Buitoni Angel Hair Pasta",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:19459176",
+      "retailer_product_id": "19459176"
+    },
+    {
+      "branch_product_id": "3189983",
+      "brand": "Ore Ida",
+      "catalog_product_id": "664773",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Frozen Foods > French Fries & Onion Rings",
+        "Meal Solutions",
+        "Meal Solutions > Dinner Ideas > America's Favorites"
+      ],
+      "name": "Gluten Free Extra Crispy Easy Fries Golden Crinkles",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2374724",
+      "retailer_product_id": "2374724"
+    },
+    {
+      "branch_product_id": "3191862",
+      "brand": "La Fe",
+      "catalog_product_id": "1715963",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Frozen Foods > Frozen Fruit & Concentrate"
+      ],
+      "name": "Guanabana (Soursop Pulp)",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2376603",
+      "retailer_product_id": "2376603"
+    },
+    {
+      "branch_product_id": "3192695",
+      "brand": "Tropical",
+      "catalog_product_id": "739404",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Yogurt & Puddings > Puddings & Desserts"
+      ],
+      "name": "Creme Parfait Gelatin Dessert Assorted Flavors",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.5
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2377436",
+      "retailer_product_id": "2377436"
+    },
+    {
+      "branch_product_id": "3192970",
+      "brand": "Planters",
+      "catalog_product_id": "92607",
+      "category_paths": [
+        "Dried Fruits & Nuts",
+        "Dried Fruits & Nuts > Nuts & Seeds > Nuts",
+        "Fresh Produce",
+        "Fresh Produce > Dried Fruit & Nuts > Packed Nuts & Seeds",
+        "Grocery",
+        "Grocery > Baking Needs > Nuts & Seeds",
+        "Meal Solutions",
+        "Meal Solutions > Create Your Own Salad > Crunchy Salad Toppings"
+      ],
+      "name": "Dry Roasted Salted Peanuts",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11926213"
+            ],
+            "regular_price": 5.49
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": null,
+              "derived_effective_unit_price": null,
+              "description": "Only $3.99",
+              "promotion_id": "11926213"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:2377711",
+      "retailer_product_id": "2377711"
+    },
+    {
+      "branch_product_id": "3193007",
+      "brand": "Friendly's",
+      "catalog_product_id": "878638",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Ice Cream & Ices > Ice Cream & Sorbet"
+      ],
+      "name": "Premium Ice Cream Cookies 'N Cream",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11926262"
+            ],
+            "regular_price": 5.99
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": null,
+              "derived_effective_unit_price": null,
+              "description": "Only $4.99",
+              "promotion_id": "11926262"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:2377748",
+      "retailer_product_id": "2377748"
+    },
+    {
+      "branch_product_id": "3194782",
+      "brand": "Skippy",
+      "catalog_product_id": "2536408",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Spreads > Peanut Butter"
+      ],
+      "name": "Gluten Free Roasted Honey Nut Creamy Peanut Butter Spread",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2379523",
+      "retailer_product_id": "2379523"
+    },
+    {
+      "branch_product_id": "3195379",
+      "brand": "Lipton",
+      "catalog_product_id": "668705",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Instant Meals > Noodles & Soups"
+      ],
+      "name": "Lipton Soup Secrets Instant Extra Noodle Soup Mix With Real Chicken Broth",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.39
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2380120",
+      "retailer_product_id": "2380120"
+    },
+    {
+      "branch_product_id": "3195700",
+      "brand": "Wise",
+      "catalog_product_id": "881488",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Condiments & Relishes"
+      ],
+      "name": "French Onion Flavored Dip",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2380441",
+      "retailer_product_id": "2380441"
+    },
+    {
+      "branch_product_id": "3196694",
+      "brand": "Farm Fresh",
+      "catalog_product_id": "634205",
+      "category_paths": [
+        "Deli",
+        "Deli > Salads & Dips > Pickles & Olives"
+      ],
+      "name": "Kosher Dill Pickles",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.59
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2381435",
+      "retailer_product_id": "2381435"
+    },
+    {
+      "branch_product_id": "3196829",
+      "brand": "San Pellegrino",
+      "catalog_product_id": "125764",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Water & Sparkling Water"
+      ],
+      "name": "Sparkling Natural Mineral Water 6 pk",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2381570",
+      "retailer_product_id": "2381570"
+    },
+    {
+      "branch_product_id": "3198794",
+      "brand": "Kool-Aid",
+      "catalog_product_id": "108113",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Drink Mixes & Syrups"
+      ],
+      "name": "Tropical Punch Unsweetened Drink Mix",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 0.59
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2383535",
+      "retailer_product_id": "2383535"
+    },
+    {
+      "branch_product_id": "3198799",
+      "brand": "Good Seasons",
+      "catalog_product_id": "149274",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Salad Dressings & Toppings"
+      ],
+      "name": "Italian Salad Dressing & Recipe Mix Includes Cruet Kit",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2383540",
+      "retailer_product_id": "2383540"
+    },
+    {
+      "branch_product_id": "3207491",
+      "brand": "Shady Brook Farms",
+      "catalog_product_id": "836707",
+      "category_paths": [
+        "Meat & Seafood",
+        "Meat & Seafood > Fresh Meat > Ground Meat",
+        "Meat & Seafood > Fresh Poultry > Turkey"
+      ],
+      "name": "Fresh 93% Lean 7% Fat Ground Turkey",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2392232",
+      "retailer_product_id": "2392232"
+    },
+    {
+      "branch_product_id": "3214185",
+      "brand": "Hampton Farms",
+      "catalog_product_id": "1016504",
+      "category_paths": [
+        "Dried Fruits & Nuts",
+        "Dried Fruits & Nuts > Nuts & Seeds > Nuts",
+        "Fresh Produce",
+        "Fresh Produce > Dried Fruit & Nuts > Packed Nuts & Seeds"
+      ],
+      "name": "Jumbo Unsalted Roasted Peanuts",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2398926",
+      "retailer_product_id": "2398926"
+    },
+    {
+      "branch_product_id": "3220052",
+      "brand": "Makoto",
+      "catalog_product_id": "735132",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Salad Dressings & Toppings",
+        "Meal Solutions",
+        "Meal Solutions > Create Your Own Salad > Dressings"
+      ],
+      "name": "Honey Ginger Dressing",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2404793",
+      "retailer_product_id": "2404793"
+    },
+    {
+      "branch_product_id": "3222957",
+      "brand": "Halo Top",
+      "catalog_product_id": "402689",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Ice Cream & Ices > Ice Cream & Sorbet"
+      ],
+      "name": "Strawberry Light Ice Cream",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2407698",
+      "retailer_product_id": "2407698"
+    },
+    {
+      "branch_product_id": "4232607",
+      "brand": "Nabisco",
+      "catalog_product_id": "878747",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Cookies & Crackers > Cookies"
+      ],
+      "name": "100% Whole Grain Fig Chewy Cookies",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:3030744",
+      "retailer_product_id": "3030744"
+    },
+    {
+      "branch_product_id": "5947058",
+      "brand": "Bob's Red Mill",
+      "catalog_product_id": "1853906",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Baking Needs > Flour",
+        "Health & Special Diets",
+        "Health & Special Diets > Gluten Free > Gluten Free Baking Needs"
+      ],
+      "name": "Gluten Free Whole Almonds",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 12.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:4009805",
+      "retailer_product_id": "4009805"
+    },
+    {
+      "branch_product_id": "6145658",
+      "brand": "Oscar Mayer",
+      "catalog_product_id": "882056",
+      "category_paths": [
+        "Cold Cuts",
+        "Cold Cuts > Packaged & Sliced Smoked Meat > Bologna & Mortadella VP",
+        "Deli",
+        "Deli > Packaged Cold Cuts > Salami & Bologna"
+      ],
+      "name": "Bologna",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:4135004",
+      "retailer_product_id": "4135004"
+    },
+    {
+      "branch_product_id": "7849850",
+      "brand": "General Mills",
+      "catalog_product_id": "2196680",
+      "category_paths": [
+        "Cereal & Breakfast",
+        "Cereal & Breakfast > Cereal > Cold Cereals"
+      ],
+      "name": "General Mills Golden Grahams Cereal",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:5142777",
+      "retailer_product_id": "5142777"
+    },
+    {
+      "branch_product_id": "8118203",
+      "brand": "Tropical",
+      "catalog_product_id": "2363616",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Yogurt & Puddings > Probiotic & Yogurt Drinks"
+      ],
+      "name": "Drinkable Soursop Lowfat Yogurt",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.69
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:5286386",
+      "retailer_product_id": "5286386"
+    },
+    {
+      "branch_product_id": "9933969",
+      "brand": "Mrs. T's",
+      "catalog_product_id": "881697",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Frozen Meals > Pasta & Dumplings"
+      ],
+      "name": "Feta & Spinach Pierogies 12 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:6277118",
+      "retailer_product_id": "6277118"
+    }
+  ],
+  "schema_version": "1.0"
+}

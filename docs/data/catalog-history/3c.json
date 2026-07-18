@@ -1,0 +1,919 @@
+{
+  "items": [
+    {
+      "branch_product_id": "18793428",
+      "brand": "Goya",
+      "catalog_product_id": "1114300",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Salt"
+      ],
+      "name": "Kosher Salt",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:10914593",
+      "retailer_product_id": "10914593"
+    },
+    {
+      "branch_product_id": "23727217",
+      "brand": "Coors",
+      "catalog_product_id": "831943",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Alcohol > Beer"
+      ],
+      "name": "Coors® Banquet Beer 12-12 Fl. Oz. Cans",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11470557"
+            ],
+            "regular_price": 16.59
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": null,
+              "derived_effective_unit_price": null,
+              "description": "Only $13.99",
+              "promotion_id": "11470557"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:13307700",
+      "retailer_product_id": "13307700"
+    },
+    {
+      "branch_product_id": "25527532",
+      "brand": null,
+      "catalog_product_id": "8234150",
+      "category_paths": [
+        "Fresh Produce",
+        "Fresh Produce > Fresh Vegetables > Main Vegetables",
+        "Fresh Produce > Fresh Vegetables > Root Vegetables"
+      ],
+      "name": "Organic Gold Beets",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:14103370",
+      "retailer_product_id": "14103370"
+    },
+    {
+      "branch_product_id": "49103705",
+      "brand": "Barilla",
+      "catalog_product_id": "7712187",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Pasta, Grains & Beans > Pasta & Spaghetti",
+        "Meal Solutions",
+        "Meal Solutions > Dinner Ideas > Italian Dinner"
+      ],
+      "name": "Al Bronzo Penne Rigate Pasta",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:18867613",
+      "retailer_product_id": "18867613"
+    },
+    {
+      "branch_product_id": "52126888",
+      "brand": "Goya",
+      "catalog_product_id": "1108286",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Vegetables",
+        "Meal Solutions",
+        "Meal Solutions > Create Your Own Salad > Something Extra"
+      ],
+      "name": "Whole Kernel Golden Corn",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.39
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:19924711",
+      "retailer_product_id": "19924711"
+    },
+    {
+      "branch_product_id": "53027797",
+      "brand": "Sunny D",
+      "catalog_product_id": "8299047",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Refrigerated Drinks",
+        "Dairy",
+        "Dairy > Refrigerated > Refrigerated Juice",
+        "Health & Special Diets",
+        "Health & Special Diets > Beverages > Refrigerated Juices"
+      ],
+      "name": "Passion Fruit Flavor Drink w/ 100% Vitamin C",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11704620"
+            ],
+            "regular_price": 3.79
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": null,
+              "derived_effective_unit_price": null,
+              "description": "Only $2.99",
+              "promotion_id": "11704620"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:20248980",
+      "retailer_product_id": "20248980"
+    },
+    {
+      "branch_product_id": "3190198",
+      "brand": "Pepperidge Farm",
+      "catalog_product_id": "141451",
+      "category_paths": [
+        "Meal Solutions",
+        "Meal Solutions > Lunchbox > Snack Bags",
+        "Snacks & Sweets",
+        "Snacks & Sweets > Cookies & Crackers > Cookies"
+      ],
+      "name": "Tahoe White Chocolate Macadamia Crispy Cookies",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.89
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2374939",
+      "retailer_product_id": "2374939"
+    },
+    {
+      "branch_product_id": "3190321",
+      "brand": "Birds Eye",
+      "catalog_product_id": "609694",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Frozen Foods > Frozen Vegetables"
+      ],
+      "name": "Sweet Peas",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2375062",
+      "retailer_product_id": "2375062"
+    },
+    {
+      "branch_product_id": "3190430",
+      "brand": "Gerber",
+      "catalog_product_id": "112335",
+      "category_paths": [
+        "Personal Care & Baby",
+        "Personal Care & Baby > Baby & Kids Food > Baby & Toddler Snacks"
+      ],
+      "name": "Strawberry Apple Flavored Puff Snack for Baby",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2375171",
+      "retailer_product_id": "2375171"
+    },
+    {
+      "branch_product_id": "3191635",
+      "brand": "Kraft",
+      "catalog_product_id": "885777",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Cheese > Firm Cheese"
+      ],
+      "name": "Singles White American 24 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2376376",
+      "retailer_product_id": "2376376"
+    },
+    {
+      "branch_product_id": "3191644",
+      "brand": "Kraft",
+      "catalog_product_id": "879822",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Salad Dressings & Toppings",
+        "Meal Solutions",
+        "Meal Solutions > Create Your Own Salad > Dressings"
+      ],
+      "name": "Creamy French Dressing with No MSG Added",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2376385",
+      "retailer_product_id": "2376385"
+    },
+    {
+      "branch_product_id": "3193587",
+      "brand": "Arm & Hammer",
+      "catalog_product_id": "234388",
+      "category_paths": [
+        "Laundry & Cleaning",
+        "Laundry & Cleaning > Home Cleaning > Kitchen"
+      ],
+      "name": "Pure Baking Soda",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2378328",
+      "retailer_product_id": "2378328"
+    },
+    {
+      "branch_product_id": "3193615",
+      "brand": "Arm & Hammer",
+      "catalog_product_id": "883577",
+      "category_paths": [
+        "Laundry & Cleaning",
+        "Laundry & Cleaning > Home Cleaning > Carpet & Furniture"
+      ],
+      "name": "Extra Strength Carpet Odor Eliminator with Oxi Clean Dirt Fighters",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2378356",
+      "retailer_product_id": "2378356"
+    },
+    {
+      "branch_product_id": "3194986",
+      "brand": "Eggo",
+      "catalog_product_id": "941372",
+      "category_paths": [
+        "Cereal & Breakfast",
+        "Cereal & Breakfast > Breakfast > Frozen Breakfast Solutions",
+        "Frozen",
+        "Frozen > Frozen Meals > Frozen Breakfast"
+      ],
+      "name": "Original Thick & Fluffy Waffles Family Pack 12 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 8.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2379727",
+      "retailer_product_id": "2379727"
+    },
+    {
+      "branch_product_id": "3195897",
+      "brand": "Goya",
+      "catalog_product_id": "669103",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Beans & Peas"
+      ],
+      "name": "Butter Beans",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.89
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2380638",
+      "retailer_product_id": "2380638"
+    },
+    {
+      "branch_product_id": "3196237",
+      "brand": "Goya",
+      "catalog_product_id": "669439",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Frozen Foods > Frozen Fruit & Concentrate"
+      ],
+      "name": "Blackberry Pulp",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2380978",
+      "retailer_product_id": "2380978"
+    },
+    {
+      "branch_product_id": "3196882",
+      "brand": "Edy's",
+      "catalog_product_id": "283365",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Ice Cream & Ices > Ice Cream & Sorbet"
+      ],
+      "name": "Chocolate Peanut Butter Cup Ice Cream",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2381623",
+      "retailer_product_id": "2381623"
+    },
+    {
+      "branch_product_id": "3200670",
+      "brand": "Tropicana",
+      "catalog_product_id": "1109101",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Juice & Nectar"
+      ],
+      "name": "Cranberry Juice",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.59
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2385411",
+      "retailer_product_id": "2385411"
+    },
+    {
+      "branch_product_id": "3202007",
+      "brand": "Prego",
+      "catalog_product_id": "877581",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Cooking Sauces & Salsas",
+        "Meal Solutions",
+        "Meal Solutions > Dinner Ideas > Italian Dinner"
+      ],
+      "name": "Fresh Mushroom Italian Sauce",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.19
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2386748",
+      "retailer_product_id": "2386748"
+    },
+    {
+      "branch_product_id": "3211942",
+      "brand": "Snapple",
+      "catalog_product_id": "143188",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Iced Tea & Coffee Drinks"
+      ],
+      "name": "Lemon Tea Glass Bottle",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.59
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2396683",
+      "retailer_product_id": "2396683"
+    },
+    {
+      "branch_product_id": "3212962",
+      "brand": "La Flor",
+      "catalog_product_id": "987325",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Spices & Seasonings"
+      ],
+      "name": "Cinnamon Sticks",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2397703",
+      "retailer_product_id": "2397703"
+    },
+    {
+      "branch_product_id": "3213957",
+      "brand": "Nerds",
+      "catalog_product_id": "838157",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Candy & Chocolate > Candies"
+      ],
+      "name": "Rainbow",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2398698",
+      "retailer_product_id": "2398698"
+    },
+    {
+      "branch_product_id": "3214050",
+      "brand": "StarKist",
+      "catalog_product_id": "1111420",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Tuna & Seafood",
+        "Meal Solutions",
+        "Meal Solutions > Create Your Own Salad > Something Extra"
+      ],
+      "name": "Starkist Gourmet Selects Medit Style Tuna",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.69
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2398791",
+      "retailer_product_id": "2398791"
+    },
+    {
+      "branch_product_id": "3217283",
+      "brand": "Mrs Dash",
+      "catalog_product_id": "91758",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Spices & Seasonings"
+      ],
+      "name": "Extra Spicy Seasoning Blend Salt-free",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.19
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2402024",
+      "retailer_product_id": "2402024"
+    },
+    {
+      "branch_product_id": "3222999",
+      "brand": "Whole Earth Sweetener Co.",
+      "catalog_product_id": "925532",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Sugar & Sweeteners"
+      ],
+      "name": "Nature Sweet Blend of Stevia & Monk Fruit Sweetener 40 pk",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2407740",
+      "retailer_product_id": "2407740"
+    },
+    {
+      "branch_product_id": "3223588",
+      "brand": "Stonefire",
+      "catalog_product_id": "1529810",
+      "category_paths": [
+        "Bread & Bakery",
+        "Bread & Bakery > Packaged Bread > Tortillas & Flatbread"
+      ],
+      "name": "Original Mini Naan Authentic Flatbreads 4 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.5
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2408329",
+      "retailer_product_id": "2408329"
+    },
+    {
+      "branch_product_id": "3223827",
+      "brand": "Mamita's",
+      "catalog_product_id": "677272",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Ice Cream & Ices > Ices & Freeze Pops"
+      ],
+      "name": "Tamarind Ice - 4 Ct x 4 Fl Oz",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11704525"
+            ],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": null,
+              "derived_effective_unit_price": null,
+              "description": "Only $3.99",
+              "promotion_id": "11704525"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:2408568",
+      "retailer_product_id": "2408568"
+    },
+    {
+      "branch_product_id": "3374379",
+      "brand": "Terrafina",
+      "catalog_product_id": "1073827",
+      "category_paths": [
+        "Dried Fruits & Nuts",
+        "Dried Fruits & Nuts > Dried Fruits & Vegetables > Dried Fruits",
+        "Fresh Produce",
+        "Fresh Produce > Dried Fruit & Nuts > Packed Dried Fruit",
+        "Meal Solutions",
+        "Meal Solutions > Lunchbox > Fruit Snacks"
+      ],
+      "name": "Natural Cranberries",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2552981",
+      "retailer_product_id": "2552981"
+    },
+    {
+      "branch_product_id": "3834768",
+      "brand": "Nabisco",
+      "catalog_product_id": "1428799",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Cookies & Crackers > Crackers"
+      ],
+      "name": "Triscuit Garden Herb Crackers Baked with 100% Whole Grain Wheat",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2851872",
+      "retailer_product_id": "2851872"
+    },
+    {
+      "branch_product_id": "6398023",
+      "brand": "Corona",
+      "catalog_product_id": "1977719",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Alcohol > Beer"
+      ],
+      "name": "Premier Beer Bottles",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11926398"
+            ],
+            "regular_price": 12.29
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": null,
+              "derived_effective_unit_price": null,
+              "description": "Only $10.99",
+              "promotion_id": "11926398"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:4275398",
+      "retailer_product_id": "4275398"
+    },
+    {
+      "branch_product_id": "7925084",
+      "brand": "Goya",
+      "catalog_product_id": "880823",
+      "category_paths": [
+        "Cold Cuts",
+        "Cold Cuts > Packaged & Sliced Smoked Meat > Salami & Kielbasa VP",
+        "Deli",
+        "Deli > Packaged Cold Cuts > Salami & Bologna"
+      ],
+      "name": "Salchichon Salami",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 10.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:5171575",
+      "retailer_product_id": "5171575"
+    },
+    {
+      "branch_product_id": "8580124",
+      "brand": "Urban Meadow",
+      "catalog_product_id": "2461661",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Vegetables"
+      ],
+      "name": "Sliced Beets",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.39
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:5542344",
+      "retailer_product_id": "5542344"
+    },
+    {
+      "branch_product_id": "10589557",
+      "brand": "Bob Evans",
+      "catalog_product_id": "2989382",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Eggs > Egg Products"
+      ],
+      "name": "Fat Free 100% Liquid Egg Whites",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 9.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:6566723",
+      "retailer_product_id": "6566723"
+    },
+    {
+      "branch_product_id": "11099938",
+      "brand": "Belvita",
+      "catalog_product_id": "3031966",
+      "category_paths": [
+        "Cereal & Breakfast",
+        "Cereal & Breakfast > Breakfast > Cereal & Granola Bars",
+        "Snacks & Sweets",
+        "Snacks & Sweets > Cookies & Crackers > Cookies"
+      ],
+      "name": "Sandwich Cinnamon Brown Sugar with Vanilla Creme Breakfast Biscuits 5 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:6833405",
+      "retailer_product_id": "6833405"
+    },
+    {
+      "branch_product_id": "16534228",
+      "brand": "Mistolin",
+      "catalog_product_id": "672889",
+      "category_paths": [
+        "Laundry & Cleaning",
+        "Laundry & Cleaning > Home Cleaning > All Purpose & Disinfectants"
+      ],
+      "name": "All Purpose Cleaner Floral",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 10.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:9516703",
+      "retailer_product_id": "9516703"
+    },
+    {
+      "branch_product_id": "16660987",
+      "brand": "Celestial Seasonings",
+      "catalog_product_id": "3052112",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Hot Beverages > Herbal Tea"
+      ],
+      "name": "Ginger Probiotics Herbal Tea Caffeine Free",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:9595844",
+      "retailer_product_id": "9595844"
+    },
+    {
+      "branch_product_id": "17000382",
+      "brand": "McCormick",
+      "catalog_product_id": "3762423",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Spices & Seasonings"
+      ],
+      "name": "Perfect Pinch Cajun Seasoning",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:9800070",
+      "retailer_product_id": "9800070"
+    }
+  ],
+  "schema_version": "1.0"
+}

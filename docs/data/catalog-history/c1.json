@@ -1,0 +1,848 @@
+{
+  "items": [
+    {
+      "branch_product_id": "21245562",
+      "brand": "Kellogg's",
+      "catalog_product_id": "5189763",
+      "category_paths": [
+        "Cereal & Breakfast",
+        "Cereal & Breakfast > Cereal > Cold Cereals"
+      ],
+      "name": "Original Corn Flakes Cereal",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:12355887",
+      "retailer_product_id": "12355887"
+    },
+    {
+      "branch_product_id": "26870518",
+      "brand": "Fresh Express",
+      "catalog_product_id": "1014885",
+      "category_paths": [
+        "Fresh Produce",
+        "Fresh Produce > Greens & Herbs > Fresh Salads",
+        "Meal Solutions",
+        "Meal Solutions > Create Your Own Salad > Veggies"
+      ],
+      "name": "Ready to eat Chopped Kit Sunflower Crisp Salad",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:14258531",
+      "retailer_product_id": "14258531"
+    },
+    {
+      "branch_product_id": "29863160",
+      "brand": "Mazola",
+      "catalog_product_id": "231448",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Oil & Cooking Sprays"
+      ],
+      "name": "Corn Plus Oil (Corn and Canola Oils)",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11926456"
+            ],
+            "regular_price": 13.99
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": null,
+              "derived_effective_unit_price": null,
+              "description": "Only $11.99 limited to one time",
+              "promotion_id": "11926456"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:14838288",
+      "retailer_product_id": "14838288"
+    },
+    {
+      "branch_product_id": "30774728",
+      "brand": "Babybel",
+      "catalog_product_id": "5794438",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Chips & Snacks > More Snacks"
+      ],
+      "name": "Mini Semisoft Cheese 6 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:15138195",
+      "retailer_product_id": "15138195"
+    },
+    {
+      "branch_product_id": "42583986",
+      "brand": "Badia",
+      "catalog_product_id": "8291993",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Spices & Seasonings"
+      ],
+      "name": "Gluten Free Orange Flavored Pepper Seasoning",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:17621005",
+      "retailer_product_id": "17621005"
+    },
+    {
+      "branch_product_id": "46555329",
+      "brand": "Chobani",
+      "catalog_product_id": "7450003",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Yogurt & Puddings > Traditional Yogurt"
+      ],
+      "name": "Zero Added Sugar Cherry Berry Flavored Greek Yogurt",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:18287136",
+      "retailer_product_id": "18287136"
+    },
+    {
+      "branch_product_id": "51325809",
+      "brand": "Hostess",
+      "catalog_product_id": "7998113",
+      "category_paths": [
+        "Bread & Bakery",
+        "Bread & Bakery > Cakes & Pastries > Cakes & Muffins"
+      ],
+      "name": "Frosted Sugar Cookie Cake w/ Creamy Filling",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.5
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:19619669",
+      "retailer_product_id": "19619669"
+    },
+    {
+      "branch_product_id": "3189160",
+      "brand": null,
+      "catalog_product_id": "296234",
+      "category_paths": [
+        "Fresh Produce",
+        "Fresh Produce > Greens & Herbs > Lettuce & Leaves",
+        "Meal Solutions",
+        "Meal Solutions > Create Your Own Salad > Greens"
+      ],
+      "name": "Red Leaf Lettuce",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2373901",
+      "retailer_product_id": "2373901"
+    },
+    {
+      "branch_product_id": "3190683",
+      "brand": "General Mills",
+      "catalog_product_id": "980627",
+      "category_paths": [
+        "Cereal & Breakfast",
+        "Cereal & Breakfast > Cereal > Cold Cereals"
+      ],
+      "name": "Total Whole Grain Flakes",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 8.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2375424",
+      "retailer_product_id": "2375424"
+    },
+    {
+      "branch_product_id": "3191316",
+      "brand": "Simply Potatoes",
+      "catalog_product_id": "844002",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Instant Meals > Instant Meals",
+        "Meal Solutions",
+        "Meal Solutions > Heat-and-Eat > Instant Meals"
+      ],
+      "name": "Sour Cream & Chive Mashed Potatoes",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2376057",
+      "retailer_product_id": "2376057"
+    },
+    {
+      "branch_product_id": "3193837",
+      "brand": "Badia",
+      "catalog_product_id": "602840",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Basic Products > Spices & Seasonings"
+      ],
+      "name": "Gluten Free Parsley Flakes",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2378578",
+      "retailer_product_id": "2378578"
+    },
+    {
+      "branch_product_id": "3194424",
+      "brand": "Dannon",
+      "catalog_product_id": "832811",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Yogurt & Puddings > Traditional Yogurt"
+      ],
+      "name": "Activia Non-Fat Strawberry Flavor Probiotic Yogurt with No Added Sugar",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2379165",
+      "retailer_product_id": "2379165"
+    },
+    {
+      "branch_product_id": "3194914",
+      "brand": "Kellogg's",
+      "catalog_product_id": "944529",
+      "category_paths": [
+        "Cereal & Breakfast",
+        "Cereal & Breakfast > Breakfast > Toaster Pastries"
+      ],
+      "name": "Special K Strawberry Pastry Crisps 2 Bar Pouches 6 pk",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2379655",
+      "retailer_product_id": "2379655"
+    },
+    {
+      "branch_product_id": "3199974",
+      "brand": "TGI Fridays",
+      "catalog_product_id": "882097",
+      "category_paths": [
+        "Deli",
+        "Deli > Salads & Dips > Dips & Spreads"
+      ],
+      "name": "Spinach & Artichoke Cheese Dip",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2384715",
+      "retailer_product_id": "2384715"
+    },
+    {
+      "branch_product_id": "3205036",
+      "brand": "Streit's",
+      "catalog_product_id": "240233",
+      "category_paths": [
+        "Bread & Bakery",
+        "Bread & Bakery > Packaged Bread > Matzos",
+        "Grocery",
+        "Grocery > World Foods > Kosher"
+      ],
+      "name": "Low Fat Whole Wheat Thin & Crisp Matzos",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2389777",
+      "retailer_product_id": "2389777"
+    },
+    {
+      "branch_product_id": "3206384",
+      "brand": "Friendship Dairies",
+      "catalog_product_id": "280214",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Cheese > Cottage & Fresh Cheese",
+        "Meal Solutions",
+        "Meal Solutions > Create Your Own Salad > Cheese for Salads"
+      ],
+      "name": "1% Milkfat Low Fat Small Curd Cottage Cheese",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2391125",
+      "retailer_product_id": "2391125"
+    },
+    {
+      "branch_product_id": "3217210",
+      "brand": "Advil",
+      "catalog_product_id": "123794",
+      "category_paths": [
+        "Personal Care & Baby",
+        "Personal Care & Baby > Medicine & Vitamins > Medicine"
+      ],
+      "name": "Pain Reliever/Fever Reducer Liqui-Gels",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2401951",
+      "retailer_product_id": "2401951"
+    },
+    {
+      "branch_product_id": "3220311",
+      "brand": "Induveca",
+      "catalog_product_id": "661488",
+      "category_paths": [
+        "Cold Cuts",
+        "Cold Cuts > Packaged & Sliced Smoked Meat > Salami & Kielbasa VP",
+        "Deli",
+        "Deli > Packaged Cold Cuts > Salami & Bologna"
+      ],
+      "name": "Smoked Cooked Salami",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:2405052",
+      "retailer_product_id": "2405052"
+    },
+    {
+      "branch_product_id": "6299576",
+      "brand": "Goya",
+      "catalog_product_id": "669250",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Ready Meals"
+      ],
+      "name": "Premium Quality Corned Beef",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 8.19
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:4231142",
+      "retailer_product_id": "4231142"
+    },
+    {
+      "branch_product_id": "6905170",
+      "brand": "Gain",
+      "catalog_product_id": "1317779",
+      "category_paths": [
+        "Laundry & Cleaning",
+        "Laundry & Cleaning > Home Cleaning > Kitchen"
+      ],
+      "name": "Ultra Dishwashing Liquid with Original Scent",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:4656042",
+      "retailer_product_id": "4656042"
+    },
+    {
+      "branch_product_id": "7355944",
+      "brand": "Chiky",
+      "catalog_product_id": "673952",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Cookies & Crackers > Cookies"
+      ],
+      "name": "Vanilla Dipped Cookies 12 Pk",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:4883316",
+      "retailer_product_id": "4883316"
+    },
+    {
+      "branch_product_id": "8487211",
+      "brand": "Urban Meadow",
+      "catalog_product_id": "2446305",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Beans & Peas",
+        "Meal Solutions",
+        "Meal Solutions > Create Your Own Salad > Something Extra"
+      ],
+      "name": "Peas & Diced Carrots",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.39
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:5468160",
+      "retailer_product_id": "5468160"
+    },
+    {
+      "branch_product_id": "8657803",
+      "brand": "Yoplait",
+      "catalog_product_id": "2483819",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Yogurt & Puddings > Traditional Yogurt"
+      ],
+      "name": "Oui Honey Flavored French Style Yogurt",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:5568701",
+      "retailer_product_id": "5568701"
+    },
+    {
+      "branch_product_id": "8776979",
+      "brand": "Goya",
+      "catalog_product_id": "3000566",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Juice & Nectar"
+      ],
+      "name": "Soursop Nectar",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:5623595",
+      "retailer_product_id": "5623595"
+    },
+    {
+      "branch_product_id": "8867943",
+      "brand": "Drizzilicious",
+      "catalog_product_id": "989651",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Candy & Chocolate > Candies"
+      ],
+      "name": "S'mores Marshmallow Crisps Drizzled with Chocolate",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.5
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:5664878",
+      "retailer_product_id": "5664878"
+    },
+    {
+      "branch_product_id": "8873088",
+      "brand": "Hormel",
+      "catalog_product_id": "1904730",
+      "category_paths": [
+        "Deli",
+        "Deli > Ready Meals > Fresh Cold Cuts"
+      ],
+      "name": "Pork Shoulder Picnic and Water Product",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.99
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:5667449",
+      "retailer_product_id": "5667449"
+    },
+    {
+      "branch_product_id": "9105713",
+      "brand": "Ben & Jerry's",
+      "catalog_product_id": "2649745",
+      "category_paths": [
+        "Frozen",
+        "Frozen > Ice Cream & Ices > Ice Cream & Sorbet"
+      ],
+      "name": "Ben&Jerrys Chocolate Chip Cookie Dough 16Z",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:5815829",
+      "retailer_product_id": "5815829"
+    },
+    {
+      "branch_product_id": "9105766",
+      "brand": "good2grow",
+      "catalog_product_id": "2597261",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Refrigerated Drinks",
+        "Dairy",
+        "Dairy > Refrigerated > Refrigerated Juice",
+        "Health & Special Diets",
+        "Health & Special Diets > Beverages > Refrigerated Juices"
+      ],
+      "name": "Podz Orange Mango Flavored Juice Beverage with No Added Sugar",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11874757"
+            ],
+            "regular_price": 4.49
+          },
+          "date": "2026-07-17",
+          "promotions": [
+            {
+              "derivation_basis": "unambiguous display text: Buy 2 units Refrigerated Juice for $5",
+              "derived_effective_unit_price": 2.5,
+              "description": "Buy 2 units Refrigerated Juice for $5",
+              "promotion_id": "11874757"
+            }
+          ]
+        }
+      ],
+      "product_key": "gala:1165:1329:5815882",
+      "retailer_product_id": "5815882"
+    },
+    {
+      "branch_product_id": "10475154",
+      "brand": "Nature Valley",
+      "catalog_product_id": "7120539",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Cookies & Crackers > Wafers & Waffles"
+      ],
+      "name": "Crispy Creamy Peanut Butter Wafer Bars 5 ct",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:6501888",
+      "retailer_product_id": "6501888"
+    },
+    {
+      "branch_product_id": "12912824",
+      "brand": "Nabisco",
+      "catalog_product_id": "879365",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Cookies & Crackers > Cookies"
+      ],
+      "name": "Nutter Butter Peanut Butter Sandwich Cookie Family Size",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:7536930",
+      "retailer_product_id": "7536930"
+    },
+    {
+      "branch_product_id": "13358768",
+      "brand": "Voortman Bakery",
+      "catalog_product_id": "6687853",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Cookies & Crackers > Wafers & Waffles"
+      ],
+      "name": "Vanilla Wafers",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.49
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:7680215",
+      "retailer_product_id": "7680215"
+    },
+    {
+      "branch_product_id": "14328957",
+      "brand": "Bush's Best",
+      "catalog_product_id": "884136",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Beans & Peas"
+      ],
+      "name": "Brown Sugar Hickory Baked Beans",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.19
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:8178407",
+      "retailer_product_id": "8178407"
+    },
+    {
+      "branch_product_id": "16052008",
+      "brand": "Foco",
+      "catalog_product_id": "665321",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Pasta, Grains & Beans > Rice & Couscous"
+      ],
+      "name": "Thai Jasmine Scented Rice Extra Long Grain",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.59
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:9260871",
+      "retailer_product_id": "9260871"
+    },
+    {
+      "branch_product_id": "16291692",
+      "brand": "Bob's Red Mill",
+      "catalog_product_id": "6010348",
+      "category_paths": [
+        "Dried Fruits & Nuts",
+        "Dried Fruits & Nuts > Nuts & Seeds > Seeds",
+        "Fresh Produce",
+        "Fresh Produce > Dried Fruit & Nuts > Packed Nuts & Seeds"
+      ],
+      "name": "Gluten Free Whole Ground Flaxseed Meal",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 8.29
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:9419632",
+      "retailer_product_id": "9419632"
+    },
+    {
+      "branch_product_id": "16791435",
+      "brand": "Chicken of the Sea",
+      "catalog_product_id": "5204519",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Tuna & Seafood"
+      ],
+      "name": "Sardines in Lemon & Extra Virgin Olive Oil",
+      "observations": [
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.79
+          },
+          "date": "2026-07-17",
+          "promotions": []
+        }
+      ],
+      "product_key": "gala:1165:1329:9646065",
+      "retailer_product_id": "9646065"
+    }
+  ],
+  "schema_version": "1.0"
+}
