@@ -1922,6 +1922,53 @@
       "weight": 64
     },
     {
+      "branch_product_id": "11645842",
+      "brand": "Pop-Tarts",
+      "catalog_product_id": "3019042",
+      "category_paths": [
+        "Cereal & Breakfast",
+        "Cereal & Breakfast > Breakfast > Toaster Pastries"
+      ],
+      "currency": "USD",
+      "departments": [
+        "Cereal & Breakfast"
+      ],
+      "first_seen": "2026-07-18",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/3019042/8319933/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-18",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 5.99,
+      "name": "Frosted Chocolate Fudge Toaster Pastries",
+      "observations": [
+        {
+          "catalog": null,
+          "date": "2026-07-17",
+          "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.99
+          },
+          "date": "2026-07-18",
+          "promotions": []
+        }
+      ],
+      "observed_days": 1,
+      "product_key": "gala:1165:1329:7085565",
+      "retailer_product_id": "7085565",
+      "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93778/products",
+      "unit_of_measure": null,
+      "unit_resolution": 1,
+      "weight": null
+    },
+    {
       "branch_product_id": "12269939",
       "brand": "Kellogg's",
       "catalog_product_id": "3014534",

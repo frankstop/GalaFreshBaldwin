@@ -1306,10 +1306,10 @@
       "has_price_change": false,
       "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/122683/857567/500.jpg",
       "is_active": true,
-      "is_current": false,
+      "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-07-18",
       "latest_promotion_count": 0,
       "latest_regular_price": 5.89,
       "name": "Part Skim Ricotta Cheese",
@@ -1324,15 +1324,19 @@
           "promotions": []
         },
         {
-          "catalog": null,
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.89
+          },
           "date": "2026-07-18",
           "promotions": []
         }
       ],
-      "observed_days": 1,
+      "observed_days": 2,
       "product_key": "gala:1165:1329:2390809",
       "retailer_product_id": "2390809",
-      "source_url": "https://www.shopgalafresh.com/",
+      "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93776/products",
       "unit_of_measure": "Oz",
       "unit_resolution": 1,
       "weight": 15
@@ -1947,6 +1951,53 @@
       "unit_of_measure": "fl oz",
       "unit_resolution": 1,
       "weight": 8
+    },
+    {
+      "branch_product_id": "6874955",
+      "brand": "Quesos La Ricura",
+      "catalog_product_id": "827703",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Cheese > Cottage & Fresh Cheese"
+      ],
+      "currency": "USD",
+      "departments": [
+        "Dairy"
+      ],
+      "first_seen": "2026-07-18",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/827703/12934682/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-18",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 5.29,
+      "name": "Colombian Style Fresh Part Skim Milk Cheese",
+      "observations": [
+        {
+          "catalog": null,
+          "date": "2026-07-17",
+          "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.29
+          },
+          "date": "2026-07-18",
+          "promotions": []
+        }
+      ],
+      "observed_days": 1,
+      "product_key": "gala:1165:1329:4627496",
+      "retailer_product_id": "4627496",
+      "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93776/products",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 12
     },
     {
       "branch_product_id": "8199416",

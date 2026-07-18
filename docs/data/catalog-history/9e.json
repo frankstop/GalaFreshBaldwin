@@ -2469,6 +2469,53 @@
       "unit_of_measure": "Oz",
       "unit_resolution": 1,
       "weight": 20
+    },
+    {
+      "branch_product_id": "17020908",
+      "brand": "Del Monte",
+      "catalog_product_id": "882186",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Tomatoes & Pastes"
+      ],
+      "currency": "USD",
+      "departments": [
+        "Grocery"
+      ],
+      "first_seen": "2026-07-18",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/882186.jpg?v=4",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-18",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 1.99,
+      "name": "Diced Tomatoes with Green Peppers & Onions",
+      "observations": [
+        {
+          "catalog": null,
+          "date": "2026-07-17",
+          "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.99
+          },
+          "date": "2026-07-18",
+          "promotions": []
+        }
+      ],
+      "observed_days": 1,
+      "product_key": "gala:1165:1329:9814742",
+      "retailer_product_id": "9814742",
+      "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93785/products",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 14
     }
   ],
   "schema_version": "1.1"

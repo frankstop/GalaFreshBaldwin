@@ -1,10 +1,10 @@
 {
-  "additions": 146,
+  "additions": 183,
   "brand_summary": [
     {
       "median_regular_price": 3.29,
       "name": "Goya",
-      "products": 329
+      "products": 330
     },
     {
       "median_regular_price": 6.49,
@@ -39,12 +39,17 @@
     {
       "median_regular_price": 2.49,
       "name": "Del Monte",
-      "products": 66
+      "products": 67
     },
     {
       "median_regular_price": 3.99,
       "name": "McCormick",
       "products": 65
+    },
+    {
+      "median_regular_price": 7.99,
+      "name": "Boar's Head",
+      "products": 61
     },
     {
       "median_regular_price": 1.99,
@@ -57,11 +62,6 @@
       "products": 59
     },
     {
-      "median_regular_price": 7.99,
-      "name": "Boar's Head",
-      "products": 59
-    },
-    {
       "median_regular_price": 1.94,
       "name": "Polar",
       "products": 57
@@ -69,7 +69,7 @@
     {
       "median_regular_price": 2.29,
       "name": "Chobani",
-      "products": 54
+      "products": 56
     },
     {
       "median_regular_price": 7.49,
@@ -82,14 +82,14 @@
       "products": 53
     },
     {
-      "median_regular_price": 3.29,
-      "name": "Tropicana",
+      "median_regular_price": 4.79,
+      "name": "Pillsbury",
       "products": 50
     },
     {
-      "median_regular_price": 4.79,
-      "name": "Pillsbury",
-      "products": 48
+      "median_regular_price": 3.29,
+      "name": "Tropicana",
+      "products": 50
     },
     {
       "median_regular_price": 3.99,
@@ -117,9 +117,9 @@
       "products": 46
     },
     {
-      "median_regular_price": 5.39,
+      "median_regular_price": 4.99,
       "name": "Quaker",
-      "products": 44
+      "products": 45
     },
     {
       "median_regular_price": 3.99,
@@ -134,16 +134,16 @@
     {
       "median_regular_price": 3.19,
       "name": "Campbell's",
+      "products": 41
+    },
+    {
+      "median_regular_price": 4.39,
+      "name": "Progresso",
       "products": 40
     },
     {
       "median_regular_price": 6.29,
       "name": "Coca-Cola",
-      "products": 39
-    },
-    {
-      "median_regular_price": 4.49,
-      "name": "Progresso",
       "products": 39
     },
     {
@@ -156,7 +156,7 @@
     {
       "median_regular_price": 3.79,
       "name": "Grocery",
-      "products": 2955
+      "products": 2967
     },
     {
       "median_regular_price": 4.79,
@@ -166,7 +166,7 @@
     {
       "median_regular_price": 4.59,
       "name": "Meal Solutions",
-      "products": 1509
+      "products": 1516
     },
     {
       "median_regular_price": 6.49,
@@ -176,7 +176,7 @@
     {
       "median_regular_price": 4.79,
       "name": "Dairy",
-      "products": 962
+      "products": 978
     },
     {
       "median_regular_price": 4.79,
@@ -196,17 +196,17 @@
     {
       "median_regular_price": 3.99,
       "name": "Fresh Produce",
-      "products": 410
+      "products": 415
     },
     {
       "median_regular_price": 5.69,
       "name": "Cereal & Breakfast",
-      "products": 347
+      "products": 350
     },
     {
       "median_regular_price": 4.29,
       "name": "Grocery > Canned & Jarred Foods > Cooking Sauces & Salsas",
-      "products": 347
+      "products": 348
     },
     {
       "median_regular_price": 3.54,
@@ -231,7 +231,7 @@
     {
       "median_regular_price": 6.99,
       "name": "Deli",
-      "products": 257
+      "products": 262
     },
     {
       "median_regular_price": 3.99,
@@ -241,7 +241,7 @@
     {
       "median_regular_price": 4.99,
       "name": "Meal Solutions > Dinner Ideas > Italian Dinner",
-      "products": 222
+      "products": 223
     },
     {
       "median_regular_price": 2.84,
@@ -261,12 +261,12 @@
     {
       "median_regular_price": 7.99,
       "name": "Meat & Seafood",
-      "products": 190
+      "products": 194
     },
     {
       "median_regular_price": 5.29,
       "name": "Meal Solutions > Create Your Own Salad > Dressings",
-      "products": 185
+      "products": 186
     },
     {
       "median_regular_price": 4.29,
@@ -291,33 +291,33 @@
     {
       "median_regular_price": 4.19,
       "name": "Grocery > Canned & Jarred Foods > Salad Dressings & Toppings",
-      "products": 163
+      "products": 164
+    },
+    {
+      "median_regular_price": 7.19,
+      "name": "Cold Cuts",
+      "products": 162
     },
     {
       "median_regular_price": 4.99,
       "name": "Snacks & Sweets > Cookies & Crackers > Cookies",
       "products": 161
-    },
-    {
-      "median_regular_price": 3.99,
-      "name": "Dairy > Refrigerated > Refrigerated Juice",
-      "products": 161
     }
   ],
   "comparison_history": [
     {
-      "additions": 146,
+      "additions": 183,
       "anomalies": 0,
-      "assortment_churn_percentage": 4.799,
+      "assortment_churn_percentage": 5.098,
       "from_date": "2026-07-17",
-      "matched_products": 9284,
-      "missing_products": 322,
+      "matched_products": 9290,
+      "missing_products": 316,
       "price_decreases": 1,
       "price_increases": 0,
-      "prior_overlap_percentage": 96.648,
+      "prior_overlap_percentage": 96.71,
       "returns": 0,
       "to_date": "2026-07-18",
-      "unchanged_or_uncomparable_prices": 9283
+      "unchanged_or_uncomparable_prices": 9289
     }
   ],
   "daily_history": [
@@ -331,16 +331,16 @@
     },
     {
       "average_regular_price": 5.64,
-      "catalog_size": 9430,
+      "catalog_size": 9473,
       "median_regular_price": 4.79,
-      "products_with_promotions": 761,
+      "products_with_promotions": 763,
       "snapshot_date": "2026-07-18",
       "valid_price_percentage": 100.0
     }
   ],
   "from_date": "2026-07-17",
-  "latest_catalog_size": 9430,
-  "median_catalog_size": 9518.0,
+  "latest_catalog_size": 9473,
+  "median_catalog_size": 9539.5,
   "median_valid_price_percentage": 100.0,
   "methodology": {
     "anomaly_rule": "absolute price change >=20% and robust MAD z-score >=3.5",
@@ -348,7 +348,7 @@
     "missingness": "daily absence is preserved as a gap and is not treated as deletion or zero",
     "promotion_prices": "derived effective unit prices are labeled and never replace regular prices"
   },
-  "missing_products": 322,
+  "missing_products": 316,
   "price_decreases": 1,
   "price_increases": 0,
   "report": "weekly",
@@ -544,20 +544,20 @@
     },
     {
       "adaptive_product_floor": 7204,
-      "bootstrap_url": "https://htmlcache.blob.core.windows.net/html-production-env/r-1165/desktop/multi-true/data.js?c=1784396453366",
+      "bootstrap_url": "https://htmlcache.blob.core.windows.net/html-production-env/r-1165/desktop/multi-true/data.js?c=1784407291080",
       "branch_id": 1329,
-      "discovered_category_nodes": 463,
-      "discovered_leaf_nodes": 366,
-      "discovered_visible_nodes": 463,
+      "discovered_category_nodes": 464,
+      "discovered_leaf_nodes": 367,
+      "discovered_visible_nodes": 464,
       "duplicate_key_count": 0,
-      "elapsed_seconds": 601.383,
+      "elapsed_seconds": 601.586,
       "errors": [],
-      "expected_products_from_api_totals": 12612,
-      "observed_at": "2026-07-18T20:33:25.819223Z",
-      "prior_overlap_percentage": 96.648,
-      "product_count_change_percentage": -1.832,
-      "promotions": 761,
-      "raw_product_records": 12612,
+      "expected_products_from_api_totals": 12668,
+      "observed_at": "2026-07-18T21:51:46.147987Z",
+      "prior_overlap_percentage": 96.71,
+      "product_count_change_percentage": -1.385,
+      "promotions": 763,
+      "raw_product_records": 12668,
       "requests": 151,
       "retailer_id": 1165,
       "retries": 0,
@@ -590,10 +590,10 @@
         "107581"
       ],
       "tree_id": "129",
-      "tree_index_timestamp": "2026-07-18T17:40:34.205Z",
-      "unique_products": 9430,
+      "tree_index_timestamp": "2026-07-18T20:41:03.588Z",
+      "unique_products": 9473,
       "valid_price_percentage": 100.0,
-      "visible_product_bearing_leaf_nodes": 366,
+      "visible_product_bearing_leaf_nodes": 367,
       "visible_root_categories": [
         {
           "category_id": "94381",

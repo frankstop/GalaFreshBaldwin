@@ -381,6 +381,53 @@
       "weight": 16
     },
     {
+      "branch_product_id": "3190896",
+      "brand": "Success",
+      "catalog_product_id": "941181",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Pasta, Grains & Beans > Rice & Couscous"
+      ],
+      "currency": "USD",
+      "departments": [
+        "Grocery"
+      ],
+      "first_seen": "2026-07-18",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/941181.jpg?v=3",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-18",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 2.39,
+      "name": "Boil-In-Bag White Rice",
+      "observations": [
+        {
+          "catalog": null,
+          "date": "2026-07-17",
+          "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.39
+          },
+          "date": "2026-07-18",
+          "promotions": []
+        }
+      ],
+      "observed_days": 1,
+      "product_key": "gala:1165:1329:2375637",
+      "retailer_product_id": "2375637",
+      "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93785/products",
+      "unit_of_measure": null,
+      "unit_resolution": 1,
+      "weight": null
+    },
+    {
       "branch_product_id": "3191091",
       "brand": "Budweiser",
       "catalog_product_id": "738652",

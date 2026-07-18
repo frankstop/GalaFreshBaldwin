@@ -866,6 +866,53 @@
       "weight": 2
     },
     {
+      "branch_product_id": "3195553",
+      "brand": "Progresso",
+      "catalog_product_id": "947079",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Soup"
+      ],
+      "currency": "USD",
+      "departments": [
+        "Grocery"
+      ],
+      "first_seen": "2026-07-18",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/947079/718552/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-18",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 4.19,
+      "name": "Vegetable Classics Minestrone Soup",
+      "observations": [
+        {
+          "catalog": null,
+          "date": "2026-07-17",
+          "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.19
+          },
+          "date": "2026-07-18",
+          "promotions": []
+        }
+      ],
+      "observed_days": 1,
+      "product_key": "gala:1165:1329:2380294",
+      "retailer_product_id": "2380294",
+      "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93785/products",
+      "unit_of_measure": null,
+      "unit_resolution": 1,
+      "weight": null
+    },
+    {
       "branch_product_id": "3196388",
       "brand": "Goya",
       "catalog_product_id": "669496",

@@ -502,6 +502,56 @@
       "weight": 14
     },
     {
+      "branch_product_id": "41635486",
+      "brand": "Hamburger Helper",
+      "catalog_product_id": "6365117",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Instant Meals > Instant Meals",
+        "Meal Solutions",
+        "Meal Solutions > Heat-and-Eat > Instant Meals"
+      ],
+      "currency": "USD",
+      "departments": [
+        "Grocery",
+        "Meal Solutions"
+      ],
+      "first_seen": "2026-07-18",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/6365117/12933489/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-18",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 2.99,
+      "name": "Cheeseburger Macaroni Pasta & Cheese Sauce Mix",
+      "observations": [
+        {
+          "catalog": null,
+          "date": "2026-07-17",
+          "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.99
+          },
+          "date": "2026-07-18",
+          "promotions": []
+        }
+      ],
+      "observed_days": 1,
+      "product_key": "gala:1165:1329:17418119",
+      "retailer_product_id": "17418119",
+      "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/94381/products",
+      "unit_of_measure": null,
+      "unit_resolution": 1,
+      "weight": 6
+    },
+    {
       "branch_product_id": "42728247",
       "brand": "Chobani",
       "catalog_product_id": "7203652",

@@ -1702,6 +1702,53 @@
       "weight": 64
     },
     {
+      "branch_product_id": "3512212",
+      "brand": "Giorgio",
+      "catalog_product_id": "1340111",
+      "category_paths": [
+        "Fresh Produce",
+        "Fresh Produce > Fresh Vegetables > Mushrooms"
+      ],
+      "currency": "USD",
+      "departments": [
+        "Fresh Produce"
+      ],
+      "first_seen": "2026-07-18",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/1340111.jpg?v=2",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-18",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 5.99,
+      "name": "Baby Bella Mushrooms",
+      "observations": [
+        {
+          "catalog": null,
+          "date": "2026-07-17",
+          "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.99
+          },
+          "date": "2026-07-18",
+          "promotions": []
+        }
+      ],
+      "observed_days": 1,
+      "product_key": "gala:1165:1329:2606055",
+      "retailer_product_id": "2606055",
+      "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93771/products",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 0.25,
+      "weight": 16
+    },
+    {
       "branch_product_id": "5530435",
       "brand": "Manischewitz",
       "catalog_product_id": "280614",

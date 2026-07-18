@@ -204,6 +204,53 @@
       "weight": 10
     },
     {
+      "branch_product_id": "42731603",
+      "brand": "Pre",
+      "catalog_product_id": "2663602",
+      "category_paths": [
+        "Meat & Seafood",
+        "Meat & Seafood > Fresh Meat > Beef"
+      ],
+      "currency": "USD",
+      "departments": [
+        "Meat & Seafood"
+      ],
+      "first_seen": "2026-07-18",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/2663602/2012852/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-18",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 18.99,
+      "name": "Grass Fed & Finished Beef Ribeye",
+      "observations": [
+        {
+          "catalog": null,
+          "date": "2026-07-17",
+          "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 18.99
+          },
+          "date": "2026-07-18",
+          "promotions": []
+        }
+      ],
+      "observed_days": 1,
+      "product_key": "gala:1165:1329:17650882",
+      "retailer_product_id": "17650882",
+      "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93783/products",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 10
+    },
+    {
       "branch_product_id": "44767602",
       "brand": "Raisinets",
       "catalog_product_id": "4542393",
@@ -588,6 +635,53 @@
       "unit_of_measure": "lb",
       "unit_resolution": 1,
       "weight": 4
+    },
+    {
+      "branch_product_id": "3191037",
+      "brand": "Pillsbury",
+      "catalog_product_id": "880011",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Refrigerated > Dough & Pastry"
+      ],
+      "currency": "USD",
+      "departments": [
+        "Dairy"
+      ],
+      "first_seen": "2026-07-18",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/880011.jpg?v=6",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-18",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 4.99,
+      "name": "Flaky Layers Biscuits",
+      "observations": [
+        {
+          "catalog": null,
+          "date": "2026-07-17",
+          "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-18",
+          "promotions": []
+        }
+      ],
+      "observed_days": 1,
+      "product_key": "gala:1165:1329:2375778",
+      "retailer_product_id": "2375778",
+      "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93776/products",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 16.3
     },
     {
       "branch_product_id": "3191658",

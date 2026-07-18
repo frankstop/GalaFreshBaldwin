@@ -154,6 +154,53 @@
       "weight": 1
     },
     {
+      "branch_product_id": "26757771",
+      "brand": "Paldo",
+      "catalog_product_id": "2464212",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Instant Meals > Noodles & Soups"
+      ],
+      "currency": "USD",
+      "departments": [
+        "Grocery"
+      ],
+      "first_seen": "2026-07-18",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/2464212/914300/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-18",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 2.19,
+      "name": "Hot & Spice Flavor King Noodle",
+      "observations": [
+        {
+          "catalog": null,
+          "date": "2026-07-17",
+          "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.19
+          },
+          "date": "2026-07-18",
+          "promotions": []
+        }
+      ],
+      "observed_days": 1,
+      "product_key": "gala:1165:1329:14232026",
+      "retailer_product_id": "14232026",
+      "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93785/products",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 3.88
+    },
+    {
       "branch_product_id": "33580453",
       "brand": "Tajin",
       "catalog_product_id": "1232978",

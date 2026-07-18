@@ -1422,6 +1422,53 @@
       "weight": 12
     },
     {
+      "branch_product_id": "3213768",
+      "brand": "Cabot",
+      "catalog_product_id": "782409",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Milk & Cream > Cream & Creamers"
+      ],
+      "currency": "USD",
+      "departments": [
+        "Dairy"
+      ],
+      "first_seen": "2026-07-18",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/782409.jpg?v=2",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-18",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 3.99,
+      "name": "Sweetened Light Whipped Cream",
+      "observations": [
+        {
+          "catalog": null,
+          "date": "2026-07-17",
+          "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.99
+          },
+          "date": "2026-07-18",
+          "promotions": []
+        }
+      ],
+      "observed_days": 1,
+      "product_key": "gala:1165:1329:2398509",
+      "retailer_product_id": "2398509",
+      "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93776/products",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 7
+    },
+    {
       "branch_product_id": "3220153",
       "brand": "Mazola",
       "catalog_product_id": "147950",

@@ -262,6 +262,53 @@
       "weight": 25.4
     },
     {
+      "branch_product_id": "3191047",
+      "brand": "Pillsbury",
+      "catalog_product_id": "844956",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Refrigerated > Dough & Pastry"
+      ],
+      "currency": "USD",
+      "departments": [
+        "Dairy"
+      ],
+      "first_seen": "2026-07-18",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/844956.jpg?v=2",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-18",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 5.29,
+      "name": "Cinnamon Rolls with Cream Cheese Icing 8 ct",
+      "observations": [
+        {
+          "catalog": null,
+          "date": "2026-07-17",
+          "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.29
+          },
+          "date": "2026-07-18",
+          "promotions": []
+        }
+      ],
+      "observed_days": 1,
+      "product_key": "gala:1165:1329:2375788",
+      "retailer_product_id": "2375788",
+      "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93776/products",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 8
+    },
+    {
       "branch_product_id": "3192551",
       "brand": "Hunt's",
       "catalog_product_id": "182263",
