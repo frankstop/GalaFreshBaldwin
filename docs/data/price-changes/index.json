@@ -1,20 +1,36 @@
 {
   "available_snapshot_dates": [
-    "2026-07-17"
+    "2026-07-17",
+    "2026-07-18"
   ],
-  "comparison_days": 0,
-  "distinct_products": 0,
-  "files": [],
+  "comparison_days": 1,
+  "distinct_products": 1,
+  "files": [
+    {
+      "anomalies": 0,
+      "from_date": "2026-07-17",
+      "matched_products": 9284,
+      "path": "2026-07-18.json",
+      "price_decreases": 1,
+      "price_increases": 0,
+      "to_date": "2026-07-18",
+      "total_changes": 1
+    }
+  ],
   "filters": {
-    "brands": [],
-    "departments": [],
+    "brands": [
+      "Jade Elephant"
+    ],
+    "departments": [
+      "Fresh Produce"
+    ],
     "percentage_range": {
-      "max": null,
-      "min": null
+      "max": -25.031,
+      "min": -25.031
     },
     "price_range": {
-      "max": null,
-      "min": null
+      "max": 7.99,
+      "min": 5.99
     }
   },
   "from_date": "2026-07-17",
@@ -24,13 +40,13 @@
     "completeness": "daily shard files contain every comparable regular-price change without a display cap",
     "missingness": "an item must have finite positive regular prices on both dates; gaps are not changes"
   },
-  "price_decreases": 0,
+  "price_decreases": 1,
   "price_increases": 0,
   "report": "price_changes",
   "schema_version": "1.0",
   "scope": "Gala Fresh Baldwin public online regular prices; not asserted as physical shelf prices",
-  "snapshot_days": 1,
-  "status": "baseline_established",
-  "to_date": "2026-07-17",
-  "total_changes": 0
+  "snapshot_days": 2,
+  "status": "comparison_available",
+  "to_date": "2026-07-18",
+  "total_changes": 1
 }

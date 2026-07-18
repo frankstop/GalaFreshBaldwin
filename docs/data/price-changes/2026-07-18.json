@@ -1,0 +1,50 @@
+{
+  "changes": [
+    {
+      "absolute_change": 2.0,
+      "absolute_change_percentage": 25.031,
+      "branch_product_id": "13738353",
+      "brand": "Jade Elephant",
+      "calendar_gap_days": 1,
+      "catalog_product_id": "2527105",
+      "category_paths": [
+        "Fresh Produce",
+        "Fresh Produce > Fresh Vegetables > Main Vegetables"
+      ],
+      "change": -2.0,
+      "change_percentage": -25.031,
+      "current_regular_price": 5.99,
+      "departments": [
+        "Fresh Produce"
+      ],
+      "direction": "decrease",
+      "event_key": "2026-07-17:2026-07-18:gala:1165:1329:7844872",
+      "from_date": "2026-07-17",
+      "is_anomaly": false,
+      "name": "Peeled Garlic",
+      "previous_regular_price": 7.99,
+      "product_key": "gala:1165:1329:7844872",
+      "retailer_product_id": "7844872",
+      "to_date": "2026-07-18"
+    }
+  ],
+  "comparison": {
+    "additions": 146,
+    "anomalies": 0,
+    "assortment_churn_percentage": 4.799,
+    "matched_products": 9284,
+    "missing_products": 322,
+    "price_decreases": 1,
+    "price_increases": 0,
+    "prior_overlap_percentage": 96.648,
+    "returns": 0,
+    "unchanged_or_uncomparable_prices": 9283
+  },
+  "from_date": "2026-07-17",
+  "price_decreases": 1,
+  "price_increases": 0,
+  "report": "price_changes_day",
+  "schema_version": "1.0",
+  "to_date": "2026-07-18",
+  "total_changes": 1
+}

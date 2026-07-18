@@ -36,7 +36,7 @@ An anomaly is a descriptive flag, not a prediction: absolute regular-price chang
 
 ## Responsible access
 
-Before collection, the browser fetches `robots.txt`, verifies category and `/v2` access, and enforces the current crawl delay globally. Forbidden search, cart, user/account, coupon, order, recent-purchase, smart-list, and product-tag routes are blocked. The project does not authenticate, submit addresses, retain profiles/cookies, automate carts, use stealth, solve CAPTCHAs, rotate proxies, or collect customer information. Any access-policy or anonymous-contract change fails closed.
+Before collection, the collector fetches `robots.txt` directly with its declared research user agent, verifies category and `/v2` access, and enforces the current crawl delay globally. Forbidden search, cart, user/account, coupon, order, recent-purchase, smart-list, and product-tag routes are blocked. The project does not authenticate, submit addresses, retain profiles/cookies, automate carts, use stealth, solve CAPTCHAs, rotate proxies, or collect customer information. Any access-policy or anonymous-contract change fails closed.
 
 ## Limitations
 
