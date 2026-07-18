@@ -169,6 +169,108 @@ def _window_history(
     }
 
 
+def _top_departments(paths: list[Any]) -> list[str]:
+    return sorted({str(path).split(">", 1)[0].strip() for path in paths if str(path).strip()})
+
+
+def build_price_change_history(snapshot_dir: Path) -> tuple[dict[str, Any], dict[str, dict[str, Any]]]:
+    """Build a complete, date-sharded regular-price change contract."""
+    catalog_files = snapshot_files(snapshot_dir, "catalog")
+    if not catalog_files:
+        raise ValueError("no catalog snapshots found")
+    dates = [_snapshot_date(path) for path in catalog_files]
+    keyed = [_keyed(read_jsonl_gz(path), "product_key") for path in catalog_files]
+    shards: dict[str, dict[str, Any]] = {}
+    file_rows: list[dict[str, Any]] = []
+    all_changes: list[dict[str, Any]] = []
+    seen = set(keyed[0])
+    for position in range(1, len(keyed)):
+        from_date, to_date = dates[position - 1], dates[position]
+        comparison, changes, anomalies = compare_days(keyed[position - 1], keyed[position], seen)
+        anomaly_keys = {row["product_key"] for row in anomalies}
+        normalized_changes: list[dict[str, Any]] = []
+        for change in changes:
+            key = change["product_key"]
+            source = keyed[position].get(key) or keyed[position - 1][key]
+            departments = _top_departments(change.get("category_paths", []))
+            normalized_changes.append({
+                "event_key": f"{from_date}:{to_date}:{key}",
+                "from_date": from_date,
+                "to_date": to_date,
+                "calendar_gap_days": (date.fromisoformat(to_date) - date.fromisoformat(from_date)).days,
+                **change,
+                "absolute_change": round(abs(change["change"]), 4),
+                "absolute_change_percentage": round(abs(change["change_percentage"]), 3),
+                "direction": "increase" if change["change"] > 0 else "decrease",
+                "is_anomaly": key in anomaly_keys,
+                "departments": departments,
+                "retailer_product_id": source.get("retailer_product_id"),
+                "catalog_product_id": source.get("catalog_product_id"),
+                "branch_product_id": source.get("branch_product_id"),
+            })
+        increases = sum(row["direction"] == "increase" for row in normalized_changes)
+        decreases = len(normalized_changes) - increases
+        shard = {
+            "schema_version": "1.0",
+            "report": "price_changes_day",
+            "from_date": from_date,
+            "to_date": to_date,
+            "comparison": comparison,
+            "total_changes": len(normalized_changes),
+            "price_increases": increases,
+            "price_decreases": decreases,
+            "changes": normalized_changes,
+        }
+        shards[to_date] = shard
+        file_rows.append({
+            "from_date": from_date,
+            "to_date": to_date,
+            "path": f"{to_date}.json",
+            "total_changes": len(normalized_changes),
+            "price_increases": increases,
+            "price_decreases": decreases,
+            "anomalies": len(anomalies),
+            "matched_products": comparison["matched_products"],
+        })
+        all_changes.extend(normalized_changes)
+        seen.update(keyed[position])
+    prices = [
+        price
+        for row in all_changes
+        for price in (row["previous_regular_price"], row["current_regular_price"])
+    ]
+    percentages = [row["change_percentage"] for row in all_changes]
+    index = {
+        "schema_version": "1.0",
+        "report": "price_changes",
+        "status": "comparison_available" if file_rows else "baseline_established",
+        "scope": "Gala Fresh Baldwin public online regular prices; not asserted as physical shelf prices",
+        "from_date": dates[0],
+        "to_date": dates[-1],
+        "snapshot_days": len(dates),
+        "comparison_days": len(file_rows),
+        "total_changes": len(all_changes),
+        "price_increases": sum(row["direction"] == "increase" for row in all_changes),
+        "price_decreases": sum(row["direction"] == "decrease" for row in all_changes),
+        "distinct_products": len({row["product_key"] for row in all_changes}),
+        "files": file_rows,
+        "available_snapshot_dates": dates,
+        "filters": {
+            "departments": sorted({department for row in all_changes for department in row["departments"]}),
+            "brands": sorted({str(row["brand"]) for row in all_changes if row.get("brand")}, key=str.casefold),
+            "price_range": {"min": min(prices) if prices else None, "max": max(prices) if prices else None},
+            "percentage_range": {"min": min(percentages) if percentages else None, "max": max(percentages) if percentages else None},
+        },
+        "methodology": {
+            "comparison": "adjacent healthy snapshot dates matched by stable retailer listing key",
+            "missingness": "an item must have finite positive regular prices on both dates; gaps are not changes",
+            "completeness": "daily shard files contain every comparable regular-price change without a display cap",
+            "anomaly_rule": "absolute price change >=20% and robust MAD z-score >=3.5",
+        },
+    }
+    return index, shards
+
+
 def build_daily_summary(snapshot_dir: Path) -> dict[str, Any]:
     catalog_files = snapshot_files(snapshot_dir, "catalog")
     if not catalog_files:

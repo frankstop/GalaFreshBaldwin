@@ -26,6 +26,8 @@ The storefront currently filters out out-of-stock products. A missing product th
 
 The first reviewed healthy run establishes the baseline. Comparisons start with the second healthy run. Additions have never appeared previously; returns appeared earlier but were absent on the immediately preceding observed day. Regular-price changes require valid observations on both comparison days.
 
+The price-change archive compares each pair of adjacent healthy snapshot dates. It preserves the actual start and end dates and reports calendar gaps; it does not fabricate observations for dates with no healthy snapshot. Every comparable regular-price movement is stored in a daily derived shard without a display cap. Date-range filtering changes which shards are loaded, not how price changes are calculated.
+
 ## Validation and anomalies
 
 Every selected root must reconcile exactly to its API total, and the final key set must be unique. After baseline, overlap must remain at least 80%, unexplained product-count drops over 25% are rejected, and major root/tree contractions are rejected. A rolling floor is 75% of the median of up to 14 prior healthy checked-in counts; no fixed floor is invented for the initial crawl.
@@ -39,4 +41,3 @@ Before collection, the browser fetches `robots.txt`, verifies category and `/v2`
 ## Limitations
 
 The research reflects only what the anonymous Baldwin storefront returned at observation time. It cannot establish in-store availability, shelf price, transaction eligibility, inventory quantity, promotion eligibility for a specific shopper, or why an item is absent. Source schemas, category trees, merchandising, and robots policy may change.
-

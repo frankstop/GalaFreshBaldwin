@@ -12,7 +12,7 @@ from galafresh_baldwin.storage import read_jsonl_gz, snapshot_files
 ROOT = Path(__file__).resolve().parents[1]
 REQUIRED = [
     "README.md", "LICENSE", "pyproject.toml", ".github/workflows/daily_crawl.yml",
-    "docs/index.html", "docs/daily-report.html", "docs/weekly-report.html", "docs/catalog.html", "docs/catalog-history.html",
+    "docs/index.html", "docs/daily-report.html", "docs/weekly-report.html", "docs/price-changes.html", "docs/catalog.html", "docs/catalog-history.html",
     "docs/METHODOLOGY.md", "docs/METHODOLOGY.html", "docs/ARCHITECTURE.md", "docs/DATA_DICTIONARY.md",
 ]
 
@@ -42,7 +42,7 @@ def main() -> int:
             import shutil
             shutil.copytree(ROOT / "docs", docs)
             build_reports(snapshot_dir, docs)
-    for contract in ("docs/data/daily-summary.json", "docs/data/weekly-summary.json"):
+    for contract in ("docs/data/daily-summary.json", "docs/data/weekly-summary.json", "docs/data/price-changes/index.json"):
         path = ROOT / contract
         if path.exists():
             json.loads(path.read_text())

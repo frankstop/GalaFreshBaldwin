@@ -92,6 +92,27 @@ Daily observations contain catalog size, valid-price rate, median/average regula
 
 Top-level fields: `schema_version`, `report`, `status`, `scope`, `from_date`, `to_date`, `snapshot_days`, `latest_catalog_size`, median catalog/valid-price values, aggregate `price_increases`, `price_decreases`, `additions`, `returns`, `missing_products`, seven-day history/comparisons, category/brand summaries, health history, and methodology.
 
+## Price-change contracts
+
+`docs/data/price-changes/index.json` describes the complete archive without embedding every event. It contains archive dates, snapshot/comparison-day counts, total movements, increase/decrease counts, distinct products, global filter options, methodology, and `files`. Each file entry identifies one adjacent healthy comparison and its complete `YYYY-MM-DD.json` shard.
+
+Each change event contains:
+
+| Field | Type | Meaning |
+|---|---|---|
+| `event_key` | string | Stable comparison interval plus `product_key`. |
+| `from_date`, `to_date` | date string | Adjacent healthy snapshot dates compared. |
+| `calendar_gap_days` | integer | Calendar distance between those healthy observations. |
+| `product_key`, source IDs | string/null | Stable retailer listing identity and retained source identifiers. |
+| `name`, `brand`, `category_paths`, `departments` | mixed | Item context from the later observation. |
+| `previous_regular_price`, `current_regular_price` | number | Finite positive public online regular prices compared. |
+| `change`, `absolute_change` | number | Signed and absolute dollar movement. |
+| `change_percentage`, `absolute_change_percentage` | number | Signed and absolute percentage movement from the previous price. |
+| `direction` | string | `increase` or `decrease`. |
+| `is_anomaly` | boolean | Whether the conservative documented anomaly rule matched. |
+
+Items missing from either date and items without two valid positive prices do not become price-change events. Missingness remains represented in catalog history rather than being interpreted as a price movement.
+
 ## Catalog contracts
 
 `docs/data/catalog-history/index.json` is the complete browse index. It contains `schema_version`, `from_date`, `to_date`, `calendar_days`, `total_items`, `filters`, and `items`. `filters` provides sorted `departments`, sorted `brands`, and the latest-known `price_range`. Each index item contains source identity and display fields plus:

@@ -4,7 +4,7 @@ from pathlib import Path
 import tempfile
 import unittest
 
-from galafresh_baldwin.analysis import build_daily_summary
+from galafresh_baldwin.analysis import build_daily_summary, build_price_change_history
 from galafresh_baldwin.catalog_history import build_catalog_history
 from galafresh_baldwin.parsers import normalize_catalog_product, normalize_promotions
 from galafresh_baldwin.report import build_reports
@@ -27,6 +27,35 @@ def row(identifier: int, price: float, observed: str, *, brand: str = "Brand"):
 
 
 class AnalysisReportTests(unittest.TestCase):
+    def test_price_change_history_keeps_complete_multi_day_records(self) -> None:
+        with tempfile.TemporaryDirectory() as temporary:
+            snapshots = Path(temporary) / "data/snapshots"
+            first = [row(identifier, 1 + identifier / 10, "2026-07-15T12:00:00Z") for identifier in range(1, 121)]
+            second = [row(identifier, 2 + identifier / 10, "2026-07-16T12:00:00Z") for identifier in range(1, 121)]
+            third = [
+                row(identifier, (1.5 if identifier <= 20 else 2) + identifier / 10, "2026-07-18T12:00:00Z")
+                for identifier in range(1, 121)
+            ]
+            write_snapshot_bundle(snapshots, "2026-07-15", first, [], {"status": "healthy"})
+            write_snapshot_bundle(snapshots, "2026-07-16", second, [], {"status": "healthy"})
+            write_snapshot_bundle(snapshots, "2026-07-18", third, [], {"status": "healthy"})
+
+            index, shards = build_price_change_history(snapshots)
+
+            self.assertEqual(index["status"], "comparison_available")
+            self.assertEqual(index["snapshot_days"], 3)
+            self.assertEqual(index["comparison_days"], 2)
+            self.assertEqual(index["total_changes"], 140)
+            self.assertEqual(index["price_increases"], 120)
+            self.assertEqual(index["price_decreases"], 20)
+            self.assertEqual(index["distinct_products"], 120)
+            self.assertEqual(len(index["files"]), 2)
+            self.assertEqual(len(shards["2026-07-16"]["changes"]), 120)
+            self.assertEqual(len(shards["2026-07-18"]["changes"]), 20)
+            self.assertEqual(shards["2026-07-18"]["changes"][0]["direction"], "decrease")
+            self.assertEqual(index["filters"]["departments"], ["Produce"])
+            self.assertEqual(index["filters"]["brands"], ["Brand"])
+
     def test_second_fixture_day_produces_changes_and_explicit_calendar_gap(self) -> None:
         with tempfile.TemporaryDirectory() as temporary:
             root = Path(temporary)
@@ -73,7 +102,7 @@ class AnalysisReportTests(unittest.TestCase):
             self.assertIsNone(detail["observations"][1]["catalog"])
             self.assertEqual(detail["image_url"], "https://images.example/items/500/1.jpg")
             build_reports(snapshots, docs)
-            for name in ("index.html", "daily-report.html", "weekly-report.html", "catalog.html", "catalog-history.html", "METHODOLOGY.html"):
+            for name in ("index.html", "daily-report.html", "weekly-report.html", "price-changes.html", "catalog.html", "catalog-history.html", "METHODOLOGY.html"):
                 self.assertTrue((docs / name).exists())
             catalog_html = (docs / "catalog.html").read_text()
             catalog_js = (docs / "assets/catalog.js").read_text()
@@ -84,6 +113,15 @@ class AnalysisReportTests(unittest.TestCase):
             self.assertNotIn("slice(0,100)", catalog_js)
             self.assertIn("catalog.html", (docs / "catalog-history.html").read_text())
             self.assertTrue((docs / "data/daily-summary.json").exists())
+            price_index = json.loads((docs / "data/price-changes/index.json").read_text())
+            self.assertEqual(price_index["total_changes"], 1)
+            self.assertTrue((docs / "data/price-changes/2026-07-17.json").exists())
+            price_html = (docs / "price-changes.html").read_text()
+            price_js = (docs / "assets/price-changes.js").read_text()
+            self.assertIn('id="change-from-date"', price_html)
+            self.assertIn('id="change-detail-panel"', price_html)
+            self.assertIn("downloadFilteredCsv", price_js)
+            self.assertIn("downloadFilteredJson", price_js)
 
 
 if __name__ == "__main__":
