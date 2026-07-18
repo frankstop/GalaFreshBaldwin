@@ -60,7 +60,9 @@ NAV_ITEMS = (("Overview", "index.html", "overview"), ("Daily", "daily-report.htm
 
 def _page(title: str, body: str, script: str = "", *, current: str = "", body_class: str = "") -> str:
     links = "".join(
-        f'<a href="{href}"{(" aria-current=\"page\"" if key == current else "")}>{label}</a>'
+        f'<a href="{href}"'
+        + (' aria-current="page"' if key == current else "")
+        + f">{label}</a>"
         for label, href, key in NAV_ITEMS
     )
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f7f8f2"><title>{title}</title><link rel="stylesheet" href="assets/site.css?v=research-1.1"><script src="assets/analytics.js?v=research-1.0" defer></script></head><body class="{body_class}"><header class="site-header"><div class="site-header-inner"><a class="site-identity" href="index.html"><strong>Gala Fresh Baldwin</strong><span>catalog research</span></a><nav class="site-nav" aria-label="Research reports">{links}</nav></div></header><main>{body}</main><footer class="site-footer"><p>Independent, unaffiliated research. Source: <a href="https://www.shopgalafresh.com/">Gala Fresh public storefront</a>. Online values are not asserted as physical shelf prices.</p></footer>{script}</body></html>"""
