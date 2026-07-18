@@ -6,7 +6,7 @@ This project records the public **online** catalog: products, regular online pri
 
 ## Status and published research
 
-The first reviewed healthy crawl establishes the baseline. Comparisons begin with the second healthy crawl. Until that happens, the Pages site reports `awaiting_baseline` without fabricated data.
+The reviewed 2026-07-17 healthy crawl establishes the baseline: 9,606 unique Baldwin listings and 775 separate promotion observations. Comparisons begin with the second healthy crawl; no prior history is fabricated.
 
 - Pages: <https://frankstop.github.io/GalaFreshBaldwin/>
 - Daily report: <https://frankstop.github.io/GalaFreshBaldwin/daily-report.html>
@@ -82,4 +82,3 @@ The stable key is `gala:1165:1329:{retailer_product_id}`. All three source IDs a
 ## License
 
 MIT. Source storefront content remains attributable to its respective owners.
-
