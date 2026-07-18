@@ -11,7 +11,7 @@ The reviewed 2026-07-17 healthy crawl establishes the baseline: 9,606 unique Bal
 - Pages: <https://frankstop.github.io/GalaFreshBaldwin/>
 - Daily report: <https://frankstop.github.io/GalaFreshBaldwin/daily-report.html>
 - Weekly report: <https://frankstop.github.io/GalaFreshBaldwin/weekly-report.html>
-- Catalog history: <https://frankstop.github.io/GalaFreshBaldwin/catalog-history.html>
+- Catalog: <https://frankstop.github.io/GalaFreshBaldwin/catalog.html>
 
 ## Architecture
 
@@ -19,7 +19,7 @@ The pipeline has three boundaries:
 
 1. **Raw evidence** — Playwright Chromium reads the current `window.sp.frontendData`, dynamically selects visible root departments, and calls the anonymous same-origin products API serially. Daily catalog and promotion observations are stored separately as deterministic gzip JSONL with a manifest.
 2. **Derived research** — one tested Python analysis layer calculates daily/weekly changes, gaps, churn, regular-price movements, promotion transitions, summaries, and conservative anomalies entirely offline.
-3. **Published views** — static HTML reads stable JSON contracts. JavaScript renders metrics; it does not independently calculate them.
+3. **Published views** — static HTML reads stable JSON contracts. The catalog exposes the complete union dataset with search, filters, transparent pagination, CSV export, and a persistent item-evidence inspector. JavaScript renders derived fields; it does not independently calculate business metrics.
 
 Acquisition, parsing, discovery, models, validation, storage, analysis, catalog history, and rendering are separate modules under `galafresh_baldwin/`. See [Architecture](docs/ARCHITECTURE.md), [Data dictionary](docs/DATA_DICTIONARY.md), and [Methodology](docs/METHODOLOGY.md).
 

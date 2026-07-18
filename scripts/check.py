@@ -12,7 +12,7 @@ from galafresh_baldwin.storage import read_jsonl_gz, snapshot_files
 ROOT = Path(__file__).resolve().parents[1]
 REQUIRED = [
     "README.md", "LICENSE", "pyproject.toml", ".github/workflows/daily_crawl.yml",
-    "docs/index.html", "docs/daily-report.html", "docs/weekly-report.html", "docs/catalog-history.html",
+    "docs/index.html", "docs/daily-report.html", "docs/weekly-report.html", "docs/catalog.html", "docs/catalog-history.html",
     "docs/METHODOLOGY.md", "docs/METHODOLOGY.html", "docs/ARCHITECTURE.md", "docs/DATA_DICTIONARY.md",
 ]
 
@@ -54,4 +54,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

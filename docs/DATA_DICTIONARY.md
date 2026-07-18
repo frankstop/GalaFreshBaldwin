@@ -92,6 +92,19 @@ Daily observations contain catalog size, valid-price rate, median/average regula
 
 Top-level fields: `schema_version`, `report`, `status`, `scope`, `from_date`, `to_date`, `snapshot_days`, `latest_catalog_size`, median catalog/valid-price values, aggregate `price_increases`, `price_decreases`, `additions`, `returns`, `missing_products`, seven-day history/comparisons, category/brand summaries, health history, and methodology.
 
-## Catalog history contracts
+## Catalog contracts
 
-`index.json` contains schema version, first/last date, calendar-day count, and union-catalog items with identity fields and a SHA-256 shard ID. Each `{shard}.json` contains complete items. An item observation has `date`, nullable `catalog` (`regular_price`, `promotion_ids`, `is_out_of_stock`), and promotion entries. A null catalog is an explicit gap, not deletion or zero.
+`docs/data/catalog-history/index.json` is the complete browse index. It contains `schema_version`, `from_date`, `to_date`, `calendar_days`, `total_items`, `filters`, and `items`. `filters` provides sorted `departments`, sorted `brands`, and the latest-known `price_range`. Each index item contains source identity and display fields plus:
+
+| Field | Type | Meaning |
+|---|---|---|
+| `departments` | string[] | Top-level labels derived from all preserved category paths. |
+| `latest_regular_price` | number/null | Regular price on the listing's most recent observed day; it may predate the latest snapshot when `is_current` is false. |
+| `latest_promotion_count` | integer | Separate promotion observations on the archive's latest day. |
+| `is_current` | boolean | Whether the item appears in the latest catalog snapshot. |
+| `first_seen`, `last_seen` | date string | First and most recent healthy observation dates. |
+| `observed_days` | integer | Count of healthy snapshot days containing this item. |
+| `has_price_change` | boolean | Whether at least two distinct nonmissing regular prices appear in the item's archive. |
+| `shard` | string | First two SHA-256 characters for the item detail file. |
+
+Each `{shard}.json` contains complete items with the same browse fields, package/source metadata, and one observation slot per calendar date. An observation has `date`, nullable `catalog` (`regular_price`, `promotion_ids`, `is_out_of_stock`), and separate promotion entries. A null catalog is an explicit gap, not deletion or zero.

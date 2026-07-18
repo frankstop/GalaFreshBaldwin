@@ -8,6 +8,20 @@
         "Cereal & Breakfast",
         "Cereal & Breakfast > Breakfast > Toaster Pastries"
       ],
+      "currency": "USD",
+      "departments": [
+        "Cereal & Breakfast"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/928527.jpg?v=5",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 1,
+      "latest_regular_price": 5.99,
       "name": "Pop-tarts Frosted Hot Fudge Sundae Toaster Pastries 12 ct",
       "observations": [
         {
@@ -29,8 +43,13 @@
           ]
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:11358142",
-      "retailer_product_id": "11358142"
+      "retailer_product_id": "11358142",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 20
     },
     {
       "branch_product_id": "20224119",
@@ -44,6 +63,22 @@
         "Meal Solutions",
         "Meal Solutions > Create Your Own Salad > Bread"
       ],
+      "currency": "USD",
+      "departments": [
+        "Bread & Bakery",
+        "Cereal & Breakfast",
+        "Meal Solutions"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/932976/854374/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 3.49,
       "name": "Hearth Baked Blueberry Bagels 6 ct",
       "observations": [
         {
@@ -56,8 +91,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:11838061",
-      "retailer_product_id": "11838061"
+      "retailer_product_id": "11838061",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 12
     },
     {
       "branch_product_id": "20650439",
@@ -67,6 +107,20 @@
         "Fresh Produce",
         "Fresh Produce > Fresh Vegetables > Legumes"
       ],
+      "currency": "USD",
+      "departments": [
+        "Fresh Produce"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/7936601/12673691/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 7.99,
       "name": "PERO SNIPPED GREEN BEANS 2LB",
       "observations": [
         {
@@ -79,8 +133,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:12099412",
-      "retailer_product_id": "12099412"
+      "retailer_product_id": "12099412",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": null,
+      "unit_resolution": 0.25,
+      "weight": null
     },
     {
       "branch_product_id": "24142166",
@@ -94,6 +153,22 @@
         "Meal Solutions",
         "Meal Solutions > Lunchbox > Fruit Snacks"
       ],
+      "currency": "USD",
+      "departments": [
+        "Dried Fruits & Nuts",
+        "Fresh Produce",
+        "Meal Solutions"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/1165/13464918/10150814/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 6.99,
       "name": "Probiotic Dried Dates",
       "observations": [
         {
@@ -106,8 +181,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:13464918",
-      "retailer_product_id": "13464918"
+      "retailer_product_id": "13464918",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 0.25,
+      "weight": 12
     },
     {
       "branch_product_id": "27774265",
@@ -119,6 +199,21 @@
         "Meal Solutions",
         "Meal Solutions > Create Your Own Salad > Cheese for Salads"
       ],
+      "currency": "USD",
+      "departments": [
+        "Dairy",
+        "Meal Solutions"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/1165/14437801/9897685/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 3.49,
       "name": "Sharp Cheddar Shredded Cheese",
       "observations": [
         {
@@ -131,8 +226,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:14437801",
-      "retailer_product_id": "14437801"
+      "retailer_product_id": "14437801",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 8
     },
     {
       "branch_product_id": "48161445",
@@ -142,6 +242,20 @@
         "Beverages",
         "Beverages > Beverages > Water & Sparkling Water"
       ],
+      "currency": "USD",
+      "departments": [
+        "Beverages"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/7707191/12676167/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 1,
+      "latest_regular_price": 9.39,
       "name": "Black Cherry Seltzer Water Cans 8 ct",
       "observations": [
         {
@@ -163,8 +277,13 @@
           ]
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:18668859",
-      "retailer_product_id": "18668859"
+      "retailer_product_id": "18668859",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "ct",
+      "unit_resolution": 1,
+      "weight": 8
     },
     {
       "branch_product_id": "48967980",
@@ -174,6 +293,20 @@
         "Grocery",
         "Grocery > Basic Products > Condiments & Relishes"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/5996458/9645023/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 9.99,
       "name": "Classic Mayo with Avocado Oil",
       "observations": [
         {
@@ -186,8 +319,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:18823253",
-      "retailer_product_id": "18823253"
+      "retailer_product_id": "18823253",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "fl oz",
+      "unit_resolution": 1,
+      "weight": 11.25
     },
     {
       "branch_product_id": "51229602",
@@ -199,6 +337,21 @@
         "Meal Solutions",
         "Meal Solutions > Create Your Own Salad > Cheese for Salads"
       ],
+      "currency": "USD",
+      "departments": [
+        "Dairy",
+        "Meal Solutions"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/7897894/12677587/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 5.99,
       "name": "Triple Cheddar Shredded Cheese",
       "observations": [
         {
@@ -211,8 +364,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:19582464",
-      "retailer_product_id": "19582464"
+      "retailer_product_id": "19582464",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 8
     },
     {
       "branch_product_id": "3189350",
@@ -222,6 +380,20 @@
         "Fresh Produce",
         "Fresh Produce > Fresh Vegetables > Squash & Pumpkin"
       ],
+      "currency": "USD",
+      "departments": [
+        "Fresh Produce"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/243192.jpg?v=4",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": true,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 1.29,
       "name": "Squash Butternut",
       "observations": [
         {
@@ -234,8 +406,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2374091",
-      "retailer_product_id": "2374091"
+      "retailer_product_id": "2374091",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "lb",
+      "unit_resolution": 0.25,
+      "weight": 3
     },
     {
       "branch_product_id": "3189542",
@@ -245,6 +422,20 @@
         "Grocery",
         "Grocery > Spreads > More Spreads"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/833852.jpg?v=9",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 4.29,
       "name": "Ferrero Hazelnut Spread with Cocoa",
       "observations": [
         {
@@ -257,8 +448,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2374283",
-      "retailer_product_id": "2374283"
+      "retailer_product_id": "2374283",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 7
     },
     {
       "branch_product_id": "3189945",
@@ -270,6 +466,21 @@
         "Meal Solutions",
         "Meal Solutions > Create Your Own Salad > Dressings"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery",
+        "Meal Solutions"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/95875/847423/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 3.49,
       "name": "Apple Cider Vinegar",
       "observations": [
         {
@@ -282,8 +493,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2374686",
-      "retailer_product_id": "2374686"
+      "retailer_product_id": "2374686",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "fl oz",
+      "unit_resolution": 1,
+      "weight": 32
     },
     {
       "branch_product_id": "3190122",
@@ -295,6 +511,21 @@
         "Meal Solutions",
         "Meal Solutions > Dinner Ideas > Italian Dinner"
       ],
+      "currency": "USD",
+      "departments": [
+        "Frozen",
+        "Meal Solutions"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/1108844.jpg?v=2",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 4.99,
       "name": "Five Cheese Rigatoni made with Real Cheese",
       "observations": [
         {
@@ -307,8 +538,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2374863",
-      "retailer_product_id": "2374863"
+      "retailer_product_id": "2374863",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 10
     },
     {
       "branch_product_id": "3190310",
@@ -318,6 +554,20 @@
         "Frozen",
         "Frozen > Frozen Foods > Frozen Vegetables"
       ],
+      "currency": "USD",
+      "departments": [
+        "Frozen"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/873604.jpg?v=2",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 3.49,
       "name": "Steamfresh California Style Protein Blends",
       "observations": [
         {
@@ -330,8 +580,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2375051",
-      "retailer_product_id": "2375051"
+      "retailer_product_id": "2375051",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 10
     },
     {
       "branch_product_id": "3191640",
@@ -341,6 +596,20 @@
         "Dairy",
         "Dairy > Cheese > Soft Cheese"
       ],
+      "currency": "USD",
+      "departments": [
+        "Dairy"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/123588/12922281/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 6.49,
       "name": "Original Whipped Cream Cheese Spread with No Added Preservatives",
       "observations": [
         {
@@ -353,8 +622,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2376381",
-      "retailer_product_id": "2376381"
+      "retailer_product_id": "2376381",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 8
     },
     {
       "branch_product_id": "3192054",
@@ -364,6 +638,20 @@
         "Grocery",
         "Grocery > Canned & Jarred Foods > Canned Fruit & Applesauce"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/883939.jpg?v=6",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 4.29,
       "name": "Peaches Diced In Water with No Sugar Added 4 ct",
       "observations": [
         {
@@ -376,8 +664,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2376795",
-      "retailer_product_id": "2376795"
+      "retailer_product_id": "2376795",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 4
     },
     {
       "branch_product_id": "3192755",
@@ -387,6 +680,20 @@
         "Grocery",
         "Grocery > Basic Products > Stocks & Broth"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/2465808/914693/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 4.29,
       "name": "Maggi Beef Flavor Bouillon",
       "observations": [
         {
@@ -399,8 +706,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2377496",
-      "retailer_product_id": "2377496"
+      "retailer_product_id": "2377496",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 7
     },
     {
       "branch_product_id": "3194340",
@@ -410,6 +722,20 @@
         "Grocery",
         "Grocery > Canned & Jarred Foods > Cooking Sauces & Salsas"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/729683.jpg?v=3",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 5.49,
       "name": "Pepper Sauce Hot",
       "observations": [
         {
@@ -422,8 +748,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2379081",
-      "retailer_product_id": "2379081"
+      "retailer_product_id": "2379081",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "fl oz",
+      "unit_resolution": 1,
+      "weight": 10
     },
     {
       "branch_product_id": "3194742",
@@ -437,6 +768,22 @@
         "Meat & Seafood",
         "Meat & Seafood > Seafood > Smoked/Salted Fish"
       ],
+      "currency": "USD",
+      "departments": [
+        "Deli",
+        "Fish & Shellfish",
+        "Meat & Seafood"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/928721.jpg?v=3",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 7.99,
       "name": "Ventura Salted Pollock Fillets",
       "observations": [
         {
@@ -449,8 +796,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2379483",
-      "retailer_product_id": "2379483"
+      "retailer_product_id": "2379483",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 0.25,
+      "weight": 16
     },
     {
       "branch_product_id": "3195507",
@@ -467,6 +819,23 @@
         "Snacks & Sweets",
         "Snacks & Sweets > Fruit & Nut Snacks > Dried Fruit Snacking"
       ],
+      "currency": "USD",
+      "departments": [
+        "Dried Fruits & Nuts",
+        "Fresh Produce",
+        "Meal Solutions",
+        "Snacks & Sweets"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/117865/12923747/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 5.99,
       "name": "California Sun Dried Raisins",
       "observations": [
         {
@@ -479,8 +848,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2380248",
-      "retailer_product_id": "2380248"
+      "retailer_product_id": "2380248",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 0.25,
+      "weight": 20
     },
     {
       "branch_product_id": "3196282",
@@ -490,6 +864,20 @@
         "Frozen",
         "Frozen > Frozen Foods > Frozen Pastry & Dough"
       ],
+      "currency": "USD",
+      "departments": [
+        "Frozen"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/1012700.jpg?v=1",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 3.99,
       "name": "5\" Empanada Dough Puff Pastry",
       "observations": [
         {
@@ -502,8 +890,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2381023",
-      "retailer_product_id": "2381023"
+      "retailer_product_id": "2381023",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 11
     },
     {
       "branch_product_id": "3198792",
@@ -513,6 +906,20 @@
         "Beverages",
         "Beverages > Beverages > Drink Mixes & Syrups"
       ],
+      "currency": "USD",
+      "departments": [
+        "Beverages"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/113676.jpg?v=5",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 0.59,
       "name": "Strawberry Kiwi Unsweetened Drink Mix",
       "observations": [
         {
@@ -525,8 +932,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2383533",
-      "retailer_product_id": "2383533"
+      "retailer_product_id": "2383533",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 0
     },
     {
       "branch_product_id": "3198912",
@@ -536,6 +948,20 @@
         "Snacks & Sweets",
         "Snacks & Sweets > Cookies & Crackers > Crackers"
       ],
+      "currency": "USD",
+      "departments": [
+        "Snacks & Sweets"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/670213.jpg?v=5",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 4.69,
       "name": "Premium Soup & Oyster Crackers",
       "observations": [
         {
@@ -548,8 +974,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2383653",
-      "retailer_product_id": "2383653"
+      "retailer_product_id": "2383653",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 9
     },
     {
       "branch_product_id": "3199572",
@@ -561,6 +992,21 @@
         "Health & Special Diets",
         "Health & Special Diets > Gluten Free > Gluten Free Pantry"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery",
+        "Health & Special Diets"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/91323/4926914/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 2.89,
       "name": "Gluten Free Original All Purpose Soy Sauce",
       "observations": [
         {
@@ -573,8 +1019,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2384313",
-      "retailer_product_id": "2384313"
+      "retailer_product_id": "2384313",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "fl oz",
+      "unit_resolution": 1,
+      "weight": 10
     },
     {
       "branch_product_id": "3199608",
@@ -586,6 +1037,21 @@
         "Deli",
         "Deli > Packaged Cold Cuts > Turkey & Chicken Cuts"
       ],
+      "currency": "USD",
+      "departments": [
+        "Cold Cuts",
+        "Deli"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/886263.jpg?v=2",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 6.99,
       "name": "Deli Select Honey Roasted Turkey Breast Ultra Thin",
       "observations": [
         {
@@ -598,8 +1064,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2384349",
-      "retailer_product_id": "2384349"
+      "retailer_product_id": "2384349",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 0.25,
+      "weight": 9
     },
     {
       "branch_product_id": "3200587",
@@ -609,6 +1080,20 @@
         "Grocery",
         "Grocery > Basic Products > Condiments & Relishes"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/130559.jpg?v=3",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 5.99,
       "name": "Gluten Free Real Mayonnaise",
       "observations": [
         {
@@ -621,8 +1106,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2385328",
-      "retailer_product_id": "2385328"
+      "retailer_product_id": "2385328",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "fl oz",
+      "unit_resolution": 1,
+      "weight": 15
     },
     {
       "branch_product_id": "3201987",
@@ -632,6 +1122,20 @@
         "Grocery",
         "Grocery > Canned & Jarred Foods > Cooking Sauces & Salsas"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/877784.jpg?v=11",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 1,
+      "latest_regular_price": 1.99,
       "name": "Turkey Gravy with Roasted Flavor",
       "observations": [
         {
@@ -653,8 +1157,13 @@
           ]
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2386728",
-      "retailer_product_id": "2386728"
+      "retailer_product_id": "2386728",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 10
     },
     {
       "branch_product_id": "3202248",
@@ -664,6 +1173,20 @@
         "Grocery",
         "Grocery > Canned & Jarred Foods > Canned Soup"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/877474.jpg?v=8",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 3.89,
       "name": "Condensed Soup Cream Of Mushroom",
       "observations": [
         {
@@ -676,8 +1199,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2386989",
-      "retailer_product_id": "2386989"
+      "retailer_product_id": "2386989",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 22
     },
     {
       "branch_product_id": "3204067",
@@ -687,6 +1215,20 @@
         "Laundry & Cleaning",
         "Laundry & Cleaning > Bathroom Tissue & Paper > Bathroom Tissue"
       ],
+      "currency": "USD",
+      "departments": [
+        "Laundry & Cleaning"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/100216/12907846/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 6.29,
       "name": "1000 Sheets Unscented Bathroom Tissue Rolls",
       "observations": [
         {
@@ -699,8 +1241,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2388808",
-      "retailer_product_id": "2388808"
+      "retailer_product_id": "2388808",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "ct",
+      "unit_resolution": 1,
+      "weight": 4
     },
     {
       "branch_product_id": "3204081",
@@ -712,6 +1259,21 @@
         "Meal Solutions",
         "Meal Solutions > Create Your Own Salad > Something Extra"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery",
+        "Meal Solutions"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/107289/2272830/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 4.19,
       "name": "Pickled Kosher Dill Spears",
       "observations": [
         {
@@ -724,8 +1286,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2388822",
-      "retailer_product_id": "2388822"
+      "retailer_product_id": "2388822",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "fl oz",
+      "unit_resolution": 1,
+      "weight": 24
     },
     {
       "branch_product_id": "3206433",
@@ -735,6 +1302,20 @@
         "Beverages",
         "Beverages > Beverages > Soda Drinks"
       ],
+      "currency": "USD",
+      "departments": [
+        "Beverages"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/884660/9118891/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 1.94,
       "name": "Diet Pink Grapefruit Dry Sparkling Beverage",
       "observations": [
         {
@@ -747,8 +1328,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2391174",
-      "retailer_product_id": "2391174"
+      "retailer_product_id": "2391174",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Liter",
+      "unit_resolution": 1,
+      "weight": 1
     },
     {
       "branch_product_id": "3208828",
@@ -758,6 +1344,20 @@
         "Grocery",
         "Grocery > Spreads > Honey"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/92823.jpg?v=5",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 7.29,
       "name": "Pure Honey",
       "observations": [
         {
@@ -770,8 +1370,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2393569",
-      "retailer_product_id": "2393569"
+      "retailer_product_id": "2393569",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 12
     },
     {
       "branch_product_id": "3213409",
@@ -781,6 +1386,20 @@
         "Beverages",
         "Beverages > Beverages > Soda Drinks"
       ],
+      "currency": "USD",
+      "departments": [
+        "Beverages"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/144733/2272853/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 11.59,
       "name": "Zero Sugar Lemon Lime Flavored Soda Cans 12 pk",
       "observations": [
         {
@@ -793,8 +1412,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2398150",
-      "retailer_product_id": "2398150"
+      "retailer_product_id": "2398150",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "pack",
+      "unit_resolution": 1,
+      "weight": 12
     },
     {
       "branch_product_id": "3214395",
@@ -806,6 +1430,21 @@
         "Meal Solutions",
         "Meal Solutions > Create Your Own Salad > Something Extra"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery",
+        "Meal Solutions"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/102597/851735/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 3.99,
       "name": "Chunk Light Tuna in Water",
       "observations": [
         {
@@ -818,8 +1457,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2399136",
-      "retailer_product_id": "2399136"
+      "retailer_product_id": "2399136",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 12
     },
     {
       "branch_product_id": "3214987",
@@ -829,6 +1473,20 @@
         "Grocery",
         "Grocery > Spreads > Jams & Preserves"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/139435.jpg?v=4",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 7.49,
       "name": "Wild Blueberry Preserves",
       "observations": [
         {
@@ -841,8 +1499,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2399728",
-      "retailer_product_id": "2399728"
+      "retailer_product_id": "2399728",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 13
     },
     {
       "branch_product_id": "3215377",
@@ -852,6 +1515,20 @@
         "Meat & Seafood",
         "Meat & Seafood > Fresh Meat > Beef"
       ],
+      "currency": "USD",
+      "departments": [
+        "Meat & Seafood"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/674488.jpg?v=3",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": true,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 10.99,
       "name": "Beef Top Chuck Steak Boneless",
       "observations": [
         {
@@ -864,8 +1541,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2400118",
-      "retailer_product_id": "2400118"
+      "retailer_product_id": "2400118",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "lb",
+      "unit_resolution": 0.5,
+      "weight": 1.2
     },
     {
       "branch_product_id": "3217447",
@@ -875,6 +1557,20 @@
         "Beverages",
         "Beverages > Beverages > Energy & Sports Drinks"
       ],
+      "currency": "USD",
+      "departments": [
+        "Beverages"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/705715.jpg?v=4",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 3.64,
       "name": "Total Zero",
       "observations": [
         {
@@ -887,8 +1583,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2402188",
-      "retailer_product_id": "2402188"
+      "retailer_product_id": "2402188",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "fl oz",
+      "unit_resolution": 1,
+      "weight": 12
     },
     {
       "branch_product_id": "3218052",
@@ -900,6 +1601,21 @@
         "Meal Solutions",
         "Meal Solutions > Create Your Own Salad > Cheese for Salads"
       ],
+      "currency": "USD",
+      "departments": [
+        "Dairy",
+        "Meal Solutions"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/675243.jpg?v=2",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 6.59,
       "name": "Cotija Cheese",
       "observations": [
         {
@@ -912,8 +1628,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2402793",
-      "retailer_product_id": "2402793"
+      "retailer_product_id": "2402793",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 16
     },
     {
       "branch_product_id": "3218272",
@@ -923,6 +1644,20 @@
         "Frozen",
         "Frozen > Frozen Meals > Breaded Chicken & Party Wings"
       ],
+      "currency": "USD",
+      "departments": [
+        "Frozen"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/675455.jpg?v=3",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 6.99,
       "name": "Classic Fried Chicken Strips",
       "observations": [
         {
@@ -935,8 +1670,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2403013",
-      "retailer_product_id": "2403013"
+      "retailer_product_id": "2403013",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 14
     },
     {
       "branch_product_id": "3219033",
@@ -948,6 +1688,21 @@
         "Meal Solutions",
         "Meal Solutions > Create Your Own Salad > Dressings"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery",
+        "Meal Solutions"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/745582.jpg?v=2",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 37.99,
       "name": "Extra Virgin Olive Oil",
       "observations": [
         {
@@ -960,8 +1715,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:2403774",
-      "retailer_product_id": "2403774"
+      "retailer_product_id": "2403774",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "fl oz",
+      "unit_resolution": 1,
+      "weight": 68
     },
     {
       "branch_product_id": "6245237",
@@ -971,6 +1731,20 @@
         "Grocery",
         "Grocery > Spreads > Peanut Butter"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/1550688.jpg?v=2",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 5.49,
       "name": "Creamy Peanut Butter",
       "observations": [
         {
@@ -983,8 +1757,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:4196489",
-      "retailer_product_id": "4196489"
+      "retailer_product_id": "4196489",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 28
     },
     {
       "branch_product_id": "6878422",
@@ -998,6 +1777,22 @@
         "Meat & Seafood",
         "Meat & Seafood > Seafood > Frozen Shellfish"
       ],
+      "currency": "USD",
+      "departments": [
+        "Fish & Shellfish",
+        "Frozen",
+        "Meat & Seafood"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/769718.jpg?v=1",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 10.99,
       "name": "Stuffed Scallops 9 Ct",
       "observations": [
         {
@@ -1010,8 +1805,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:4630107",
-      "retailer_product_id": "4630107"
+      "retailer_product_id": "4630107",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 18
     },
     {
       "branch_product_id": "7987859",
@@ -1021,6 +1821,20 @@
         "Grocery",
         "Grocery > Basic Products > Salt"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/781127.jpg?v=2",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 3.49,
       "name": "Badia Pink Himalayan Salt Grinder",
       "observations": [
         {
@@ -1033,8 +1847,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:5204850",
-      "retailer_product_id": "5204850"
+      "retailer_product_id": "5204850",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 4
     },
     {
       "branch_product_id": "8004216",
@@ -1044,6 +1863,20 @@
         "Snacks & Sweets",
         "Snacks & Sweets > Candy & Chocolate > Chocolate"
       ],
+      "currency": "USD",
+      "departments": [
+        "Snacks & Sweets"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/92402.jpg?v=5",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 1.69,
       "name": "Milk Chocolate with Almonds",
       "observations": [
         {
@@ -1056,8 +1889,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:5216432",
-      "retailer_product_id": "5216432"
+      "retailer_product_id": "5216432",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 1
     },
     {
       "branch_product_id": "14092073",
@@ -1069,6 +1907,21 @@
         "Meal Solutions",
         "Meal Solutions > Dinner Ideas > Mexican Dinner"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery",
+        "Meal Solutions"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/3607718/2009390/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 5.19,
       "name": "Queso Sauce",
       "observations": [
         {
@@ -1081,8 +1934,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:8049745",
-      "retailer_product_id": "8049745"
+      "retailer_product_id": "8049745",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 9
     },
     {
       "branch_product_id": "15010101",
@@ -1094,6 +1952,21 @@
         "Health & Special Diets",
         "Health & Special Diets > Gluten Free > Gluten Free Pantry"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery",
+        "Health & Special Diets"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/items/500/838104.jpg?v=4",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 6.99,
       "name": "Chunky Bleu Cheese Dressing & Dip made with Canola Oil",
       "observations": [
         {
@@ -1106,8 +1979,13 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:8686358",
-      "retailer_product_id": "8686358"
+      "retailer_product_id": "8686358",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "fl oz",
+      "unit_resolution": 1,
+      "weight": 20
     },
     {
       "branch_product_id": "15251803",
@@ -1117,6 +1995,20 @@
         "Grocery",
         "Grocery > Baking Needs > Flour"
       ],
+      "currency": "USD",
+      "departments": [
+        "Grocery"
+      ],
+      "first_seen": "2026-07-17",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/2998673/911493/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-17",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 5.29,
       "name": "Whole Grain Oat Flour",
       "observations": [
         {
@@ -1129,9 +2021,14 @@
           "promotions": []
         }
       ],
+      "observed_days": 1,
       "product_key": "gala:1165:1329:8794996",
-      "retailer_product_id": "8794996"
+      "retailer_product_id": "8794996",
+      "source_url": "https://www.shopgalafresh.com/",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 20
     }
   ],
-  "schema_version": "1.0"
+  "schema_version": "1.1"
 }

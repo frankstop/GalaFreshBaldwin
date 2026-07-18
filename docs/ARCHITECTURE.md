@@ -22,11 +22,11 @@ Overlapping roots are expected. `parsers.py` normalizes each observation, then m
 
 `analysis.py` is the sole business-metric layer. It reads checked-in gzip snapshots without Playwright or network access and produces stable daily and weekly dictionaries. It preserves missing prices and dates, matches on `product_key`, separates first additions from later returns, compares regular prices only when both observations are valid, and compares promotion structures independently.
 
-`catalog_history.py` constructs the union catalog. Every item receives an observation slot for every calendar day from first to latest snapshot, with `catalog: null` for gaps. Shards are selected by the first two characters of SHA-256 over the stable key.
+`catalog_history.py` constructs the union catalog. Every item receives an observation slot for every calendar day from first to latest snapshot, with `catalog: null` for gaps. The index includes tested browse fields such as latest known price, current-snapshot presence, first/last seen dates, promotion count, departments, and recorded-price-change state. Shards are selected by the first two characters of SHA-256 over the stable key.
 
 ### Published views
 
-`report.py` writes `daily-summary.json`, `weekly-summary.json`, the history index/shards, and accessible responsive HTML. Page JavaScript only selects and formats already-derived contract fields. It does not recalculate catalog or change metrics.
+`report.py` writes `daily-summary.json`, `weekly-summary.json`, the catalog index/shards, and accessible responsive HTML. The Catalog page makes every union item reachable with filtering and transparent pagination, while detailed daily evidence loads from a deterministic shard into a side inspector. Page JavaScript only selects, filters, and formats already-derived contract fields. It does not recalculate catalog or change metrics.
 
 ## Failure rules
 
@@ -40,4 +40,3 @@ Overlapping roots are expected. `parsers.py` normalizes each observation, then m
 ## Dependency boundary
 
 Python's standard library handles models, gzip, JSON, validation, analysis, and HTML generation. Playwright is the only runtime dependency because the public product endpoint is browser-only at the edge.
-
