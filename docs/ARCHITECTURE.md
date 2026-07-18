@@ -8,7 +8,7 @@ The repository accepts only Gala Fresh Baldwin retailer `1165`, branch `1329`. R
 
 ### Raw evidence
 
-`browser_source.py` opens one clean headless Chromium context. The request router blocks forbidden paths and image/font/media downloads, counts requests, and serializes every GalaFresh or `data.js` request through one rate limiter. The browser loads `robots.txt` first, raises the configured delay to its current `Crawl-delay`, then loads the homepage and identifies the cache-busted Azure Blob `data.js` from actual resource entries.
+`browser_source.py` fetches `robots.txt` directly with the declared research user agent, then opens one clean headless Chromium context. The request router blocks forbidden paths and image/font/media downloads, counts requests, and serializes every GalaFresh or `data.js` request through one rate limiter. The collector raises the configured delay to the policy's current `Crawl-delay`, then loads the homepage and identifies the cache-busted Azure Blob `data.js` from actual resource entries.
 
 `discovery.py` reads the serializable `window.sp.frontendData`, verifies `retailer.id=1165` and a branch with `id=1329`, finds the current tree and localized English names, and selects visible top-level roots with Baldwin-visible products. A smoke category is resolved from that same live tree, including its complete name path.
 

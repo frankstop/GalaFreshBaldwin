@@ -66,7 +66,7 @@ Status meanings:
 
 ## Responsible-access boundary
 
-Every collection starts in one clean, non-persistent Chromium context. It fetches and parses `robots.txt`, verifies both category and `/v2` paths remain permitted, and applies one serial global limiter to storefront requests, bootstrap resources, product calls, and retries. The current crawl delay is observed dynamically (four seconds at implementation time).
+Every collection fetches and parses `robots.txt` directly with the declared research user agent, then starts one clean, non-persistent Chromium context. It verifies both category and `/v2` paths remain permitted and applies one serial global limiter to the policy fetch, storefront requests, bootstrap resources, product calls, and retries. The current crawl delay is observed dynamically (four seconds at implementation time).
 
 The collector never visits or automates search, carts, accounts, coupons, order history, recent purchases, smart lists, or product-tag paths. It never submits an address, creates an account, signs in, adds to a cart, places an order, or uses customer cookies. There are no stealth plugins, CAPTCHA bypasses, proxies, persisted profiles, or authenticated sessions. Robots restrictions, CAPTCHA/authentication, repeated 403 responses, identity mismatches, or contract changes fail closed.
 

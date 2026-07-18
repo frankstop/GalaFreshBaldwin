@@ -1,12 +1,33 @@
 from __future__ import annotations
 
+from email.message import Message
+from io import BytesIO
 import unittest
+from unittest.mock import patch
+from urllib.error import HTTPError
 
-from galafresh_baldwin.browser_source import PaginationError, SourceError, paginate_category, parse_robots
+from galafresh_baldwin.browser_source import BrowserSource, PaginationError, SourceError, paginate_category, parse_robots
 from galafresh_baldwin.models import CategoryRoot
 
 
 ROOT = CategoryRoot("10", "Produce", ("Produce",), ("10",))
+
+
+class FakeResponse:
+    def __init__(self, body: str, content_type: str = "text/plain; charset=utf-8") -> None:
+        self.status = 200
+        self.headers = Message()
+        self.headers["content-type"] = content_type
+        self._body = body.encode()
+
+    def __enter__(self):
+        return self
+
+    def __exit__(self, *_args):
+        return None
+
+    def read(self) -> bytes:
+        return self._body
 
 
 class PaginationTests(unittest.TestCase):
@@ -44,6 +65,25 @@ class PaginationTests(unittest.TestCase):
         self.assertEqual(parse_robots(allowed, 0.1).crawl_delay, 4.0)
         with self.assertRaises(SourceError):
             parse_robots("User-agent: *\nDisallow: /v2\n", 0)
+
+    def test_robots_are_fetched_directly_and_http_errors_fail_closed(self) -> None:
+        allowed = "User-agent: *\nDisallow: /cart\nCrawl-delay: 4\n"
+        source = BrowserSource(request_delay=0)
+        with patch("galafresh_baldwin.browser_source.urlopen", return_value=FakeResponse(allowed)):
+            policy = source._fetch_robots()
+        self.assertEqual(policy.crawl_delay, 4.0)
+        self.assertEqual(source.requests, 1)
+
+        forbidden = HTTPError(
+            "https://www.shopgalafresh.com/robots.txt",
+            403,
+            "Forbidden",
+            {"content-type": "text/html; charset=UTF-8"},
+            BytesIO(b"forbidden"),
+        )
+        with patch("galafresh_baldwin.browser_source.urlopen", side_effect=forbidden):
+            with self.assertRaisesRegex(SourceError, "HTTP 403"):
+                BrowserSource(request_delay=0)._fetch_robots()
 
 
 if __name__ == "__main__":

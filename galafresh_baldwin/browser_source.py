@@ -8,7 +8,9 @@ from pathlib import Path
 import threading
 import time
 from typing import Any, Callable
+from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode, urlparse
+from urllib.request import Request, urlopen
 from urllib.robotparser import RobotFileParser
 
 from playwright.sync_api import Browser, BrowserContext, Page, Playwright, sync_playwright
@@ -189,11 +191,30 @@ class BrowserSource:
         else:
             route.continue_()
 
-    def _response_text(self, page: Page, url: str) -> tuple[int, str, str]:
-        response = page.goto(url, wait_until="domcontentloaded", timeout=self.timeout_ms)
-        if response is None:
-            raise SourceError(f"no HTTP response from {url}")
-        return response.status, response.headers.get("content-type", ""), response.text()
+    def _fetch_robots(self) -> RobotsPolicy:
+        """Fetch policy outside Chromium so bot screening cannot replace it with an HTML challenge."""
+        self._limiter.wait()
+        self.requests += 1
+        request = Request(
+            ROBOTS_URL,
+            headers={"User-Agent": USER_AGENT, "Accept": "text/plain, text/*;q=0.9, */*;q=0.1"},
+        )
+        try:
+            with urlopen(request, timeout=self.timeout_ms / 1000) as response:
+                status = int(response.status)
+                content_type = str(response.headers.get("content-type", ""))
+                charset = response.headers.get_content_charset() or "utf-8"
+                text = response.read().decode(charset)
+        except HTTPError as error:
+            content_type = str(error.headers.get("content-type", ""))
+            raise SourceError(
+                f"robots.txt returned HTTP {error.code} content type {content_type!r}"
+            ) from error
+        except (URLError, TimeoutError, UnicodeDecodeError) as error:
+            raise SourceError(f"robots.txt request failed: {error}") from error
+        if status >= 400 or "text" not in content_type.lower():
+            raise SourceError(f"robots.txt returned HTTP {status} content type {content_type!r}")
+        return parse_robots(text, self.request_delay)
 
     def _bootstrap(self, page: Page) -> tuple[dict[str, Any], str]:
         response = page.goto(BASE_URL + "/", wait_until="domcontentloaded", timeout=self.timeout_ms)
@@ -264,10 +285,7 @@ class BrowserSource:
             context.set_default_timeout(self.timeout_ms)
             context.route("**/*", self._route)
             page = context.new_page()
-            status, content_type, robots_text = self._response_text(page, ROBOTS_URL)
-            if status >= 400 or "text" not in content_type.lower():
-                raise SourceError(f"robots.txt returned HTTP {status} content type {content_type!r}")
-            robots = parse_robots(robots_text, self.request_delay)
+            robots = self._fetch_robots()
             self._limiter.raise_minimum(robots.crawl_delay)
             frontend, bootstrap_url = self._bootstrap(page)
             discovery = discover_visible_roots(frontend)
