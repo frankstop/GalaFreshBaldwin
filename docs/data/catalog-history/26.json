@@ -19,7 +19,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 2.99,
       "name": "Organic Grape Tomatoes",
@@ -59,9 +59,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.99
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:10346806",
       "retailer_product_id": "10346806",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93771/products",
@@ -91,7 +100,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 1,
       "latest_regular_price": 4.99,
       "name": "Original Pancake & Waffle Mix",
@@ -167,9 +176,27 @@
               "promotion_id": "11926293"
             }
           ]
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11926293"
+            ],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-21",
+          "promotions": [
+            {
+              "derivation_basis": null,
+              "derived_effective_unit_price": null,
+              "description": "Only $3.99",
+              "promotion_id": "11926293"
+            }
+          ]
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:11193140",
       "retailer_product_id": "11193140",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93785/products",
@@ -196,7 +223,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 6.99,
       "name": "100% Pure Cafe Santo Domingo Ground Coffee",
@@ -236,9 +263,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.99
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:11522494",
       "retailer_product_id": "11522494",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93770/products",
@@ -265,7 +301,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 9.29,
       "name": "Extra Strength Heartburn Relief Effervescent Tablets 24 ct",
@@ -305,9 +341,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 9.29
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:14496561",
       "retailer_product_id": "14496561",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93769/products",
@@ -334,7 +379,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 6.49,
       "name": "Mint Cookie Premium Ice Cream",
@@ -374,9 +419,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.49
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:14667648",
       "retailer_product_id": "14667648",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93784/products",
@@ -403,7 +457,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 8.69,
       "name": "10\" Bold Hold Microwavable Paper Plates 44 ct",
@@ -443,9 +497,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 8.69
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:17634704",
       "retailer_product_id": "17634704",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93775/products",
@@ -472,7 +535,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 6.99,
       "name": "Mint N Fudge Chip Creamy Oatmilk Ice Cream w/ Real Mint",
@@ -512,9 +575,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.99
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:17651047",
       "retailer_product_id": "17651047",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93784/products",
@@ -544,7 +616,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 7.19,
       "name": "Italian Style Meatball & Mozzarella 4 pk",
@@ -584,9 +656,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.19
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:19270721",
       "retailer_product_id": "19270721",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/94381/products",
@@ -613,7 +694,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 12.99,
       "name": "Classsic Mayo w/ 100% Pure Avocado Oil",
@@ -653,9 +734,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 12.99
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:20125089",
       "retailer_product_id": "20125089",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93785/products",
@@ -685,7 +775,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 3.49,
       "name": "Success Boil-in-bag Jasmine 4 Ct Rice 14 Oz Box",
@@ -725,9 +815,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.49
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:2375639",
       "retailer_product_id": "2375639",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/94381/products",
@@ -754,7 +853,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 4.99,
       "name": "100% Whole Grain French Onion Snacks",
@@ -794,9 +893,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:2377593",
       "retailer_product_id": "2377593",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93780/products",
@@ -820,10 +928,10 @@
       "has_price_change": false,
       "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/987385/12261756/500.jpg",
       "is_active": true,
-      "is_current": false,
+      "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 2.99,
       "name": "Cheddar Cheese Potato Crisps",
@@ -859,9 +967,18 @@
           "catalog": null,
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.99
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 3,
+      "observed_days": 4,
       "product_key": "gala:1165:1329:2379625",
       "retailer_product_id": "2379625",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93780/products",
@@ -888,7 +1005,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 1.59,
       "name": "Barley Cebada",
@@ -928,9 +1045,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.59
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:2380663",
       "retailer_product_id": "2380663",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93785/products",
@@ -957,7 +1083,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 2.49,
       "name": "Pardina Lentils",
@@ -997,9 +1123,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.49
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:2380666",
       "retailer_product_id": "2380666",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93785/products",
@@ -1026,7 +1161,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 13.99,
       "name": "Golden Parboiled Long Grain Rice",
@@ -1066,9 +1201,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 13.99
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:2380691",
       "retailer_product_id": "2380691",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93785/products",
@@ -1095,7 +1239,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 1,
       "latest_regular_price": 9.99,
       "name": "4C Iced Tea Mix Lemon Flavor",
@@ -1171,9 +1315,27 @@
               "promotion_id": "11836978"
             }
           ]
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11836978"
+            ],
+            "regular_price": 9.99
+          },
+          "date": "2026-07-21",
+          "promotions": [
+            {
+              "derivation_basis": null,
+              "derived_effective_unit_price": null,
+              "description": "Only $8.99",
+              "promotion_id": "11836978"
+            }
+          ]
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:2381326",
       "retailer_product_id": "2381326",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93770/products",
@@ -1235,6 +1397,11 @@
           "catalog": null,
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": null,
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
       "observed_days": 2,
@@ -1264,7 +1431,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 11.99,
       "name": "3-in-1 Power Actions Jet-Dry Dish Liquid Detergent",
@@ -1304,9 +1471,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 11.99
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:2387781",
       "retailer_product_id": "2387781",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93779/products",
@@ -1333,7 +1509,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 4.49,
       "name": "Fat Free Dairy Whipped Topping Cream",
@@ -1369,15 +1545,89 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.49
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 3,
+      "observed_days": 4,
       "product_key": "gala:1165:1329:2389824",
       "retailer_product_id": "2389824",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93776/products",
       "unit_of_measure": "Oz",
       "unit_resolution": 1,
       "weight": 6
+    },
+    {
+      "branch_product_id": "3205198",
+      "brand": "Yoplait",
+      "catalog_product_id": "1208919",
+      "category_paths": [
+        "Dairy",
+        "Dairy > Yogurt & Puddings > Kids Yogurts",
+        "Personal Care & Baby",
+        "Personal Care & Baby > Baby & Kids Food > Kids Yogurts"
+      ],
+      "currency": "USD",
+      "departments": [
+        "Dairy",
+        "Personal Care & Baby"
+      ],
+      "first_seen": "2026-07-21",
+      "has_price_change": false,
+      "image_url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/1208919/12906379/500.jpg",
+      "is_active": true,
+      "is_current": true,
+      "is_visible": true,
+      "is_weighable": false,
+      "last_seen": "2026-07-21",
+      "latest_promotion_count": 0,
+      "latest_regular_price": 6.49,
+      "name": "Cotton Candy Wild Berry Low Fat Yogurt Variety Pack 8 pk",
+      "observations": [
+        {
+          "catalog": null,
+          "date": "2026-07-17",
+          "promotions": []
+        },
+        {
+          "catalog": null,
+          "date": "2026-07-18",
+          "promotions": []
+        },
+        {
+          "catalog": null,
+          "date": "2026-07-19",
+          "promotions": []
+        },
+        {
+          "catalog": null,
+          "date": "2026-07-20",
+          "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 6.49
+          },
+          "date": "2026-07-21",
+          "promotions": []
+        }
+      ],
+      "observed_days": 1,
+      "product_key": "gala:1165:1329:2389939",
+      "retailer_product_id": "2389939",
+      "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93776/products",
+      "unit_of_measure": "Oz",
+      "unit_resolution": 1,
+      "weight": 4
     },
     {
       "branch_product_id": "3206206",
@@ -1401,7 +1651,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 1,
       "latest_regular_price": 1.99,
       "name": "Vermicelli",
@@ -1477,9 +1727,27 @@
               "promotion_id": "11914196"
             }
           ]
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11914196"
+            ],
+            "regular_price": 1.99
+          },
+          "date": "2026-07-21",
+          "promotions": [
+            {
+              "derivation_basis": "unambiguous display text: Buy 3 units from products of Ronzoni for $5",
+              "derived_effective_unit_price": 1.6667,
+              "description": "Buy 3 units from products of Ronzoni for $5",
+              "promotion_id": "11914196"
+            }
+          ]
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:2390947",
       "retailer_product_id": "2390947",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/94381/products",
@@ -1506,7 +1774,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 2.49,
       "name": "Pure Green Tea 48 ct",
@@ -1546,9 +1814,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.49
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:2392399",
       "retailer_product_id": "2392399",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93770/products",
@@ -1575,7 +1852,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 4.79,
       "name": "Cookies Roman Egg Biscuits",
@@ -1615,9 +1892,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.79
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:2395454",
       "retailer_product_id": "2395454",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93780/products",
@@ -1672,6 +1958,11 @@
           "catalog": null,
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": null,
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
       "observed_days": 1,
@@ -1701,7 +1992,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 1,
       "latest_regular_price": 4.99,
       "name": "Homemade Style Flavored Ice Raspberry Ice 4 Ct",
@@ -1777,9 +2068,27 @@
               "promotion_id": "11704524"
             }
           ]
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [
+              "11704524"
+            ],
+            "regular_price": 4.99
+          },
+          "date": "2026-07-21",
+          "promotions": [
+            {
+              "derivation_basis": null,
+              "derived_effective_unit_price": null,
+              "description": "Only $3.99",
+              "promotion_id": "11704524"
+            }
+          ]
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:2408569",
       "retailer_product_id": "2408569",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93784/products",
@@ -1806,7 +2115,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 1.59,
       "name": "Chicken Flavor Bouillon 8ct",
@@ -1846,9 +2155,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.59
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:2716142",
       "retailer_product_id": "2716142",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93785/products",
@@ -1881,7 +2199,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 5.99,
       "name": "Corn Black Bean Red Pepper Salsa",
@@ -1921,9 +2239,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 5.99
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:3713481",
       "retailer_product_id": "3713481",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/94381/products",
@@ -1950,7 +2277,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 7.99,
       "name": "Pearl Regular Unscented Plastic Tampons 18 ct",
@@ -1990,9 +2317,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.99
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:5199792",
       "retailer_product_id": "5199792",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93769/products",
@@ -2022,7 +2358,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 4.69,
       "name": "Mild Red Enchilada Sauce",
@@ -2062,9 +2398,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.69
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:5243326",
       "retailer_product_id": "5243326",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/94381/products",
@@ -2094,7 +2439,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 2.99,
       "name": "Candle 3 In High Numeral 1 Green",
@@ -2134,9 +2479,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 2.99
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:5434761",
       "retailer_product_id": "5434761",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93785/products",
@@ -2163,7 +2517,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 4.79,
       "name": "Delights Supreme Triple Chunk Brownie Mix",
@@ -2203,9 +2557,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 4.79
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:5872690",
       "retailer_product_id": "5872690",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93785/products",
@@ -2260,6 +2623,11 @@
           "catalog": null,
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": null,
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
       "observed_days": 1,
@@ -2289,7 +2657,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 7.99,
       "name": "Easy Open Tabs Freezer Gallon Bags 28 ct",
@@ -2329,9 +2697,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 7.99
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:6505488",
       "retailer_product_id": "6505488",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93775/products",
@@ -2364,7 +2741,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 3.79,
       "name": "Mm Zero Sugar Fruit Punch",
@@ -2404,9 +2781,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.79
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:7006622",
       "retailer_product_id": "7006622",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93776/products",
@@ -2433,7 +2819,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 3.79,
       "name": "Extra Mild Wing Sauce",
@@ -2473,9 +2859,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 3.79
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:9358255",
       "retailer_product_id": "9358255",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93785/products",
@@ -2502,7 +2897,7 @@
       "is_current": true,
       "is_visible": true,
       "is_weighable": false,
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "latest_promotion_count": 0,
       "latest_regular_price": 1.84,
       "name": "Canada Dry 100% Natural Flavors Ginger Ale",
@@ -2542,9 +2937,18 @@
           },
           "date": "2026-07-20",
           "promotions": []
+        },
+        {
+          "catalog": {
+            "is_out_of_stock": false,
+            "promotion_ids": [],
+            "regular_price": 1.84
+          },
+          "date": "2026-07-21",
+          "promotions": []
         }
       ],
-      "observed_days": 4,
+      "observed_days": 5,
       "product_key": "gala:1165:1329:9508104",
       "retailer_product_id": "9508104",
       "source_url": "https://www.shopgalafresh.com/v2/retailers/1165/branches/1329/categories/93770/products",

@@ -1,0 +1,104 @@
+{
+  "changes": [
+    {
+      "absolute_change": 0.4,
+      "absolute_change_percentage": 25.157,
+      "branch_product_id": "3196845",
+      "brand": "KC Candy",
+      "calendar_gap_days": 1,
+      "catalog_product_id": "730158",
+      "category_paths": [
+        "Snacks & Sweets",
+        "Snacks & Sweets > Candy & Chocolate > Candies"
+      ],
+      "change": 0.4,
+      "change_percentage": 25.157,
+      "current_regular_price": 1.99,
+      "departments": [
+        "Snacks & Sweets"
+      ],
+      "direction": "increase",
+      "event_key": "2026-07-20:2026-07-21:gala:1165:1329:2381586",
+      "from_date": "2026-07-20",
+      "is_anomaly": false,
+      "name": "Ginger Mint Candy",
+      "previous_regular_price": 1.59,
+      "product_key": "gala:1165:1329:2381586",
+      "retailer_product_id": "2381586",
+      "to_date": "2026-07-21"
+    },
+    {
+      "absolute_change": 0.5,
+      "absolute_change_percentage": 14.327,
+      "branch_product_id": "3216089",
+      "brand": null,
+      "calendar_gap_days": 1,
+      "catalog_product_id": "567962",
+      "category_paths": [
+        "Fresh Produce",
+        "Fresh Produce > Fresh Vegetables > Legumes"
+      ],
+      "change": -0.5,
+      "change_percentage": -14.327,
+      "current_regular_price": 2.99,
+      "departments": [
+        "Fresh Produce"
+      ],
+      "direction": "decrease",
+      "event_key": "2026-07-20:2026-07-21:gala:1165:1329:2400830",
+      "from_date": "2026-07-20",
+      "is_anomaly": false,
+      "name": "Green Beans",
+      "previous_regular_price": 3.49,
+      "product_key": "gala:1165:1329:2400830",
+      "retailer_product_id": "2400830",
+      "to_date": "2026-07-21"
+    },
+    {
+      "absolute_change": 0.15,
+      "absolute_change_percentage": 1.221,
+      "branch_product_id": "16046836",
+      "brand": null,
+      "calendar_gap_days": 1,
+      "catalog_product_id": "132748",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Alcohol > Cocktails & Mixers"
+      ],
+      "change": -0.15,
+      "change_percentage": -1.221,
+      "current_regular_price": 12.14,
+      "departments": [
+        "Beverages"
+      ],
+      "direction": "decrease",
+      "event_key": "2026-07-20:2026-07-21:gala:1165:1329:9257724",
+      "from_date": "2026-07-20",
+      "is_anomaly": false,
+      "name": "Ice Raspberry 6 pk",
+      "previous_regular_price": 12.29,
+      "product_key": "gala:1165:1329:9257724",
+      "retailer_product_id": "9257724",
+      "to_date": "2026-07-21"
+    }
+  ],
+  "comparison": {
+    "additions": 223,
+    "anomalies": 0,
+    "assortment_churn_percentage": 6.315,
+    "matched_products": 9034,
+    "missing_products": 267,
+    "price_decreases": 2,
+    "price_increases": 1,
+    "prior_overlap_percentage": 97.129,
+    "returns": 119,
+    "unchanged_or_uncomparable_prices": 9031
+  },
+  "from_date": "2026-07-20",
+  "price_decreases": 2,
+  "price_increases": 1,
+  "report": "price_changes_day",
+  "schema_version": "1.0",
+  "to_date": "2026-07-21",
+  "total_changes": 3
+}
