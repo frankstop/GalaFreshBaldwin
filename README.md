@@ -62,7 +62,7 @@ Status meanings:
 - `healthy`: all collection and integrity gates passed.
 - `baseline_established`: one healthy day is available; no comparison is possible.
 - `comparison_available`: at least two healthy observations can be compared.
-- workflow failure: no new manifest is published; the Actions summary exposes the failure.
+- collection failure: no new manifest is published; the local scheduled task reports the failure.
 
 ## Responsible-access boundary
 
@@ -78,7 +78,7 @@ There is no invented initial product minimum. The first checked-in healthy run b
 
 ## Automation
 
-The daily workflow runs at `10:15 UTC`, supports explicit `verify` and `collect` dispatch modes, installs Playwright Chromium with Linux dependencies, runs all offline tests and `scripts/check.py`, always writes a step summary, and commits raw and derived outputs together only after success. Concurrency is serialized and the initial timeout is 90 minutes.
+The collector runs locally each day at 2:00 AM America/New_York from the GalaFreshBaldwin project checkout. It pulls `origin/main`, performs one production collection, runs all offline tests and `scripts/check.py`, and commits and pushes raw and derived outputs together only after success. Failed or partial collections are never committed, and collection is not retried automatically.
 
 ## Identity and missingness
 

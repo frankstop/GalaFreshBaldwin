@@ -11,7 +11,7 @@ from galafresh_baldwin.storage import read_jsonl_gz, snapshot_files
 
 ROOT = Path(__file__).resolve().parents[1]
 REQUIRED = [
-    "README.md", "LICENSE", "pyproject.toml", ".github/workflows/daily_crawl.yml",
+    "README.md", "LICENSE", "pyproject.toml",
     "docs/index.html", "docs/daily-report.html", "docs/weekly-report.html", "docs/price-changes.html", "docs/catalog.html", "docs/catalog-history.html", "docs/assets/analytics.js",
     "docs/METHODOLOGY.md", "docs/METHODOLOGY.html", "docs/ARCHITECTURE.md", "docs/DATA_DICTIONARY.md",
 ]
