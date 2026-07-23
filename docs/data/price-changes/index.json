@@ -5,10 +5,11 @@
     "2026-07-19",
     "2026-07-20",
     "2026-07-21",
-    "2026-07-22"
+    "2026-07-22",
+    "2026-07-23"
   ],
-  "comparison_days": 5,
-  "distinct_products": 15,
+  "comparison_days": 6,
+  "distinct_products": 26,
   "files": [
     {
       "anomalies": 0,
@@ -59,10 +60,21 @@
       "price_increases": 11,
       "to_date": "2026-07-22",
       "total_changes": 11
+    },
+    {
+      "anomalies": 2,
+      "from_date": "2026-07-22",
+      "matched_products": 9097,
+      "path": "2026-07-23.json",
+      "price_decreases": 2,
+      "price_increases": 10,
+      "to_date": "2026-07-23",
+      "total_changes": 12
     }
   ],
   "filters": {
     "brands": [
+      "B&G",
       "Doritos",
       "Good Shall's",
       "Jade Elephant",
@@ -87,7 +99,7 @@
     },
     "price_range": {
       "max": 19.99,
-      "min": 1.59
+      "min": 0.42
     }
   },
   "from_date": "2026-07-17",
@@ -97,13 +109,13 @@
     "completeness": "daily shard files contain every comparable regular-price change without a display cap",
     "missingness": "an item must have finite positive regular prices on both dates; gaps are not changes"
   },
-  "price_decreases": 3,
-  "price_increases": 12,
+  "price_decreases": 5,
+  "price_increases": 22,
   "report": "price_changes",
   "schema_version": "1.0",
   "scope": "Gala Fresh Baldwin public online regular prices; not asserted as physical shelf prices",
-  "snapshot_days": 6,
+  "snapshot_days": 7,
   "status": "comparison_available",
-  "to_date": "2026-07-22",
-  "total_changes": 15
+  "to_date": "2026-07-23",
+  "total_changes": 27
 }
