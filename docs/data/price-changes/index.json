@@ -6,10 +6,11 @@
     "2026-07-20",
     "2026-07-21",
     "2026-07-22",
-    "2026-07-23"
+    "2026-07-23",
+    "2026-07-24"
   ],
-  "comparison_days": 6,
-  "distinct_products": 26,
+  "comparison_days": 7,
+  "distinct_products": 39,
   "files": [
     {
       "anomalies": 0,
@@ -70,22 +71,38 @@
       "price_increases": 10,
       "to_date": "2026-07-23",
       "total_changes": 12
+    },
+    {
+      "anomalies": 0,
+      "from_date": "2026-07-23",
+      "matched_products": 9109,
+      "path": "2026-07-24.json",
+      "price_decreases": 5,
+      "price_increases": 8,
+      "to_date": "2026-07-24",
+      "total_changes": 13
     }
   ],
   "filters": {
     "brands": [
       "B&G",
       "Doritos",
+      "Driscoll's",
       "Good Shall's",
       "Jade Elephant",
       "KC Candy",
+      "Lakeside",
+      "Lay's",
       "Lipton",
+      "Mama Mia",
+      "Mitlitsky",
       "Nathan's",
       "Sabrett"
     ],
     "departments": [
       "Beverages",
       "Cold Cuts",
+      "Dairy",
       "Deli",
       "Fresh Produce",
       "Frozen",
@@ -94,7 +111,7 @@
       "Snacks & Sweets"
     ],
     "percentage_range": {
-      "max": 30.06,
+      "max": 75.377,
       "min": -25.031
     },
     "price_range": {
@@ -109,13 +126,13 @@
     "completeness": "daily shard files contain every comparable regular-price change without a display cap",
     "missingness": "an item must have finite positive regular prices on both dates; gaps are not changes"
   },
-  "price_decreases": 5,
-  "price_increases": 22,
+  "price_decreases": 10,
+  "price_increases": 30,
   "report": "price_changes",
   "schema_version": "1.0",
   "scope": "Gala Fresh Baldwin public online regular prices; not asserted as physical shelf prices",
-  "snapshot_days": 7,
+  "snapshot_days": 8,
   "status": "comparison_available",
-  "to_date": "2026-07-23",
-  "total_changes": 27
+  "to_date": "2026-07-24",
+  "total_changes": 40
 }
