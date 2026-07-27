@@ -7,10 +7,11 @@
     "2026-07-21",
     "2026-07-22",
     "2026-07-23",
-    "2026-07-24"
+    "2026-07-24",
+    "2026-07-27"
   ],
-  "comparison_days": 7,
-  "distinct_products": 39,
+  "comparison_days": 8,
+  "distinct_products": 47,
   "files": [
     {
       "anomalies": 0,
@@ -81,11 +82,22 @@
       "price_increases": 8,
       "to_date": "2026-07-24",
       "total_changes": 13
+    },
+    {
+      "anomalies": 0,
+      "from_date": "2026-07-24",
+      "matched_products": 8663,
+      "path": "2026-07-27.json",
+      "price_decreases": 3,
+      "price_increases": 6,
+      "to_date": "2026-07-27",
+      "total_changes": 9
     }
   ],
   "filters": {
     "brands": [
       "B&G",
+      "Braga Farms",
       "Doritos",
       "Driscoll's",
       "Good Shall's",
@@ -97,22 +109,26 @@
       "Mama Mia",
       "Mitlitsky",
       "Nathan's",
-      "Sabrett"
+      "Quesos La Ricura",
+      "Sabrett",
+      "Sunkist"
     ],
     "departments": [
       "Beverages",
       "Cold Cuts",
       "Dairy",
       "Deli",
+      "Fish & Shellfish",
       "Fresh Produce",
       "Frozen",
       "Grocery",
       "Meal Solutions",
+      "Meat & Seafood",
       "Snacks & Sweets"
     ],
     "percentage_range": {
       "max": 75.377,
-      "min": -25.031
+      "min": -33.445
     },
     "price_range": {
       "max": 19.99,
@@ -126,13 +142,13 @@
     "completeness": "daily shard files contain every comparable regular-price change without a display cap",
     "missingness": "an item must have finite positive regular prices on both dates; gaps are not changes"
   },
-  "price_decreases": 10,
-  "price_increases": 30,
+  "price_decreases": 13,
+  "price_increases": 36,
   "report": "price_changes",
   "schema_version": "1.0",
   "scope": "Gala Fresh Baldwin public online regular prices; not asserted as physical shelf prices",
-  "snapshot_days": 8,
+  "snapshot_days": 9,
   "status": "comparison_available",
-  "to_date": "2026-07-24",
-  "total_changes": 40
+  "to_date": "2026-07-27",
+  "total_changes": 49
 }
