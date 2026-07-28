@@ -1,0 +1,53 @@
+{
+  "changes": [
+    {
+      "absolute_change": 0.3,
+      "absolute_change_percentage": 13.699,
+      "branch_product_id": "3220226",
+      "brand": "Jalisco",
+      "calendar_gap_days": 1,
+      "catalog_product_id": "1051881",
+      "category_paths": [
+        "Bread & Bakery",
+        "Bread & Bakery > Packaged Bread > Tortillas & Flatbread",
+        "Meal Solutions",
+        "Meal Solutions > Dinner Ideas > Mexican Dinner"
+      ],
+      "change": 0.3,
+      "change_percentage": 13.699,
+      "current_regular_price": 2.49,
+      "departments": [
+        "Bread & Bakery",
+        "Meal Solutions"
+      ],
+      "direction": "increase",
+      "event_key": "2026-07-27:2026-07-28:gala:1165:1329:2404967",
+      "from_date": "2026-07-27",
+      "is_anomaly": false,
+      "name": "Fresh Corn Tortillas",
+      "previous_regular_price": 2.19,
+      "product_key": "gala:1165:1329:2404967",
+      "retailer_product_id": "2404967",
+      "to_date": "2026-07-28"
+    }
+  ],
+  "comparison": {
+    "additions": 100,
+    "anomalies": 0,
+    "assortment_churn_percentage": 5.917,
+    "matched_products": 8984,
+    "missing_products": 286,
+    "price_decreases": 0,
+    "price_increases": 1,
+    "prior_overlap_percentage": 96.915,
+    "returns": 179,
+    "unchanged_or_uncomparable_prices": 8983
+  },
+  "from_date": "2026-07-27",
+  "price_decreases": 0,
+  "price_increases": 1,
+  "report": "price_changes_day",
+  "schema_version": "1.0",
+  "to_date": "2026-07-28",
+  "total_changes": 1
+}
