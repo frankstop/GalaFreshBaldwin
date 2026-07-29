@@ -9,10 +9,11 @@
     "2026-07-23",
     "2026-07-24",
     "2026-07-27",
-    "2026-07-28"
+    "2026-07-28",
+    "2026-07-29"
   ],
-  "comparison_days": 9,
-  "distinct_products": 48,
+  "comparison_days": 10,
+  "distinct_products": 84,
   "files": [
     {
       "anomalies": 0,
@@ -103,27 +104,47 @@
       "price_increases": 1,
       "to_date": "2026-07-28",
       "total_changes": 1
+    },
+    {
+      "anomalies": 0,
+      "from_date": "2026-07-28",
+      "matched_products": 8999,
+      "path": "2026-07-29.json",
+      "price_decreases": 25,
+      "price_increases": 16,
+      "to_date": "2026-07-29",
+      "total_changes": 41
     }
   ],
   "filters": {
     "brands": [
+      "A.K.P.P. & Wholesome Inc.",
       "B&G",
+      "Badia",
+      "Black label",
       "Braga Farms",
+      "Bubba Burger",
       "Doritos",
       "Driscoll's",
       "Good Shall's",
+      "Great American",
       "Jade Elephant",
       "Jalisco",
       "KC Candy",
+      "La Flor",
       "Lakeside",
       "Lay's",
       "Lipton",
       "Mama Mia",
       "Mitlitsky",
       "Nathan's",
+      "Ore Ida",
+      "Palenque",
       "Quesos La Ricura",
       "Sabrett",
-      "Sunkist"
+      "San Francisco",
+      "Sunkist",
+      "Van Camp's"
     ],
     "departments": [
       "Beverages",
@@ -135,13 +156,14 @@
       "Fresh Produce",
       "Frozen",
       "Grocery",
+      "Health & Special Diets",
       "Meal Solutions",
       "Meat & Seafood",
       "Snacks & Sweets"
     ],
     "percentage_range": {
       "max": 75.377,
-      "min": -33.445
+      "min": -45.537
     },
     "price_range": {
       "max": 19.99,
@@ -155,13 +177,13 @@
     "completeness": "daily shard files contain every comparable regular-price change without a display cap",
     "missingness": "an item must have finite positive regular prices on both dates; gaps are not changes"
   },
-  "price_decreases": 13,
-  "price_increases": 37,
+  "price_decreases": 38,
+  "price_increases": 53,
   "report": "price_changes",
   "schema_version": "1.0",
   "scope": "Gala Fresh Baldwin public online regular prices; not asserted as physical shelf prices",
-  "snapshot_days": 10,
+  "snapshot_days": 11,
   "status": "comparison_available",
-  "to_date": "2026-07-28",
-  "total_changes": 50
+  "to_date": "2026-07-29",
+  "total_changes": 91
 }
