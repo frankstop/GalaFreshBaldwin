@@ -1,0 +1,50 @@
+{
+  "changes": [
+    {
+      "absolute_change": 1.0,
+      "absolute_change_percentage": 28.571,
+      "branch_product_id": "3189125",
+      "brand": "Florida Supreme",
+      "calendar_gap_days": 1,
+      "catalog_product_id": "8182366",
+      "category_paths": [
+        "Fresh Produce",
+        "Fresh Produce > Fresh Fruit > Berries & Strawberries"
+      ],
+      "change": -1.0,
+      "change_percentage": -28.571,
+      "current_regular_price": 2.5,
+      "departments": [
+        "Fresh Produce"
+      ],
+      "direction": "decrease",
+      "event_key": "2026-07-29:2026-07-30:gala:1165:1329:2373866",
+      "from_date": "2026-07-29",
+      "is_anomaly": false,
+      "name": "Fresh Strawberries",
+      "previous_regular_price": 3.5,
+      "product_key": "gala:1165:1329:2373866",
+      "retailer_product_id": "2373866",
+      "to_date": "2026-07-30"
+    }
+  ],
+  "comparison": {
+    "additions": 87,
+    "anomalies": 0,
+    "assortment_churn_percentage": 5.322,
+    "matched_products": 9073,
+    "missing_products": 255,
+    "price_decreases": 1,
+    "price_increases": 0,
+    "prior_overlap_percentage": 97.266,
+    "returns": 168,
+    "unchanged_or_uncomparable_prices": 9072
+  },
+  "from_date": "2026-07-29",
+  "price_decreases": 1,
+  "price_increases": 0,
+  "report": "price_changes_day",
+  "schema_version": "1.0",
+  "to_date": "2026-07-30",
+  "total_changes": 1
+}
