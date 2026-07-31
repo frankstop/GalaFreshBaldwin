@@ -11,10 +11,11 @@
     "2026-07-27",
     "2026-07-28",
     "2026-07-29",
-    "2026-07-30"
+    "2026-07-30",
+    "2026-07-31"
   ],
-  "comparison_days": 11,
-  "distinct_products": 85,
+  "comparison_days": 12,
+  "distinct_products": 87,
   "files": [
     {
       "anomalies": 0,
@@ -125,6 +126,16 @@
       "price_increases": 0,
       "to_date": "2026-07-30",
       "total_changes": 1
+    },
+    {
+      "anomalies": 0,
+      "from_date": "2026-07-30",
+      "matched_products": 9050,
+      "path": "2026-07-31.json",
+      "price_decreases": 0,
+      "price_increases": 2,
+      "to_date": "2026-07-31",
+      "total_changes": 2
     }
   ],
   "filters": {
@@ -139,6 +150,7 @@
       "Driscoll's",
       "Florida Supreme",
       "Good Shall's",
+      "Grace",
       "Great American",
       "Jade Elephant",
       "Jalisco",
@@ -156,7 +168,8 @@
       "Sabrett",
       "San Francisco",
       "Sunkist",
-      "Van Camp's"
+      "Van Camp's",
+      "Wise"
     ],
     "departments": [
       "Beverages",
@@ -190,12 +203,12 @@
     "missingness": "an item must have finite positive regular prices on both dates; gaps are not changes"
   },
   "price_decreases": 39,
-  "price_increases": 53,
+  "price_increases": 55,
   "report": "price_changes",
   "schema_version": "1.0",
   "scope": "Gala Fresh Baldwin public online regular prices; not asserted as physical shelf prices",
-  "snapshot_days": 12,
+  "snapshot_days": 13,
   "status": "comparison_available",
-  "to_date": "2026-07-30",
-  "total_changes": 92
+  "to_date": "2026-07-31",
+  "total_changes": 94
 }

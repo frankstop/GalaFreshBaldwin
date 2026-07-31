@@ -1,0 +1,83 @@
+{
+  "changes": [
+    {
+      "absolute_change": 0.5,
+      "absolute_change_percentage": 12.531,
+      "branch_product_id": "50984231",
+      "brand": "Wise",
+      "calendar_gap_days": 1,
+      "catalog_product_id": "8224262",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Cooking Sauces & Salsas",
+        "Meal Solutions",
+        "Meal Solutions > Dinner Ideas > Mexican Dinner",
+        "Snacks & Sweets",
+        "Snacks & Sweets > Chips & Snacks > Corn & Tortilla Chips"
+      ],
+      "change": 0.5,
+      "change_percentage": 12.531,
+      "current_regular_price": 4.49,
+      "departments": [
+        "Grocery",
+        "Meal Solutions",
+        "Snacks & Sweets"
+      ],
+      "direction": "increase",
+      "event_key": "2026-07-30:2026-07-31:gala:1165:1329:19499583",
+      "from_date": "2026-07-30",
+      "is_anomaly": false,
+      "name": "Medium Chunky Salsa",
+      "previous_regular_price": 3.99,
+      "product_key": "gala:1165:1329:19499583",
+      "retailer_product_id": "19499583",
+      "to_date": "2026-07-31"
+    },
+    {
+      "absolute_change": 0.2,
+      "absolute_change_percentage": 15.504,
+      "branch_product_id": "8582570",
+      "brand": "Grace",
+      "calendar_gap_days": 1,
+      "catalog_product_id": "1014422",
+      "category_paths": [
+        "Grocery",
+        "Grocery > Canned & Jarred Foods > Canned Tuna & Seafood"
+      ],
+      "change": 0.2,
+      "change_percentage": 15.504,
+      "current_regular_price": 1.49,
+      "departments": [
+        "Grocery"
+      ],
+      "direction": "increase",
+      "event_key": "2026-07-30:2026-07-31:gala:1165:1329:5543837",
+      "from_date": "2026-07-30",
+      "is_anomaly": false,
+      "name": "Mackerel In Tomato Sauce",
+      "previous_regular_price": 1.29,
+      "product_key": "gala:1165:1329:5543837",
+      "retailer_product_id": "5543837",
+      "to_date": "2026-07-31"
+    }
+  ],
+  "comparison": {
+    "additions": 53,
+    "anomalies": 0,
+    "assortment_churn_percentage": 4.586,
+    "matched_products": 9050,
+    "missing_products": 278,
+    "price_decreases": 0,
+    "price_increases": 2,
+    "prior_overlap_percentage": 97.02,
+    "returns": 104,
+    "unchanged_or_uncomparable_prices": 9048
+  },
+  "from_date": "2026-07-30",
+  "price_decreases": 0,
+  "price_increases": 2,
+  "report": "price_changes_day",
+  "schema_version": "1.0",
+  "to_date": "2026-07-31",
+  "total_changes": 2
+}
