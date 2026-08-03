@@ -12,10 +12,11 @@
     "2026-07-28",
     "2026-07-29",
     "2026-07-30",
-    "2026-07-31"
+    "2026-07-31",
+    "2026-08-03"
   ],
-  "comparison_days": 12,
-  "distinct_products": 87,
+  "comparison_days": 13,
+  "distinct_products": 108,
   "files": [
     {
       "anomalies": 0,
@@ -136,6 +137,16 @@
       "price_increases": 2,
       "to_date": "2026-07-31",
       "total_changes": 2
+    },
+    {
+      "anomalies": 0,
+      "from_date": "2026-07-31",
+      "matched_products": 8521,
+      "path": "2026-08-03.json",
+      "price_decreases": 19,
+      "price_increases": 11,
+      "to_date": "2026-08-03",
+      "total_changes": 30
     }
   ],
   "filters": {
@@ -149,9 +160,12 @@
       "Doritos",
       "Driscoll's",
       "Florida Supreme",
+      "Genuine",
       "Good Shall's",
       "Grace",
       "Great American",
+      "Green Giant",
+      "Hal's New York",
       "Jade Elephant",
       "Jalisco",
       "KC Candy",
@@ -160,15 +174,23 @@
       "Lay's",
       "Lipton",
       "Mama Mia",
+      "Maretti",
       "Mitlitsky",
       "Nathan's",
+      "Nestle",
       "Ore Ida",
       "Palenque",
+      "Pandy",
+      "Pepsi",
       "Quesos La Ricura",
+      "Red Bull",
       "Sabrett",
       "San Francisco",
+      "Sparkling Ice",
       "Sunkist",
+      "Tiegerbrau",
       "Van Camp's",
+      "Vintage",
       "Wise"
     ],
     "departments": [
@@ -188,7 +210,7 @@
     ],
     "percentage_range": {
       "max": 75.377,
-      "min": -45.537
+      "min": -50.167
     },
     "price_range": {
       "max": 19.99,
@@ -202,13 +224,13 @@
     "completeness": "daily shard files contain every comparable regular-price change without a display cap",
     "missingness": "an item must have finite positive regular prices on both dates; gaps are not changes"
   },
-  "price_decreases": 39,
-  "price_increases": 55,
+  "price_decreases": 58,
+  "price_increases": 66,
   "report": "price_changes",
   "schema_version": "1.0",
   "scope": "Gala Fresh Baldwin public online regular prices; not asserted as physical shelf prices",
-  "snapshot_days": 13,
+  "snapshot_days": 14,
   "status": "comparison_available",
-  "to_date": "2026-07-31",
-  "total_changes": 94
+  "to_date": "2026-08-03",
+  "total_changes": 124
 }
