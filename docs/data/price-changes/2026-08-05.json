@@ -1,0 +1,131 @@
+{
+  "changes": [
+    {
+      "absolute_change": 0.5,
+      "absolute_change_percentage": 14.327,
+      "branch_product_id": "30506655",
+      "brand": "Foca",
+      "calendar_gap_days": 2,
+      "catalog_product_id": "738171",
+      "category_paths": [
+        "Laundry & Cleaning",
+        "Laundry & Cleaning > Laundry > Laundry Detergent"
+      ],
+      "change": 0.5,
+      "change_percentage": 14.327,
+      "current_regular_price": 3.99,
+      "departments": [
+        "Laundry & Cleaning"
+      ],
+      "direction": "increase",
+      "event_key": "2026-08-03:2026-08-05:gala:1165:1329:15046349",
+      "from_date": "2026-08-03",
+      "is_anomaly": false,
+      "name": "Laundry Detergent",
+      "previous_regular_price": 3.49,
+      "product_key": "gala:1165:1329:15046349",
+      "retailer_product_id": "15046349",
+      "to_date": "2026-08-05"
+    },
+    {
+      "absolute_change": 0.05,
+      "absolute_change_percentage": 4.0,
+      "branch_product_id": "3190852",
+      "brand": "Sparkling Ice",
+      "calendar_gap_days": 2,
+      "catalog_product_id": "91575",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Soda Drinks"
+      ],
+      "change": 0.05,
+      "change_percentage": 4.0,
+      "current_regular_price": 1.3,
+      "departments": [
+        "Beverages"
+      ],
+      "direction": "increase",
+      "event_key": "2026-08-03:2026-08-05:gala:1165:1329:2375593",
+      "from_date": "2026-08-03",
+      "is_anomaly": false,
+      "name": "Kiwi Strawberry Sparkling Water",
+      "previous_regular_price": 1.25,
+      "product_key": "gala:1165:1329:2375593",
+      "retailer_product_id": "2375593",
+      "to_date": "2026-08-05"
+    },
+    {
+      "absolute_change": 0.05,
+      "absolute_change_percentage": 3.876,
+      "branch_product_id": "3204249",
+      "brand": "Vintage",
+      "calendar_gap_days": 2,
+      "catalog_product_id": "813582",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Water & Sparkling Water"
+      ],
+      "change": 0.05,
+      "change_percentage": 3.876,
+      "current_regular_price": 1.34,
+      "departments": [
+        "Beverages"
+      ],
+      "direction": "increase",
+      "event_key": "2026-08-03:2026-08-05:gala:1165:1329:2388990",
+      "from_date": "2026-08-03",
+      "is_anomaly": false,
+      "name": "Club Soda",
+      "previous_regular_price": 1.29,
+      "product_key": "gala:1165:1329:2388990",
+      "retailer_product_id": "2388990",
+      "to_date": "2026-08-05"
+    },
+    {
+      "absolute_change": 0.05,
+      "absolute_change_percentage": 5.0,
+      "branch_product_id": "7479893",
+      "brand": "Hal's New York",
+      "calendar_gap_days": 2,
+      "catalog_product_id": "293781",
+      "category_paths": [
+        "Beverages",
+        "Beverages > Beverages > Water & Sparkling Water"
+      ],
+      "change": 0.05,
+      "change_percentage": 5.0,
+      "current_regular_price": 1.05,
+      "departments": [
+        "Beverages"
+      ],
+      "direction": "increase",
+      "event_key": "2026-08-03:2026-08-05:gala:1165:1329:4955790",
+      "from_date": "2026-08-03",
+      "is_anomaly": false,
+      "name": "Seltzer Lemon",
+      "previous_regular_price": 1.0,
+      "product_key": "gala:1165:1329:4955790",
+      "retailer_product_id": "4955790",
+      "to_date": "2026-08-05"
+    }
+  ],
+  "comparison": {
+    "additions": 122,
+    "anomalies": 0,
+    "assortment_churn_percentage": 10.458,
+    "matched_products": 8836,
+    "missing_products": 508,
+    "price_decreases": 0,
+    "price_increases": 4,
+    "prior_overlap_percentage": 94.563,
+    "returns": 402,
+    "unchanged_or_uncomparable_prices": 8832
+  },
+  "from_date": "2026-08-03",
+  "price_decreases": 0,
+  "price_increases": 4,
+  "report": "price_changes_day",
+  "schema_version": "1.0",
+  "to_date": "2026-08-05",
+  "total_changes": 4
+}

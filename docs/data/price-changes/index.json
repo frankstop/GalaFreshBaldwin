@@ -13,10 +13,11 @@
     "2026-07-29",
     "2026-07-30",
     "2026-07-31",
-    "2026-08-03"
+    "2026-08-03",
+    "2026-08-05"
   ],
-  "comparison_days": 13,
-  "distinct_products": 108,
+  "comparison_days": 14,
+  "distinct_products": 109,
   "files": [
     {
       "anomalies": 0,
@@ -147,6 +148,16 @@
       "price_increases": 11,
       "to_date": "2026-08-03",
       "total_changes": 30
+    },
+    {
+      "anomalies": 0,
+      "from_date": "2026-08-03",
+      "matched_products": 8836,
+      "path": "2026-08-05.json",
+      "price_decreases": 0,
+      "price_increases": 4,
+      "to_date": "2026-08-05",
+      "total_changes": 4
     }
   ],
   "filters": {
@@ -160,6 +171,7 @@
       "Doritos",
       "Driscoll's",
       "Florida Supreme",
+      "Foca",
       "Genuine",
       "Good Shall's",
       "Grace",
@@ -204,6 +216,7 @@
       "Frozen",
       "Grocery",
       "Health & Special Diets",
+      "Laundry & Cleaning",
       "Meal Solutions",
       "Meat & Seafood",
       "Snacks & Sweets"
@@ -225,12 +238,12 @@
     "missingness": "an item must have finite positive regular prices on both dates; gaps are not changes"
   },
   "price_decreases": 58,
-  "price_increases": 66,
+  "price_increases": 70,
   "report": "price_changes",
   "schema_version": "1.0",
   "scope": "Gala Fresh Baldwin public online regular prices; not asserted as physical shelf prices",
-  "snapshot_days": 14,
+  "snapshot_days": 15,
   "status": "comparison_available",
-  "to_date": "2026-08-03",
-  "total_changes": 124
+  "to_date": "2026-08-05",
+  "total_changes": 128
 }
