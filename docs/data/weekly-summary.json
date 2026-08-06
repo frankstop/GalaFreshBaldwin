@@ -1,5 +1,5 @@
 {
-  "additions": 1036,
+  "additions": 789,
   "brand_summary": [
     {
       "median_regular_price": 3.29,
@@ -7,29 +7,29 @@
       "products": 336
     },
     {
-      "median_regular_price": 5.64,
+      "median_regular_price": 5.49,
       "name": "Kraft",
-      "products": 88
+      "products": 85
     },
     {
       "median_regular_price": 6.49,
       "name": "Nestle",
-      "products": 83
+      "products": 79
     },
     {
-      "median_regular_price": 4.29,
+      "median_regular_price": 4.49,
       "name": "McCormick",
-      "products": 77
+      "products": 74
     },
     {
       "median_regular_price": 4.99,
       "name": "Nabisco",
-      "products": 77
+      "products": 74
     },
     {
       "median_regular_price": 3.29,
       "name": "Badia",
-      "products": 70
+      "products": 71
     },
     {
       "median_regular_price": 3.99,
@@ -47,39 +47,34 @@
       "products": 68
     },
     {
-      "median_regular_price": 2.49,
-      "name": "Del Monte",
-      "products": 65
-    },
-    {
-      "median_regular_price": 2.29,
-      "name": "Chobani",
-      "products": 65
-    },
-    {
       "median_regular_price": 5.89,
       "name": "Pepperidge Farm",
       "products": 64
     },
     {
-      "median_regular_price": 7.99,
-      "name": "Boar's Head",
-      "products": 61
+      "median_regular_price": 2.29,
+      "name": "Chobani",
+      "products": 63
     },
     {
-      "median_regular_price": 1.94,
-      "name": "Polar",
-      "products": 56
+      "median_regular_price": 2.49,
+      "name": "Del Monte",
+      "products": 62
+    },
+    {
+      "median_regular_price": 7.99,
+      "name": "Boar's Head",
+      "products": 60
     },
     {
       "median_regular_price": 1.99,
       "name": "Barilla",
-      "products": 56
+      "products": 58
     },
     {
-      "median_regular_price": 2.99,
-      "name": "Green Giant",
-      "products": 54
+      "median_regular_price": 1.94,
+      "name": "Polar",
+      "products": 57
     },
     {
       "median_regular_price": 7.49,
@@ -92,9 +87,14 @@
       "products": 54
     },
     {
+      "median_regular_price": 2.99,
+      "name": "Green Giant",
+      "products": 51
+    },
+    {
       "median_regular_price": 3.29,
       "name": "Tropicana",
-      "products": 49
+      "products": 50
     },
     {
       "median_regular_price": 2.99,
@@ -102,23 +102,23 @@
       "products": 46
     },
     {
-      "median_regular_price": 4.49,
-      "name": "Progresso",
-      "products": 44
+      "median_regular_price": 4.79,
+      "name": "Pillsbury",
+      "products": 45
     },
     {
-      "median_regular_price": 4.99,
-      "name": "Quaker",
+      "median_regular_price": 4.49,
+      "name": "Progresso",
       "products": 43
     },
     {
       "median_regular_price": 4.69,
       "name": "Dole",
-      "products": 41
+      "products": 42
     },
     {
-      "median_regular_price": 4.79,
-      "name": "Pillsbury",
+      "median_regular_price": 4.99,
+      "name": "Quaker",
       "products": 40
     },
     {
@@ -129,11 +129,6 @@
     {
       "median_regular_price": 3.49,
       "name": "Birds Eye",
-      "products": 38
-    },
-    {
-      "median_regular_price": 2.24,
-      "name": "Purina",
       "products": 38
     },
     {
@@ -150,63 +145,68 @@
       "median_regular_price": 3.99,
       "name": "Arizona",
       "products": 37
+    },
+    {
+      "median_regular_price": 3.19,
+      "name": "Campbell's",
+      "products": 37
     }
   ],
   "category_summary": [
     {
       "median_regular_price": 3.79,
       "name": "Grocery",
-      "products": 2933
+      "products": 2911
     },
     {
       "median_regular_price": 4.79,
       "name": "Beverages",
-      "products": 1784
+      "products": 1763
     },
     {
-      "median_regular_price": 4.59,
+      "median_regular_price": 4.49,
       "name": "Meal Solutions",
-      "products": 1500
+      "products": 1494
     },
     {
       "median_regular_price": 6.49,
       "name": "Frozen",
-      "products": 1091
+      "products": 1096
     },
     {
       "median_regular_price": 4.79,
       "name": "Dairy",
-      "products": 1024
+      "products": 1021
     },
     {
       "median_regular_price": 4.79,
       "name": "Snacks & Sweets",
-      "products": 783
+      "products": 772
     },
     {
       "median_regular_price": 4.79,
       "name": "Health & Special Diets",
-      "products": 607
+      "products": 605
     },
     {
-      "median_regular_price": 6.09,
+      "median_regular_price": 5.99,
       "name": "Laundry & Cleaning",
-      "products": 430
+      "products": 429
     },
     {
       "median_regular_price": 3.99,
       "name": "Fresh Produce",
-      "products": 400
+      "products": 399
     },
     {
       "median_regular_price": 3.54,
       "name": "Beverages > Beverages > Soda Drinks",
-      "products": 341
+      "products": 332
     },
     {
-      "median_regular_price": 4.29,
+      "median_regular_price": 4.24,
       "name": "Grocery > Canned & Jarred Foods > Cooking Sauces & Salsas",
-      "products": 333
+      "products": 332
     },
     {
       "median_regular_price": 5.49,
@@ -216,27 +216,27 @@
     {
       "median_regular_price": 4.99,
       "name": "Bread & Bakery",
-      "products": 305
+      "products": 304
     },
     {
       "median_regular_price": 4.49,
       "name": "Beverages > Beverages > Refrigerated Drinks",
-      "products": 296
+      "products": 298
     },
     {
       "median_regular_price": 4.79,
       "name": "Home & Kitchen",
-      "products": 291
+      "products": 280
     },
     {
       "median_regular_price": 3.99,
       "name": "Grocery > Basic Products > Spices & Seasonings",
-      "products": 266
+      "products": 255
     },
     {
       "median_regular_price": 6.99,
       "name": "Deli",
-      "products": 250
+      "products": 249
     },
     {
       "median_regular_price": 4.99,
@@ -244,14 +244,14 @@
       "products": 216
     },
     {
-      "median_regular_price": 2.99,
+      "median_regular_price": 3.04,
       "name": "Beverages > Beverages > Water & Sparkling Water",
-      "products": 215
+      "products": 214
     },
     {
       "median_regular_price": 2.99,
       "name": "Meal Solutions > Create Your Own Salad > Something Extra",
-      "products": 203
+      "products": 200
     },
     {
       "median_regular_price": 6.49,
@@ -259,14 +259,14 @@
       "products": 188
     },
     {
-      "median_regular_price": 7.99,
-      "name": "Meat & Seafood",
-      "products": 186
-    },
-    {
       "median_regular_price": 5.74,
       "name": "Meal Solutions > Dinner Ideas > America's Favorites",
-      "products": 186
+      "products": 184
+    },
+    {
+      "median_regular_price": 7.99,
+      "name": "Meat & Seafood",
+      "products": 183
     },
     {
       "median_regular_price": 3.99,
@@ -274,19 +274,19 @@
       "products": 176
     },
     {
+      "median_regular_price": 5.19,
+      "name": "Personal Care & Baby",
+      "products": 170
+    },
+    {
       "median_regular_price": 3.99,
       "name": "Dairy > Refrigerated > Refrigerated Juice",
-      "products": 166
+      "products": 168
     },
     {
       "median_regular_price": 3.99,
       "name": "Health & Special Diets > Beverages > Refrigerated Juices",
-      "products": 166
-    },
-    {
-      "median_regular_price": 5.19,
-      "name": "Personal Care & Baby",
-      "products": 165
+      "products": 168
     },
     {
       "median_regular_price": 4.99,
@@ -294,31 +294,17 @@
       "products": 164
     },
     {
-      "median_regular_price": 7.49,
+      "median_regular_price": 7.24,
       "name": "Cold Cuts",
-      "products": 163
+      "products": 162
     },
     {
-      "median_regular_price": 5.29,
+      "median_regular_price": 5.09,
       "name": "Meal Solutions > Create Your Own Salad > Dressings",
-      "products": 163
+      "products": 159
     }
   ],
   "comparison_history": [
-    {
-      "additions": 295,
-      "anomalies": 0,
-      "assortment_churn_percentage": 12.891,
-      "from_date": "2026-07-24",
-      "matched_products": 8663,
-      "missing_products": 675,
-      "price_decreases": 3,
-      "price_increases": 6,
-      "prior_overlap_percentage": 92.771,
-      "returns": 312,
-      "to_date": "2026-07-27",
-      "unchanged_or_uncomparable_prices": 8654
-    },
     {
       "additions": 100,
       "anomalies": 0,
@@ -402,17 +388,23 @@
       "returns": 402,
       "to_date": "2026-08-05",
       "unchanged_or_uncomparable_prices": 8832
+    },
+    {
+      "additions": 48,
+      "anomalies": 0,
+      "assortment_churn_percentage": 5.171,
+      "from_date": "2026-08-05",
+      "matched_products": 9078,
+      "missing_products": 282,
+      "price_decreases": 5,
+      "price_increases": 10,
+      "prior_overlap_percentage": 96.987,
+      "returns": 165,
+      "to_date": "2026-08-06",
+      "unchanged_or_uncomparable_prices": 9063
     }
   ],
   "daily_history": [
-    {
-      "average_regular_price": 5.6,
-      "catalog_size": 9270,
-      "median_regular_price": 4.79,
-      "products_with_promotions": 830,
-      "snapshot_date": "2026-07-27",
-      "valid_price_percentage": 100.0
-    },
     {
       "average_regular_price": 5.59,
       "catalog_size": 9263,
@@ -460,10 +452,18 @@
       "products_with_promotions": 847,
       "snapshot_date": "2026-08-05",
       "valid_price_percentage": 100.0
+    },
+    {
+      "average_regular_price": 5.55,
+      "catalog_size": 9291,
+      "median_regular_price": 4.79,
+      "products_with_promotions": 853,
+      "snapshot_date": "2026-08-06",
+      "valid_price_percentage": 100.0
     }
   ],
-  "from_date": "2026-07-27",
-  "latest_catalog_size": 9360,
+  "from_date": "2026-07-28",
+  "latest_catalog_size": 9291,
   "median_catalog_size": 9328,
   "median_valid_price_percentage": 100.0,
   "methodology": {
@@ -472,203 +472,15 @@
     "missingness": "daily absence is preserved as a gap and is not treated as deletion or zero",
     "promotion_prices": "derived effective unit prices are labeled and never replace regular prices"
   },
-  "missing_products": 2952,
-  "price_decreases": 48,
-  "price_increases": 40,
+  "missing_products": 2559,
+  "price_decreases": 50,
+  "price_increases": 44,
   "report": "weekly",
-  "returns": 1938,
+  "returns": 1791,
   "schema_version": "1.0",
   "scope": "Gala Fresh Baldwin public online catalog; not asserted as physical shelf prices",
   "snapshot_days": 7,
   "snapshot_health_history": [
-    {
-      "adaptive_product_floor": 7027,
-      "bootstrap_url": "https://htmlcache.blob.core.windows.net/html-production-env/r-1165/desktop/multi-true/data.js?c=1785143183246",
-      "branch_id": 1329,
-      "discovered_category_nodes": 470,
-      "discovered_leaf_nodes": 373,
-      "discovered_visible_nodes": 470,
-      "duplicate_key_count": 0,
-      "elapsed_seconds": 603.006,
-      "errors": [],
-      "expected_products_from_api_totals": 12377,
-      "observed_at": "2026-07-27T09:17:13.002444Z",
-      "prior_overlap_percentage": 92.771,
-      "product_count_change_percentage": -0.728,
-      "promotions": 830,
-      "raw_product_records": 12377,
-      "requests": 151,
-      "retailer_id": 1165,
-      "retries": 0,
-      "robots_crawl_delay": 4.0,
-      "robots_sha256": "1765a8a0663a69b15439004a14253a9814b8034b6f94b458d01637ba3c06b534",
-      "rolling_14_day_median_products": 9370.5,
-      "root_coverage_mode": "visible_roots_with_descendants",
-      "schema_version": "1.0",
-      "snapshot_date": "2026-07-27",
-      "status": "healthy",
-      "successful_root_categories": [
-        "94381",
-        "93771",
-        "93783",
-        "98708",
-        "98741",
-        "93776",
-        "93781",
-        "93773",
-        "93785",
-        "93778",
-        "98754",
-        "93777",
-        "93784",
-        "93770",
-        "93780",
-        "93769",
-        "93779",
-        "93775",
-        "107581"
-      ],
-      "tree_id": "129",
-      "tree_index_timestamp": "2026-07-27T08:56:01.386Z",
-      "unique_products": 9270,
-      "valid_price_percentage": 100.0,
-      "visible_product_bearing_leaf_nodes": 373,
-      "visible_root_categories": [
-        {
-          "category_id": "94381",
-          "name": "Meal Solutions",
-          "path_names": [
-            "Meal Solutions"
-          ]
-        },
-        {
-          "category_id": "93771",
-          "name": "Fresh Produce",
-          "path_names": [
-            "Fresh Produce"
-          ]
-        },
-        {
-          "category_id": "93783",
-          "name": "Meat & Seafood",
-          "path_names": [
-            "Meat & Seafood"
-          ]
-        },
-        {
-          "category_id": "98708",
-          "name": "Fish & Shellfish",
-          "path_names": [
-            "Fish & Shellfish"
-          ]
-        },
-        {
-          "category_id": "98741",
-          "name": "Cold Cuts",
-          "path_names": [
-            "Cold Cuts"
-          ]
-        },
-        {
-          "category_id": "93776",
-          "name": "Dairy",
-          "path_names": [
-            "Dairy"
-          ]
-        },
-        {
-          "category_id": "93781",
-          "name": "Deli",
-          "path_names": [
-            "Deli"
-          ]
-        },
-        {
-          "category_id": "93773",
-          "name": "Bread & Bakery",
-          "path_names": [
-            "Bread & Bakery"
-          ]
-        },
-        {
-          "category_id": "93785",
-          "name": "Grocery",
-          "path_names": [
-            "Grocery"
-          ]
-        },
-        {
-          "category_id": "93778",
-          "name": "Cereal & Breakfast",
-          "path_names": [
-            "Cereal & Breakfast"
-          ]
-        },
-        {
-          "category_id": "98754",
-          "name": "Dried Fruits & Nuts",
-          "path_names": [
-            "Dried Fruits & Nuts"
-          ]
-        },
-        {
-          "category_id": "93777",
-          "name": "Health & Special Diets",
-          "path_names": [
-            "Health & Special Diets"
-          ]
-        },
-        {
-          "category_id": "93784",
-          "name": "Frozen",
-          "path_names": [
-            "Frozen"
-          ]
-        },
-        {
-          "category_id": "93770",
-          "name": "Beverages",
-          "path_names": [
-            "Beverages"
-          ]
-        },
-        {
-          "category_id": "93780",
-          "name": "Snacks & Sweets",
-          "path_names": [
-            "Snacks & Sweets"
-          ]
-        },
-        {
-          "category_id": "93769",
-          "name": "Personal Care & Baby",
-          "path_names": [
-            "Personal Care & Baby"
-          ]
-        },
-        {
-          "category_id": "93779",
-          "name": "Laundry & Cleaning",
-          "path_names": [
-            "Laundry & Cleaning"
-          ]
-        },
-        {
-          "category_id": "93775",
-          "name": "Home & Kitchen",
-          "path_names": [
-            "Home & Kitchen"
-          ]
-        },
-        {
-          "category_id": "107581",
-          "name": "Pet Store",
-          "path_names": [
-            "Pet Store"
-          ]
-        }
-      ]
-    },
     {
       "adaptive_product_floor": 7023,
       "bootstrap_url": "https://htmlcache.blob.core.windows.net/html-production-env/r-1165/desktop/multi-true/data.js?c=1785231270291",
@@ -1796,8 +1608,196 @@
           ]
         }
       ]
+    },
+    {
+      "adaptive_product_floor": 6999,
+      "bootstrap_url": "https://htmlcache.blob.core.windows.net/html-production-env/r-1165/desktop/multi-true/data.js?c=1786009100913",
+      "branch_id": 1329,
+      "discovered_category_nodes": 472,
+      "discovered_leaf_nodes": 375,
+      "discovered_visible_nodes": 472,
+      "duplicate_key_count": 0,
+      "elapsed_seconds": 601.951,
+      "errors": [],
+      "expected_products_from_api_totals": 12435,
+      "observed_at": "2026-08-06T13:48:18.202377Z",
+      "prior_overlap_percentage": 96.987,
+      "product_count_change_percentage": -0.737,
+      "promotions": 853,
+      "raw_product_records": 12435,
+      "requests": 151,
+      "retailer_id": 1165,
+      "retries": 0,
+      "robots_crawl_delay": 4.0,
+      "robots_sha256": "1765a8a0663a69b15439004a14253a9814b8034b6f94b458d01637ba3c06b534",
+      "rolling_14_day_median_products": 9333.0,
+      "root_coverage_mode": "visible_roots_with_descendants",
+      "schema_version": "1.0",
+      "snapshot_date": "2026-08-06",
+      "status": "healthy",
+      "successful_root_categories": [
+        "94381",
+        "93771",
+        "93783",
+        "98708",
+        "98741",
+        "93776",
+        "93781",
+        "93773",
+        "93785",
+        "93778",
+        "98754",
+        "93777",
+        "93784",
+        "93770",
+        "93780",
+        "93769",
+        "93779",
+        "93775",
+        "107581"
+      ],
+      "tree_id": "129",
+      "tree_index_timestamp": "2026-08-06T09:37:32.001Z",
+      "unique_products": 9291,
+      "valid_price_percentage": 100.0,
+      "visible_product_bearing_leaf_nodes": 375,
+      "visible_root_categories": [
+        {
+          "category_id": "94381",
+          "name": "Meal Solutions",
+          "path_names": [
+            "Meal Solutions"
+          ]
+        },
+        {
+          "category_id": "93771",
+          "name": "Fresh Produce",
+          "path_names": [
+            "Fresh Produce"
+          ]
+        },
+        {
+          "category_id": "93783",
+          "name": "Meat & Seafood",
+          "path_names": [
+            "Meat & Seafood"
+          ]
+        },
+        {
+          "category_id": "98708",
+          "name": "Fish & Shellfish",
+          "path_names": [
+            "Fish & Shellfish"
+          ]
+        },
+        {
+          "category_id": "98741",
+          "name": "Cold Cuts",
+          "path_names": [
+            "Cold Cuts"
+          ]
+        },
+        {
+          "category_id": "93776",
+          "name": "Dairy",
+          "path_names": [
+            "Dairy"
+          ]
+        },
+        {
+          "category_id": "93781",
+          "name": "Deli",
+          "path_names": [
+            "Deli"
+          ]
+        },
+        {
+          "category_id": "93773",
+          "name": "Bread & Bakery",
+          "path_names": [
+            "Bread & Bakery"
+          ]
+        },
+        {
+          "category_id": "93785",
+          "name": "Grocery",
+          "path_names": [
+            "Grocery"
+          ]
+        },
+        {
+          "category_id": "93778",
+          "name": "Cereal & Breakfast",
+          "path_names": [
+            "Cereal & Breakfast"
+          ]
+        },
+        {
+          "category_id": "98754",
+          "name": "Dried Fruits & Nuts",
+          "path_names": [
+            "Dried Fruits & Nuts"
+          ]
+        },
+        {
+          "category_id": "93777",
+          "name": "Health & Special Diets",
+          "path_names": [
+            "Health & Special Diets"
+          ]
+        },
+        {
+          "category_id": "93784",
+          "name": "Frozen",
+          "path_names": [
+            "Frozen"
+          ]
+        },
+        {
+          "category_id": "93770",
+          "name": "Beverages",
+          "path_names": [
+            "Beverages"
+          ]
+        },
+        {
+          "category_id": "93780",
+          "name": "Snacks & Sweets",
+          "path_names": [
+            "Snacks & Sweets"
+          ]
+        },
+        {
+          "category_id": "93769",
+          "name": "Personal Care & Baby",
+          "path_names": [
+            "Personal Care & Baby"
+          ]
+        },
+        {
+          "category_id": "93779",
+          "name": "Laundry & Cleaning",
+          "path_names": [
+            "Laundry & Cleaning"
+          ]
+        },
+        {
+          "category_id": "93775",
+          "name": "Home & Kitchen",
+          "path_names": [
+            "Home & Kitchen"
+          ]
+        },
+        {
+          "category_id": "107581",
+          "name": "Pet Store",
+          "path_names": [
+            "Pet Store"
+          ]
+        }
+      ]
     }
   ],
   "status": "comparison_available",
-  "to_date": "2026-08-05"
+  "to_date": "2026-08-06"
 }
